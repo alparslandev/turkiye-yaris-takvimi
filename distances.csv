@@ -1,0 +1,594 @@
+race_slug,label,distance_km,elevation_gain_m,itra_points,price,currency,gpx_url
+bodrun-ultra-maratonu,60K,60.0,,,,,https://www.bodrun.org/Assets/img/23894Bodrum 60K.gpx
+bodrun-ultra-maratonu,34K,34.0,,,,,https://www.bodrun.org/Assets/img/26405BodRUN  Herodot 34km.gpx
+bodrun-ultra-maratonu,22K,22.0,,,,,https://www.bodrun.org/Assets/img/20462BodRUN Leleg 22km.gpx
+bodrun-ultra-maratonu,10K,10.0,,,,,https://www.bodrun.org/Assets/img/27127BodRUN Halikarnas 10km.gpx
+bodrun-ultra-maratonu,5K,5.0,,,,,https://www.bodrun.org/Assets/img/24428BodRUN 5km .gpx
+iznik-ultra-maratonu,160K,165.1,4740,,,,
+iznik-ultra-maratonu,90K,88.1,2780,,,,
+iznik-ultra-maratonu,75K,76.6,1967,,,,
+iznik-ultra-maratonu,50K,49.0,1560,,,,
+iznik-ultra-maratonu,25K,24.5,340,,,,
+iznik-ultra-maratonu,14K,14.0,,,,,
+iznik-ultra-maratonu,5K,5.0,,,,,
+salomon-cesme-yari-maratonu,21K,21.1,188,,,,https://cesmeyarimaratonu.com/tr/events/download/1
+salomon-cesme-yari-maratonu,10K,10,91,,,,https://cesmeyarimaratonu.com/tr/events/download/4
+salomon-cesme-yari-maratonu,5K,5,35,,,,
+efeler-yolu-ultra-trail,100K,95.29,4416,4,,,https://www.efeleryoluultratrail.com/tr/events/download/17
+efeler-yolu-ultra-trail,80K,82.33,3689,4,,,https://www.efeleryoluultratrail.com/tr/events/download/4
+efeler-yolu-ultra-trail,50K,50,2745,3,,,https://www.efeleryoluultratrail.com/tr/events/download/5
+efeler-yolu-ultra-trail,30K,30,1375,2,,,https://www.efeleryoluultratrail.com/tr/events/download/6
+efeler-yolu-ultra-trail,15K,15,578,,,,https://www.efeleryoluultratrail.com/tr/events/download/15
+efeler-yolu-ultra-trail,5K,5,115,,,,https://www.efeleryoluultratrail.com/tr/events/download/16
+ultra-sumela,61K,61,1900,3,,,
+ultra-sumela,22K,22,1050,1,,,
+ultra-sumela,10K,10,400,,,,
+uludag-premium-ultra-trail,70K,73,3661,,,,https://uludagultra.com/Route2025/UPUT70K.gpx
+uludag-premium-ultra-trail,42K,44,2353,,,,https://uludagultra.com/Route2025/UPM42K.gpx
+uludag-premium-ultra-trail,30K,30,1510,,,,https://uludagultra.com/Route2025/UPE30K.gpx
+uludag-premium-ultra-trail,16K,16,500,,,,https://uludagultra.com/Route2025/UP16K.gpx
+uludag-premium-ultra-trail,6K,6,210,,,,https://uludagultra.com/Route2025/UP6K.gpx
+speedgoat-mountain-races-by-utmb,50K,50.0,3450,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_50k_Course_Only_fc9b371f42.gpx
+speedgoat-mountain-races-by-utmb,31K,31.0,2000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_30k_Course_Only_b43c6797ff.gpx
+speedgoat-mountain-races-by-utmb,10K,10.0,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760548004/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_10k_Course_Only_514d34c4df.gpx
+bucovina-ultra-rocks-by-utmb,114K,114,7000,,,,
+bucovina-ultra-rocks-by-utmb,72K,72,4600,,,,
+bucovina-ultra-rocks-by-utmb,48K,48,3200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1754572589/bucovina/Races/OFFICIAL%20RACE%20GPX/Lady_s_Rocks_48k_by_2026_d5d751fe79.gpx
+bucovina-ultra-rocks-by-utmb,33K,33,2000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1754762660/bucovina/Races/OFFICIAL%20RACE%20GPX/Rocky_33k_by_2026_3447b363e6.gpx
+bucovina-ultra-rocks-by-utmb,20K,20,1100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1754572589/bucovina/Races/OFFICIAL%20RACE%20GPX/Radical_21k_by_2026_4c71129285.gpx
+bucovina-ultra-rocks-by-utmb,16.5K,16.5,700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1757341940/bucovina/Races/OFFICIAL%20RACE%20GPX/Rumble_Rock_16k_new_26_2_63e6cb2dd5.gpx
+bucovina-ultra-rocks-by-utmb,5K,5,550,,,,
+evden-bi-kosu-iznik,10K,10.0,,,,,
+quito-trail-ecuador-by-utmb,76K,76,4400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784131122/quito/2026/Ruta/Finals/UTMB_QT_80_K_OSO_2026_ae3c1e96c7.gpx
+quito-trail-ecuador-by-utmb,53K,53,2800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784131118/quito/2026/Ruta/Finals/UTMB_QT_50_K_NUTRIA_2026_90ad7076ae.gpx
+quito-trail-ecuador-by-utmb,31K,31,1600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784131108/quito/2026/Ruta/Finals/UTMB_QT_30_K_TUCAN_2026_feddde7bd9.gpx
+quito-trail-ecuador-by-utmb,20K,20,1000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784131107/quito/2026/Ruta/Finals/UTMB_QT_20_K_QUINDE_2026_f4cb736764.gpx
+quito-trail-ecuador-by-utmb,13K,13,850,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784131103/quito/2026/Ruta/Finals/UTMB_QT_12_K_HUMBOLDT_2026_72f65700e2.gpx
+quito-trail-ecuador-by-utmb,6.5K,6.5,300,,,,
+gauja-trail-by-utmb,91K,91.0,2200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784816180/gauja/Final%20GPX%2023/Gauja_90k_2100_2307_d633c2dafa.gpx
+gauja-trail-by-utmb,53K,53.0,1200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784816179/gauja/Final%20GPX%2023/Gauja_53k_1200_2307_cd95df5ad7.gpx
+gauja-trail-by-utmb,21K,21.0,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784816179/gauja/Final%20GPX%2023/Gauja_21k_550_2307_e67dcba24d.gpx
+gauja-trail-by-utmb,13.5K,13.5,300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784816178/gauja/Final%20GPX%2023/Gauja_13k_300_2307_a53b0d23f1.gpx
+gauja-trail-by-utmb,6K,6.0,100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775240686/gauja/New%20Courses/Gauja_1_6k_30_0204_9a7f7121d5.gpx
+gauja-trail-by-utmb,1.6K,1.6,30,,,,
+konya-ultra-trail,74K,74,3146,,,,
+konya-ultra-trail,55K,55,2106,,,,
+konya-ultra-trail,30K,30,1382,,,,
+konya-ultra-trail,16K,16,646,,,,
+konya-ultra-trail,5K,5,148,,,,
+korfez-10k-kiraz-kosusu-ve-spor-festivali,10K,10,,,,,
+kat100-by-utmb,169K,169,9000,,,,
+kat100-by-utmb,75K,75,4100,,,,
+kat100-by-utmb,51K,51,3250,,,,
+kat100-by-utmb,24K,24,1650,,,,
+kat100-by-utmb,8K,8,250,,,,
+borealys-mont-tremblant-by-utmb,81K,81.0,4020,,,,
+borealys-mont-tremblant-by-utmb,46.4K,46.4,2612,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1785198357/borealys/Races/2026%20GPX/FINAUX/50k_Tremblante_24_07_2026_63985d5347.gpx
+borealys-mont-tremblant-by-utmb,26.6K,26.6,1645,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1785198355/borealys/Races/2026%20GPX/FINAUX/20k_25km_La_Diable_27_07_2026_dfec0d7202.gpx
+borealys-mont-tremblant-by-utmb,14.5K,14.5,896,,,,
+borealys-mont-tremblant-by-utmb,5.8K,5.8,379,,,,
+bogazici-triatlonu,Yaş Grubu Triatlon,52.2,,,,,
+ultra-abant,60K,60,,,,,
+ultra-abant,34K,34,,,,,
+ultra-abant,18K,18,,,,,
+ultra-abant,6K,6,,,,,
+eskisehir-yari-maratonu,21K,21,,,1000.0,TRY,
+eskisehir-yari-maratonu,10K,10,,,500.0,TRY,
+eskisehir-yari-maratonu,5K,5,,,,,
+runfire-salt-lake,100 Mil,160.9,,4,,,
+runfire-salt-lake,80K,80,,2,,,
+runfire-salt-lake,40K,40,,1,,,
+runfire-salt-lake,20K,20,,,,,
+runfire-salt-lake,15K,15,,,,,
+runfire-salt-lake,10K,10,,,,,
+ultra-trail-whistler-by-utmb,100K,100,5100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787129088/whistler/GPX%20FILES/2026/2026_UT_Whistler_100_K_Athlete_1040ee5430.gpx
+ultra-trail-whistler-by-utmb,50K,50,3200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776445313/whistler/GPX%20FILES/2026/2026_UT_Whistler_50_K_v1_60ef2dcbf6.gpx
+ultra-trail-whistler-by-utmb,12K,12.0,550,,,,
+davraz-sky-run,25K,25,,,,,
+davraz-sky-run,10K,10,,,,,
+bogazici-kitalararasi-yuzme-yarisi,6.5K,6.5,,,,,
+gomec-ataturk-yol-kosusu,10K,10,,,,,
+gran-fondo-baskent,Uzun Parkur,90.61,1237,,,,
+gran-fondo-baskent,Paralimpik,56.6,1096,,,,
+gran-fondo-baskent,Kısa Parkur,56.6,1096,,,,
+gran-fondo-baskent,Tandem,56.6,1096,,,,
+yesilay-yari-maratonu,10K,10,,,,,
+hoka-utmb-mont-blanc,174K,174.0,9900,,,,
+hoka-utmb-mont-blanc,145K,145.0,9500,,,,
+hoka-utmb-mont-blanc,101K,101.0,6050,,,,
+hoka-utmb-mont-blanc,60K,60.0,3500,,,,
+hoka-utmb-mont-blanc,40K,40.0,2350,,,,
+hoka-utmb-mont-blanc,15K,15.0,1200,,,,
+kocaeli-ultra-trail,50K,50.0,1583,2,1000.0,TRY,https://www.kocaeliultra.com/Kocaeli-ultra-2026-50K.zip#KOCAELÿ 50 K - GÜNCEL CP VE KM.gpx
+kocaeli-ultra-trail,15K,15.0,550,,1000.0,TRY,https://www.kocaeliultra.com/Kocaeli-ultra-2026-15K.zip#15 K CP- KM.gpx
+canakkale-bogazi-yuzme-yarismasi,6.5K,6.5,,,,,
+canakkale-bogazi-yuzme-yarismasi,Boğaz geçişi,4.5,,,,,
+sydney-maratonu,42K,42.0,313,,,,
+egrekkaya-ultra-trail,36K,36.0,,,3250.0,TRY,https://kizilcahamamegrekkayatrail.com/wp-content/uploads/2026/08/COURSE_499207958.gpx
+egrekkaya-ultra-trail,18K,18.0,,,2750.0,TRY,https://kizilcahamamegrekkayatrail.com/wp-content/uploads/2026/06/COURSE_455114768.gpx
+egrekkaya-ultra-trail,12K,12.0,,,2500.0,TRY,https://kizilcahamamegrekkayatrail.com/wp-content/uploads/2026/06/COURSE_454299432.gpx
+egrekkaya-ultra-trail,11K,11.0,,,2000.0,TRY,https://kizilcahamamegrekkayatrail.com/wp-content/uploads/2026/08/COURSE_509288573.gpx
+egrekkaya-ultra-trail,6K,6.0,,,2000.0,TRY,https://kizilcahamamegrekkayatrail.com/wp-content/uploads/2026/06/COURSE_455086904.gpx
+istanbul-ultra,60K,60.0,1380,,,,https://istanbulultra.com.tr/files/assets/rotalar/60k.gpx
+istanbul-ultra,30K,30.0,620,,,,https://istanbulultra.com.tr/files/assets/rotalar/30k.gpx
+istanbul-ultra,15K,15.0,280,,,,https://istanbulultra.com.tr/files/assets/rotalar/15k.gpx
+istanbul-ultra,5K,5.0,113,,,,https://istanbulultra.com.tr/files/assets/rotalar/5k.gpx
+edirne-yari-maratonu,21K,21.0,,,,,
+edirne-yari-maratonu,10K,10.0,,,,,
+summer-run-istanbul,21K,21.0975,,,1590.0,TRY,
+summer-run-istanbul,10K,10.0,,,1490.0,TRY,
+summer-run-istanbul,5K,5.0,,,1490.0,TRY,
+snowbasin-by-utmb,59K,59,1800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787162831/snowbasin/Races/GPS%20Files%202026/58_K_with_Aid_Stations_Snowbasin_by_UTMB_4ff7018c0d.gpx
+snowbasin-by-utmb,29K,29,800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787162765/snowbasin/Races/GPS%20Files%202026/28_K_with_Aid_Stations_Snowbasin_by_UTMB_ccd5713e1d.gpx
+wildstrubel-by-utmb,113K,113,6600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1757916709/wildstrubel/Races/Wild%20100M/GPX/WILD_110_K_officiel_79d0995203.gpx
+wildstrubel-by-utmb,72K,72,4600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779364686/wildstrubel/Races/Wild%20100K/GPX/WILD_70_K_officiel_06edfafe0d.gpx
+wildstrubel-by-utmb,55K,55,3300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1757916497/wildstrubel/Races/Wild%2050/GPX/WILD_50_K_officiel_e95a984618.gpx
+wildstrubel-by-utmb,42K,42,2700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772542294/wildstrubel/Races/Wild%20Glacier%20Marathon/Wild_Glacier_Marathon_Lenk_variante_Iffigensee_gpx_d46ec76263.gpx
+wildstrubel-by-utmb,26K,26,1200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1750081026/wildstrubel/Races/Wild%2023/GPX/2024_wild25k_officiel_c5f1f64b35.gpx
+wildstrubel-by-utmb,10K,10,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1762174216/wildstrubel/Races/Wild%2010/WILD_10_K_officiel_10d59d8a3a.gpx
+jd-ultra-trail-great-wall-by-utmb,100K,100.0,3800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789022848/dajingmen/2026%E8%BD%A8%E8%BF%B9%E6%96%87%E4%BB%B6/20260910%E7%BB%88%E7%89%88%E8%BD%A8%E8%BF%B9/2026_by_UTMB_DGW_100_K_82646491f8.gpx
+jd-ultra-trail-great-wall-by-utmb,68K,68.0,2600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789022845/dajingmen/2026%E8%BD%A8%E8%BF%B9%E6%96%87%E4%BB%B6/20260910%E7%BB%88%E7%89%88%E8%BD%A8%E8%BF%B9/2026_by_UTMB_CGW_70_K_f5838fe08b.gpx
+jd-ultra-trail-great-wall-by-utmb,52K,52.0,2100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789022845/dajingmen/2026%E8%BD%A8%E8%BF%B9%E6%96%87%E4%BB%B6/20260910%E7%BB%88%E7%89%88%E8%BD%A8%E8%BF%B9/2026_by_UTMB_MGW_50_K_1e5e4852e2.gpx
+jd-ultra-trail-great-wall-by-utmb,31K,31.0,1460,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789022844/dajingmen/2026%E8%BD%A8%E8%BF%B9%E6%96%87%E4%BB%B6/20260910%E7%BB%88%E7%89%88%E8%BD%A8%E8%BF%B9/2026_by_UTMB_NGW_20_K_0a349c89ec.gpx
+kackar-by-utmb,82K,82,5600,,155.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1786796223/kackar/2026%20Courses/v9/V9_100_K_2026_AUG_15_dc06e53e5b.gpx
+kackar-by-utmb,44K,44,3000,,115.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1786796222/kackar/2026%20Courses/v9/V9_50_K_2026_AUG_15_677036dbe8.gpx
+kackar-by-utmb,20K,20,1400,,65.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1763991811/kackar/2026%20Courses/kackar_20k_2026_51a82295a7.gpx
+kackar-by-utmb,4K,4,230,,25.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1782217157/kackar/2026%20Courses/ayder_4k_0cd1b10722.gpx
+malaysia-ultra-trail-by-utmb,100K,100,,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1763517927/malaysia/Races/2026%20GPX/2026_MY_100_9c968577c6.gpx
+malaysia-ultra-trail-by-utmb,50K,50,,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1740977416/malaysia/Races/MYKIDS_gpx_draft_2025_c58f54da86.gpx
+malaysia-ultra-trail-by-utmb,20K,20,,,,,
+1-amasra-cesm-i-cihan-kosusu,7K,7.0,,,1500.0,TRY,
+14-uluslararasi-9-eylul-izmir-yari-maratonu,21K,21.0,,,750.0,TRY,
+ayvalik-yari-maratonu,21K,21.0,,,2000.0,TRY,
+ayvalik-yari-maratonu,10K,10.0,,,2000.0,TRY,
+ayvalik-yari-maratonu,5K,5.0,,,1800.0,TRY,
+summer-run-bozcaada,10K,10.0,,,1300.0,TRY,
+summer-run-bozcaada,5K,5.0,,,1200.0,TRY,
+grindstone-trail-running-festival,167.4K,167.4,6400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1720466404/grindstone/GPX%20FILES/2024/2024_Grindstone_Trail_Running_Festival_by_UTMB_100_mile_Course_8ad01d6221.gpx
+grindstone-trail-running-festival,100K,100,3350,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1751337451/grindstone/GPX%20FILES/2025/2025_Grindstone_Trail_Running_Festival_by_UTMB_100k_Course_6ef83ab475.gpx
+grindstone-trail-running-festival,50K,50,1550,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1751337450/grindstone/GPX%20FILES/2025/2025_Grindstone_Trail_Running_Festival_by_UTMB_50k_Course_042ae10d1b.gpx
+grindstone-trail-running-festival,21K,21,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1751337450/grindstone/GPX%20FILES/2025/2025_Grindstone_Trail_Running_Festival_by_UTMB_21k_Course_b0e28947f3.gpx
+paraty-brazil-by-utmb,101K,101.0,4850,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788977202/paraty/GPX/2026/Paraty2026_100k_v50926_ff4ff136f4.gpx
+paraty-brazil-by-utmb,53K,53.0,3200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789087210/paraty/GPX/2026/UTMB_26_53k_atual_sem_tribo_indi_e5d0e096aa.gpx
+paraty-brazil-by-utmb,34K,34,1150,,825.0,BRL,https://res.cloudinary.com/utmb-world/raw/upload/v1757992365/paraty/2024/gpx%20set%2024/V2/UTMB_25_35k_2025_3ac6203900.gpx
+paraty-brazil-by-utmb,25K,25,750,,700.0,BRL,https://res.cloudinary.com/utmb-world/raw/upload/v1726228224/paraty/2024/gpx%20set%2024/V2/UTMB_24_25k_completo_agrofloresta_1_700f24c800.gpx
+paraty-brazil-by-utmb,17K,17,600,,505.0,BRL,https://res.cloudinary.com/utmb-world/raw/upload/v1769802676/paraty/GPX/Paraty_17k_600_d2adcdde16.gpx
+paraty-brazil-by-utmb,7K,7,50,,345.0,BRL,https://res.cloudinary.com/utmb-world/raw/upload/v1729477333/paraty/2025/GPX/v1/fun_7_1_7baac1030b.gpx
+julian-alps-trail-run-by-utmb,122K,122.0,5855,,259.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1786965965/julianalps/GPX%20FILES%20JULY%202026/JAT_120_km_2026_nova_1_f09c3d22fb.gpx
+julian-alps-trail-run-by-utmb,80K,80.0,3866,,199.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1785236252/julianalps/GPX%20FILES%20JULY%202026/JAT_80_km_2026_cee9f2bd1d.gpx
+julian-alps-trail-run-by-utmb,55K,55.0,2828,,145.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1788339155/julianalps/GPX%20FILES%20JULY%202026/JAT_50_km_2026_september_7a1d4b1f00.gpx
+julian-alps-trail-run-by-utmb,25K,25.0,1090,,94.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1785745472/julianalps/GPX%20FILES%20JULY%202026/new_JAT_25_km_2026_508871da5c.gpx
+julian-alps-trail-run-by-utmb,17K,17.0,583,,75.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1785236252/julianalps/GPX%20FILES%20JULY%202026/JAT_15_km_2026_df43308e84.gpx
+julian-alps-trail-run-by-utmb,11K,11.0,329,,69.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1788342876/julianalps/2026%20GPX%20FILES/SEPTEMBER%202026/JA_Tral_10_km_2026_5cf5530af4.gpx
+11-ultimate-cunda,12K,12.0,,,,,
+11-ultimate-cunda,7K,7.0,,,,,https://www.teamkronos.com/2024-7_km-ultimate_cunda.GPX
+6-uluslararasi-kayseri-yari-maratonu,21K,21.0,,,1000.0,TRY,
+6-uluslararasi-kayseri-yari-maratonu,10K,10.0,,,1000.0,TRY,
+anadolu-sigorta-bir-adim-daha,10K,10,,,,,
+anadolu-sigorta-bir-adim-daha,5K,5,,,,,
+letape-turkiye-istanbul,Uzun Parkur,105,1583,,,,
+letape-turkiye-istanbul,Kısa Parkur,52.4,836,,,,
+nice-cote-d-azur-by-utmb,165K,165.0,8900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1767772423/nice/Races/GPX/100_M_par_Venanson_et_baisse_Combe_V1_8310759dbf.gpx
+nice-cote-d-azur-by-utmb,109K,109.0,5400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1789048974/nice/Races/GPX/Nice_110k_5300_0909_efc9c683d1.gpx
+nice-cote-d-azur-by-utmb,50K,50.0,2000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781614404/nice/Races/GPX/50_K_emetteur_avelant_VF_a2f3f24fba.gpx
+nice-cote-d-azur-by-utmb,39K,39.0,1388,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779371914/nice/Races/GPX/39_K_levens_avec_tourrette_6a4201cc62.gpx
+nice-cote-d-azur-by-utmb,23K,23.0,680,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1751628715/nice/Races/GPX/20_K_SJCF_Nice_par_sentier_Villefranche_23_05_2025_90de52fa14.gpx
+ankara-botanik-backyard,6.7K,6.7,,,4000.0,TRY,
+gokova-yari-maratonu,21K,21.0,,,55.0,EUR,
+gokova-yari-maratonu,10K,10.0,,,48.0,EUR,
+gokova-yari-maratonu,5K,5.0,,,40.0,EUR,
+spartathlon,246K,246,,,,,
+berlin-maratonu,42K,42.0,,,,,https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/gpx/BMS25_Strecke_Skater.gpx
+buyukada-yari-maratonu,21K,21.0,,,1800.0,TRY,https://buyukadayarimaratonu.com/gpx/buyukadayarimaratonu2024_21k.gpx
+buyukada-yari-maratonu,10K,10.0,,,1800.0,TRY,https://buyukadayarimaratonu.com/gpx/buyukadayarimaratonu2024_10k.gpx
+buyukada-yari-maratonu,5K,5.0,,,1700.0,TRY,https://buyukadayarimaratonu.com/gpx/buyukadayarimaratonu2024_5k.gpx
+duzce-efteni-duatlonu,Yaş Grubu,26,,,1000.0,TRY,
+duzce-efteni-duatlonu,Genç (16-19 Yaş),26,,,1000.0,TRY,
+iskele-yari-maratonu,21K,21.0,,,1500.0,TRY,
+iskele-yari-maratonu,10K,10.0,,,1250.0,TRY,
+urla-da-biriz-sosyal-sorumluluk-kosusu,10K,10.0,,,,,
+urla-da-biriz-sosyal-sorumluluk-kosusu,5K,5.0,,,,,
+ekinoks-kosusu-antalya,10K,10.0,,,1750.0,TRY,
+chihuahua-by-utmb,118K,118.0,5600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788888583/chihuahua/118k_Chihuahua_5600_0709_b91e38af23.gpx
+chihuahua-by-utmb,93K,93.0,4700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788887490/chihuahua/93k_Chihuahua_4700_0809_219bd7bd61.gpx
+chihuahua-by-utmb,58K,58.0,2500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788883936/chihuahua/58k_Chihuahua_2500_0809_ed5dda4ddf.gpx
+chihuahua-by-utmb,39K,39.0,1700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788881216/chihuahua/39k_Chihuahua_1700_0809_ff8ef0fa1d.gpx
+chihuahua-by-utmb,21K,21.0,700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788880854/chihuahua/21k_Chihuahua_700_2908_b72f026c7c.gpx
+chihuahua-by-utmb,9K,9.0,200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788822775/chihuahua/9k_Chihuahua_200_2908_e733dc3656.gpx
+transjeju-by-utmb,148K,148.0,5000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760423600/transjeju/2025_Trans_Jeju_150_K_1014_b63f3f65b9.gpx
+transjeju-by-utmb,104K,104.0,4000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760371650/transjeju/Races/25_100_K_c04a03216a.gpx
+transjeju-by-utmb,60K,60.0,1400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760371838/transjeju/Races/2025_70_1012_2732b2a1f4.gpx
+transjeju-by-utmb,20K,20.0,508,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1757991035/transjeju/Races/2025_Trans_Jeju_by_UTMB_20_K_0916_44548e77b1.gpx
+15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi,100K,100.0,,,750.0,TRY,
+beypazari-ultra-trail,52K,52.0,,,,,https://www.beypazariultra.org/gpx-dosyalari/KelebeklerVadisi52K-Beypazarı_Ultra_Trail.gpx
+beypazari-ultra-trail,39K,39.0,,,,,https://www.beypazariultra.org/gpx-dosyalari/inozu39K-Beypazarı_Ultra_Trail.gpx
+beypazari-ultra-trail,19K,19.0,,,,,https://www.beypazariultra.org/gpx-dosyalari/Lagania19K-Beypazarı_Ultra_Trail.gpx
+beypazari-ultra-trail,8K,8.0,,,,,https://www.beypazariultra.org/gpx-dosyalari/Hanlaroonu8K-Beypazari_Ultra_Trail.gpx
+dogus-holding-nigde-yari-maratonu,21K,21.0,,,600.0,TRY,https://www.nigdeyarimaratonu.com/tr/events/download/1
+dogus-holding-nigde-yari-maratonu,10K,10.0,56,,400.0,TRY,https://www.nigdeyarimaratonu.com/tr/events/download/4
+dogus-holding-nigde-yari-maratonu,5K,5.0,56,,200.0,TRY,https://www.nigdeyarimaratonu.com/tr/events/download/7
+bodrum-yari-maratonu,21K,21.0,,,,,
+bodrum-yari-maratonu,10K,10.0,,,,,
+bodrum-yari-maratonu,5K,5.0,,,,,
+eker-i-run-yol-kosusu,42K,42.0,,,2420.0,TRY,
+eker-i-run-yol-kosusu,15K,15.0,,,1815.0,TRY,
+eker-i-run-yol-kosusu,5K,5.0,,,1815.0,TRY,
+istanbul-u-kosuyorum-avrupa-etabi-yenikapi,10K,10.0,24,,,,
+sinop-egitim-vakfi-sinop-yari-maratonu,21K,21.0,,,1200.0,TRY,
+sinop-egitim-vakfi-sinop-yari-maratonu,10K,10.0,,,1200.0,TRY,
+sinop-egitim-vakfi-sinop-yari-maratonu,5K,5.0,,,1000.0,TRY,
+hoka-kodiak-ultra-marathons-by-utmb,99K,99,3120,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1759504412/kodiak/2025/GPX%20Files/2025_Kodiak_Ultra_Marathons_by_UTMB_100k_Course_Only_V2_a457b90baf.gpx
+hoka-kodiak-ultra-marathons-by-utmb,48.4K,48.4,1339,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1759505693/kodiak/2025/GPX%20Files/2025_Kodiak_Ultra_Marathons_by_UTMB_50k_Course_efe17b539d.gpx
+hoka-kodiak-ultra-marathons-by-utmb,10.5K,10.5,280,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1759603513/kodiak/2025/GPX%20Files/2025_Kodiak_Ultra_Marathons_by_UTMB_10k_Course_3862dac95e.gpx
+forest-trail,22K,22.0,,,3750.0,TRY,
+kyzikos-ultra,65K,65,2084,,100.0,EUR,https://www.kyzikosultra.com/wp-content/uploads/2026/06/Kyzkos-Ultra-Maratonu-65K.gpx
+kyzikos-ultra,35K,35,939,,80.0,EUR,https://www.kyzikosultra.com/wp-content/uploads/2026/06/Kyzkos-35K-Yarisi.gpx
+kyzikos-ultra,20K,20,446,,60.0,EUR,https://www.kyzikosultra.com/wp-content/uploads/2026/04/Kyzkos-22K-Yarisi-.gpx
+kyzikos-ultra,10K,10,38,,55.0,EUR,https://www.kyzikosultra.com/wp-content/uploads/2026/04/Kyzikos-Ultra-10K.gpx
+kyzikos-ultra,Takım Yarışı 5K,5,,,50.0,EUR,
+kyzikos-ultra,5K,5,,,50.0,EUR,https://www.kyzikosultra.com/wp-content/uploads/2026/04/Kyzkos-5K-Yarisi-.gpx
+oludeniz-open-water,6K,6.0,,,,,
+oludeniz-open-water,4K,4.0,,,,,
+oludeniz-open-water,3K,3.0,,,,,
+oludeniz-open-water,2K,2.0,,,,,
+oludeniz-open-water,1K,1.0,,,,,
+anadolu-yari-maratonu,21K,21.0,,,1750.0,TRY,
+anadolu-yari-maratonu,10K,10.0,,,1500.0,TRY,
+chicago-maratonu,42K,42.0,,,,,
+cumhurbaskanligi-yari-maratonu,21K,21.0,,,750.0,TRY,
+cumhurbaskanligi-yari-maratonu,10K,10.0,,,750.0,TRY,
+cumhurbaskanligi-yari-maratonu,5K,5.0,,,750.0,TRY,
+girne-yari-maratonu,21 KM Yarı Maraton,21.0975,,,2125.0,TRY,
+girne-yari-maratonu,10 KM Koşusu,10,,,1600.0,TRY,
+girne-yari-maratonu,5 KM Koşusu,5,,,850.0,TRY,
+girne-yari-maratonu,3 KM Halk Koşusu,3,,,300.0,TRY,
+girne-yari-maratonu,1 KM Çocuk Koşusu,1,,,0.0,TRY,
+yalova-gran-fondo,82K,82.0,,,,,https://www.sporlayalova.com/api/rota/5ecce1c3-1518-4cd3-856e-d9b0e98c1441/gpx
+yalova-gran-fondo,58K,58,865,,,,https://www.sporlayalova.com/api/rota/9088202d-13a2-4835-ad08-90c4c577adfa/gpx
+yalova-gran-fondo,55K,55.0,,,,,
+taurus-mountain-race,1400K,1400.0,,,,,
+cappadocia-ultra-trail,119K,119.0,3730,3,,,https://cappadociaultratrail.com/tr/events/download/4
+cappadocia-ultra-trail,63K,63.0,2030,3,,,https://cappadociaultratrail.com/tr/events/download/5
+cappadocia-ultra-trail,38K,38.0,1120,3,,,https://cappadociaultratrail.com/tr/events/download/6
+cappadocia-ultra-trail,14K,14.0,308,2,,,https://cappadociaultratrail.com/tr/events/download/18
+ultra-trail-mount-yun-by-utmb,97K,97.0,4300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786696186/mount-yun/GPX/2026%20GPX/%E8%BD%A8%E8%BF%B90814/DMY_100_K_c7467625f5.gpx
+ultra-trail-mount-yun-by-utmb,48K,48.0,2400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786696186/mount-yun/GPX/2026%20GPX/%E8%BD%A8%E8%BF%B90814/MMY_50_K_21530e07ed.gpx
+ultra-trail-mount-yun-by-utmb,22K,22.0,1300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787102858/mount-yun/GPX/2026%20GPX/%E8%BD%A8%E8%BF%B90814/2025_EMY_20_K0114_CP_c134b1828e.gpx
+2-uluslar-arasi-ordu-yari-maratonu,21K,21.0,,,1000.0,TRY,
+2-uluslar-arasi-ordu-yari-maratonu,10K,10.0,,,200.0,TRY,
+amsterdam-maratonu,42K,42.0,,,,,
+bosphorun-quarter-marathon-bebek,10.5K,10.5,,,,,
+uluslararasi-corlu-yari-maratonu,21K,21.0,,,600.0,TRY,
+uluslararasi-corlu-yari-maratonu,10K,10.0,,,600.0,TRY,
+yalova-yuruyen-kosk-kosusu,10K,10.0,,,900.0,TRY,
+puglia-by-utmb,145K,145.0,3500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788784964/puglia/100_M_Puglia_2026_2_10e5be38e3.gpx
+puglia-by-utmb,85K,85.0,2000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786532282/puglia/100k_Puglia_2026_501bcc7259.gpx
+puglia-by-utmb,50K,50.0,1000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786532277/puglia/50k_Puglia_2026_a7295efb21.gpx
+puglia-by-utmb,35K,35.0,350,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786532275/puglia/20k_Puglia_2026_5e859fd315.gpx
+puglia-by-utmb,10K,10.0,50,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1786532274/puglia/10k_Puglia_2026_1_cb63170b3c.gpx
+alanya-triatlonu-turkiye-kupasi-finali-yas-grubu-standart-mesafe,Standart (Olimpik),51.5,,,,,
+aquachallenge-marmaris,10K,10.0,,,,,
+aquachallenge-marmaris,5K,5.0,,,,,
+aquachallenge-marmaris,3K,3.0,,,,,
+aquachallenge-marmaris,2K,2.0,,,,,
+aquachallenge-marmaris,1K,1.0,,,,,
+heliz-kas-yari-maratonu,21K,21.0,,,,,
+heliz-kas-yari-maratonu,12K,12.0,,,,,
+heliz-kas-yari-maratonu,5K,5.0,,,,,
+17-uluslararasi-zeytinburnu-cumhuriyet-kosusu,10K,10.0,,,300.0,TRY,
+ankara-zaman-kosusu,1 Saat,,,,2000.0,TRY,
+ankara-zaman-kosusu,6 Saat,,,,2750.0,TRY,
+ankara-zaman-kosusu,2 Saat,,,,2250.0,TRY,
+ankara-zaman-kosusu,4 Saat,,,,2500.0,TRY,
+caddebostan-cumhuriyet-kosusu,10K,10,,,,,
+frankfurt-maratonu,42K,42.0,,,,,
+lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu,21K,21.0,,,400.0,TRY,https://lykosyarimaratonu.com/gpxtcxdata/Lykos_Half_Marathon_21K_Run_Course.gpx
+lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu,10K,10.0,,,400.0,TRY,https://lykosyarimaratonu.com/gpxtcxdata/Lykos_Half_Marathon_10K_Run_Course.gpx
+lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu,5K,5.0,,,0.0,TRY,https://lykosyarimaratonu.com/gpxtcxdata/Lykos_Half_Marathon_5K_Run_Course.gpx
+tarsus-yari-maratonu,21K,21.0,,,,,https://www.mbbspor.org/downloads/a11de581367d45beaf1bad01ab50abc3
+veloturk-gran-fondo-cesme,91K,91.0,1025,,,,https://granfondocesme.com/tr/events/download/1
+veloturk-gran-fondo-cesme,67K,67.0,787,,,,https://granfondocesme.com/tr/events/download/4
+veloturk-gran-fondo-cesme,41K,41.0,382,,,,https://granfondocesme.com/tr/events/download/5
+aquachallenge-gocek,10K,10.0,,,,,
+ahulex-tm1000,1000K,1003,,,7250.0,TRY,
+ahulex-tm1000,500K,496,5520,,5500.0,TRY,
+ahulex-tm1000,250K,247,2256,,3250.0,TRY,
+kullamannen-by-utmb,173K,173.0,2300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761590529/kullamannen/GPX%202024/Final_Kullamannen_2025_100_M_v16_5578ac8b21.gpx
+kullamannen-by-utmb,108K,108.0,749,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761590529/kullamannen/GPX%202024/Final_Kullamannen_2025_100km_v4_827f4d1af1.gpx
+kullamannen-by-utmb,53K,53.0,727,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761590528/kullamannen/GPX%202024/Final_Kullamannen_2025_50km_v4_16c334a819.gpx
+kullamannen-by-utmb,22K,22.0,96,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761590532/kullamannen/GPX%202024/Final_Kullamannen_2025_20km_v11_44a8a1e709.gpx
+mallorca-by-utmb,138K,138.0,5350,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1758093232/mallorca/RECORREGUTS%20DEFINITIUS/REC2025/100_M_ESTELLENCS_SDT_v3_47e378f05d.gpx
+mallorca-by-utmb,104K,104.0,3740,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1758093181/mallorca/RECORREGUTS%20DEFINITIUS/REC2025/100_K_ESTELLENCS_CPS_v3_1060b4403c.gpx
+mallorca-by-utmb,56K,56.0,2450,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1746008234/mallorca/RECORREGUTS%20DEFINITIUS/REC2025/50_K_tres_mils_sortida_Selva_dc618eed24.gpx
+mallorca-by-utmb,26K,26.0,1000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1730553418/mallorca/RECORREGUTS%20DEFINITIUS/UTMB_20_K_CDA_V5_0499062109.gpx
+fethiye-ultra,50K,50.0,,,,,
+fethiye-ultra,25K,25.0,,,2250.0,TRY,
+fethiye-ultra,10K,10.0,,,2000.0,TRY,
+fethiye-ultra,4 Saat,,,,2500.0,TRY,
+fethiye-ultra,6 Saat,,,,2750.0,TRY,
+ironman-70-3,70.3,113.1,,,,,
+istanbul-maratonu,42K,42.0,,,,,
+istanbul-maratonu,15K,15.0,,,,,
+new-york-maratonu,42K,42.0,,,,,
+ultra-trail-shudao-by-utmb,104K,104.0,3800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787022668/shudao/%E8%BD%A8%E8%BF%B9/20260818%E8%BD%A8%E8%BF%B9/20260818_c6e3f6a95d.gpx
+ultra-trail-shudao-by-utmb,70.5K,70.5,3100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1780626874/shudao/%E8%BD%A8%E8%BF%B9/20260605%E8%BD%A8%E8%BF%B9%E6%9B%B4%E6%96%B0/CSD_8745ec56c6.gpx
+ultra-trail-shudao-by-utmb,42K,42.0,1900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772504982/shudao/%E8%BD%A8%E8%BF%B9/clean_gpx/Shudao_42k_1900_849ce2d8ee.gpx
+ultra-trail-shudao-by-utmb,21.5K,21.5,900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772504981/shudao/%E8%BD%A8%E8%BF%B9/clean_gpx/Shudao_22k_900_c8a925d2cc.gpx
+varda-ultra-trail,62K,62.0,,,,,https://www.vardaultratrail.com/wp-content/uploads/2025/10/Varda-Ultra-62k-2025.gpx
+varda-ultra-trail,59K,59.0,2985,3,1900.0,TRY,https://www.vardaultratrail.com/wp-content/uploads/2025/10/Varda-Ultra-62k-2025.gpx
+varda-ultra-trail,27K,27.0,1050,1,1500.0,TRY,https://www.vardaultratrail.com/wp-content/uploads/2025/10/Train-27k-2025.gpx
+varda-ultra-trail,14K,14.0,700,,1200.0,TRY,https://www.vardaultratrail.com/wp-content/uploads/2025/10/Bridge-14k-2025.gpx
+ata-dan-ana-ya-saygi-kosusu,4K,4.0,,,,,
+atina-maratonu,42K,42.0,,,,,
+cappadocia-marathon,Marathon,42.195,,,,,
+cappadocia-marathon,Half Marathon,21.0975,,,,,
+cappadocia-marathon,10K,10,,,,,
+fethiye-likyari-maratonu,21K,21.0,,,,,
+fethiye-likyari-maratonu,10K,10.0,,,,,
+uci-gran-fondo-antalya,105K,105,658,,,,https://ucigfantalya.com/storage/courses/gpx/01KRJZZJ3R8D5EA93JNGSC1SFN.gpx
+uci-gran-fondo-antalya,93K,93.0,,,,,
+uci-gran-fondo-antalya,73K,73,285,,,,https://ucigfantalya.com/storage/courses/gpx/01KVG269QD5JYNTE5XDYEFA42X.gpx
+uci-gran-fondo-antalya,60K,60.0,,,,,
+uci-gran-fondo-antalya,22K,22.0,,,,,
+uci-gran-fondo-antalya,20K Zamana Karşı,20,8,,,,
+antalya-canyon-ultra,70K Antalya Termessos Ultra,70,1935,3,4500.0,TRY,https://www.antalyacanyontrail.com/routes/act70-termessos-ultra.gpx
+antalya-canyon-ultra,45K Antalya Goat Ultra,45,1037,2,3750.0,TRY,https://www.antalyacanyontrail.com/routes/act45-canyon-ultra.gpx
+antalya-canyon-ultra,33K Alageyik Trail,33,704,1,3350.0,TRY,https://www.antalyacanyontrail.com/routes/act30-alageyik-parkuru.gpx
+antalya-canyon-ultra,13K Güver Cliff Trail,13,100,,2450.0,TRY,https://www.antalyacanyontrail.com/routes/act12-guver-cliff-trail.gpx
+antalya-canyon-ultra,7K My Pace Run,7,38,,1850.0,TRY,https://www.antalyacanyontrail.com/routes/act05-pace-run.gpx
+hoka-pacific-trails-california-by-utmb,51K,51.0,1550,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1752079190/pacifictrails/2025/GPX/2025_Pacific_Trails_California_by_UTMB_50k_Course_Only_e506a06723.gpx
+hoka-pacific-trails-california-by-utmb,25K,25.0,650,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1752079221/pacifictrails/2025/GPX/2025_Pacific_Trails_California_by_UTMB_25k_Course_876c9ebeda.gpx
+translantau-by-utmb,104K,104.0,4500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775921428/translantau/Races/TL%202026/TL_104k_4600_1004_2de34f807b.gpx
+translantau-by-utmb,45K,45.0,2500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775787207/translantau/Races/TL%202026/TL_45k_2500_4b40c17acb.gpx
+translantau-by-utmb,27K,27.0,1100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1774020140/translantau/Races/TL%202026/TL_27k_1100_19_03_1_e0185671d2.gpx
+translantau-by-utmb,15K,15.0,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1774020140/translantau/Races/TL%202026/TL_15k_550_19_03_1_538a1a8a29.gpx
+latmos-ultra,45K,45.0,2161,,100.0,EUR,https://www.latmosultra.org/wp-content/uploads/2026/04/Latmos-Ultra-42-km-Kasim-2024-1.gpx
+latmos-ultra,26K,26.0,1378,,85.0,EUR,https://www.latmosultra.org/wp-content/uploads/2026/04/Latmos-Ultra-26-km-2024.gpx
+latmos-ultra,17K,17.0,1313,,70.0,EUR,https://www.latmosultra.org/wp-content/uploads/2026/04/LST17K-2.gpx
+latmos-ultra,8K,8.0,77,,50.0,EUR,https://www.latmosultra.org/wp-content/uploads/2026/04/Latmos-Ultra-10km-1-1.gpx
+sagalassos-sky-ultra,Sky Marathon,42.3,2095,2,4000.0,TRY,
+sagalassos-sky-ultra,Sky Race,26.9,1360,1,3500.0,TRY,
+sagalassos-sky-ultra,Trail Run,17.4,530,,2250.0,TRY,
+sagalassos-sky-ultra,Fun Run,5.2,30,,1750.0,TRY,
+sagalassos-sky-ultra,Vertical Kilometre,4.95,1075,,2000.0,TRY,
+sagalassos-sky-ultra,Kids Run,2,10,,750.0,TRY,
+antalya-zaman-kosusu,6 Saat,,,,2750.0,TRY,
+antalya-zaman-kosusu,2 Saat,,,,2250.0,TRY,
+antalya-zaman-kosusu,1 Saat,,,,2000.0,TRY,
+antalya-zaman-kosusu,4 Saat,,,,2500.0,TRY,
+oyak-65-yil-ankara-kosusu,10K,10,,,900.0,TRY,
+oyak-65-yil-ankara-kosusu,5K,5,,,900.0,TRY,
+soli-10k,10K,10.0,,,,,
+patagonia-bariloche-by-utmb,132K,132.0,6516,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761398705/bariloche/BARILOCHE%202025/DISTANCIAS/GPX/FFFF_130k_Bariloche_by_UTMB_a4fb584874.gpx
+patagonia-bariloche-by-utmb,86K,86.0,4725,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761398703/bariloche/BARILOCHE%202025/DISTANCIAS/GPX/FFFF_80k_Bariloche_by_UTMB_c7ec151da6.gpx
+patagonia-bariloche-by-utmb,57.5K,57.5,3000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1763496352/bariloche/55_K_BARILOCHE_BY_UTMB_FINAL_6be0fffb62.gpx
+patagonia-bariloche-by-utmb,36K,36.0,1421,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761398695/bariloche/BARILOCHE%202025/DISTANCIAS/GPX/FFFF_33k_Bariloche_by_UTMB_53bd9f7315.gpx
+patagonia-bariloche-by-utmb,22K,22.0,800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761400001/bariloche/BARILOCHE%202025/DISTANCIAS/GPX/FFFF_22k_Bariloche_by_UTMB_c48d40144e.gpx
+patagonia-bariloche-by-utmb,12.7K,12.7,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1761398688/bariloche/BARILOCHE%202025/DISTANCIAS/GPX/FFFF_12k_Bariloche_by_UTMB_60aae4cf32.gpx
+catalkaya-ultra-trail,74K,74.0,3300,2,5100.0,TRY,https://catalkayaultra.com/gpx/sabir-yolu.gpx
+catalkaya-ultra-trail,45K,45.0,2200,,4300.0,TRY,https://catalkayaultra.com/gpx/yukselis-yolu.gpx
+catalkaya-ultra-trail,29K,29.0,1600,,3900.0,TRY,https://catalkayaultra.com/gpx/komando-yolu.gpx
+catalkaya-ultra-trail,13K,13.0,,,2800.0,TRY,https://catalkayaultra.com/gpx/agamemnon-yolu.gpx
+catalkaya-ultra-trail,5K,5.0,300,,2000.0,TRY,https://catalkayaultra.com/gpx/yesil-yol.gpx
+8-gazi-yari-maratonu,21K,21.0,,,750.0,TRY,
+8-gazi-yari-maratonu,10K,10.0,,,750.0,TRY,
+cenedag-ultra-trail,57K,57.0,,,,,https://www.cenedagultratrail.org/gpx-dosyalari/cenedag-ultra-trail-57K.gpx
+cenedag-ultra-trail,21K,21.0,,,,,https://www.cenedagultratrail.org/gpx-dosyalari/cenedag-medium-trail-21k.gpx
+cenedag-ultra-trail,14K,14.0,,,,,https://www.cenedagultratrail.org/gpx-dosyalari/cenedag-short-trail-14k.gpx
+cenedag-ultra-trail,8K,8.0,,,,,https://www.cenedagultratrail.org/gpx-dosyalari/cinarlidere-parkuru-8k.gpx
+dragos,10K,10.0,,,1500.0,TRY,
+dragos,5K,5.0,,,1500.0,TRY,
+kesifrun-nilufer,10K,10.0,,,1500.0,TRY,
+ultra-trail-kosciuszko-by-utmb,161K,161.0,5131,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783553059/kosciuszko/Races/2026%20Race%20Alignment%20GPX/2026_UTK_by_UTMB_Miler_RACE_ALINGMENT_08072026_03898b768f.gpx
+ultra-trail-kosciuszko-by-utmb,106K,106.0,3260,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783554711/kosciuszko/Races/2026%20Race%20Alignment%20GPX/2026_UTK_by_UTMB_100km_RACE_ALIGNMENT_09072026_f15f109e5d.gpx
+ultra-trail-kosciuszko-by-utmb,50K,50.0,1400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783556404/kosciuszko/Races/2026%20Race%20Alignment%20GPX/2026_UTK_by_UTMB_50km_RACE_ALIGNMENT_09072026_a8765fcd51.gpx
+ultra-trail-kosciuszko-by-utmb,32K,32.0,670,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783557248/kosciuszko/Races/2026%20Race%20Alignment%20GPX/2026_UTK_by_UTMB_30km_RACE_ALINGMENT_09072026_44163a3c0b.gpx
+hoka-chiang-mai-thailand-by-utmb,173K,173.0,9800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288165/thailand/GPX/2026/Chiang_Mai_Chiang_Dao_173k_9900_2206_2f1dab9569.gpx
+hoka-chiang-mai-thailand-by-utmb,100K,100.0,5500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288163/thailand/GPX/2026/Chiang_Mai_Elephant_100k_5500_2206_cdfde7b1c2.gpx
+hoka-chiang-mai-thailand-by-utmb,63K,63.0,3000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288161/thailand/GPX/2026/Chiang_Mai_Hmong_63k_2900_2206_c1fabce471.gpx
+hoka-chiang-mai-thailand-by-utmb,57K,57.0,3600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288158/thailand/GPX/2026/Chiang_Mai_Pagoda_57k_3600_2206_c433448f35.gpx
+hoka-chiang-mai-thailand-by-utmb,26K,26.0,1100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288158/thailand/GPX/2026/Chiang_Mai_Suthep_26k_1100_2206_7e4cbbca2f.gpx
+hoka-chiang-mai-thailand-by-utmb,20K,20.0,800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288157/thailand/GPX/2026/Chiang_Mai_Inthanon_20k_800_2206_8b621cb3ba.gpx
+hoka-chiang-mai-thailand-by-utmb,17K,17.0,700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782288157/thailand/GPX/2026/Chiang_Mai_Chedi_17k_700_2206_f68a13b4b2.gpx
+hoka-chiang-mai-thailand-by-utmb,5K,5.0,240,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1762924684/thailand/GPX/2025/WUR_Inthanon_Stations_5d0c49860f.gpx
+hoka-chiang-mai-thailand-by-utmb,3K,3.0,100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1762924684/thailand/GPX/2025/WUR_PAO_Park_Stations_0a9783b0d3.gpx
+kar-spor-ida-ultra,İda Ultra,105,4113,4,,,https://media.dalamanhalfmarathon.com/media/uploads/105K%20%C4%B0da%20Ultra.gpx
+kar-spor-ida-ultra,Hades,66,2450,3,,,https://media.dalamanhalfmarathon.com/media/uploads/66K%20Hades.gpx
+kar-spor-ida-ultra,Zeus,44,1560,2,,,https://media.dalamanhalfmarathon.com/media/uploads/44K%20Zeus.gpx
+kar-spor-ida-ultra,Poseidon,29,,,,,https://media.dalamanhalfmarathon.com/media/uploads/29K%20Poseidon.gpx
+geyik-kosulari,28K,28.0,,,600.0,TRY,
+geyik-kosulari,14K,14.0,,,600.0,TRY,
+geyik-kosulari,8K,8.0,,,600.0,TRY,
+geyik-kosulari,6K,6.0,,,,,
+geyik-kosulari,4K,4.0,,,600.0,TRY,
+st-nicholas-half-marathon,21K,21.0,,,,,
+st-nicholas-half-marathon,12K,12.0,,,,,
+st-nicholas-half-marathon,5K,5.0,,,,,
+valencia-maratonu,42K,42.0,,,,,
+oman-by-utmb,154K,154.0,8000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788856897/oman/Races/GPX%20Files/100_M_2026_GPX_5245f320b3.gpx
+oman-by-utmb,103K,103.0,5000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788856890/oman/Races/GPX%20Files/100_K_2026_GPX_74f704cf8f.gpx
+oman-by-utmb,50K,50.0,2400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788856891/oman/Races/GPX%20Files/50_K_2026_GPX_a39986b4ea.gpx
+oman-by-utmb,32K,32.0,1400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788856891/oman/Races/GPX%20Files/30_K_2026_GPX_039fb78565.gpx
+oman-by-utmb,21.5K,21.5,550,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788856889/oman/Races/GPX%20Files/20_K_2026_GPX_676d1cb7a6.gpx
+uluslararasi-mersin-maratonu,42K,42.0,,,,,
+antalya-ultra,85K,85.0,,,55.0,EUR,
+antalya-ultra,57K,57.0,2714,,130.0,EUR,https://www.antalyaultra.org/wp-content/uploads/2026/04/57K.gpx
+antalya-ultra,33K,33.0,1247,,100.0,EUR,https://www.antalyaultra.org/wp-content/uploads/2026/04/Antalya-Ultra-maratonu-Antalya-Geyikbayiri-Trail-33K.gpx
+antalya-ultra,22K,22.0,316,,90.0,EUR,https://www.antalyaultra.org/wp-content/uploads/2026/04/Antalya-Ultra-Maratonu-Antalya-Trail-22K-1.gpx
+antalya-ultra,12K,12.0,,,60.0,EUR,https://www.antalyaultra.org/wp-content/uploads/2026/04/Antalya-Ultra-Maratonu-Konyaalti-Race-12K.gpx
+antalya-ultra,5K,5.0,,,55.0,EUR,https://www.antalyaultra.org/wp-content/uploads/2026/04/Antalya-Ultra-maratonu-Konyaalti-Short-Race-5K-1.gpx
+buyuk-ataturk-kosusu,10K,10.0,,,500.0,TRY,
+vietnam-highlands-trail-by-utmb,104.2K,104.2,5533,,231.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1777864023/vietnamhighlands/GPX/100_UTMB_2403_1_8766e7c778.gpx
+vietnam-highlands-trail-by-utmb,56.4K,56.4,2946,,130.9,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1777864020/vietnamhighlands/GPX/50_UTMB_2403_1_df22f11ce2.gpx
+vietnam-highlands-trail-by-utmb,24.1K,24.1,1113,,94.6,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1777383189/vietnamhighlands/Races/GPS%20FIles%202026/20k_f50a2a194c.gpx
+vietnam-highlands-trail-by-utmb,11.3K,11.3,486,,71.5,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1777383185/vietnamhighlands/Races/GPS%20FIles%202026/10k_15aa6dd47c.gpx
+arc-of-attrition-by-utmb,173K,173.0,5507,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782991552/arcofattrition/Races/2027%20GPX%20files%20-%20July/AOA_2027_Arc_100_M_v3_425d91b7fb.gpx
+arc-of-attrition-by-utmb,82.7K,82.7,2708,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782991549/arcofattrition/Races/2027%20GPX%20files%20-%20July/AOA_2027_Arc_100_K_v2_1246f09b0b.gpx
+arc-of-attrition-by-utmb,49.4K,49.4,1458,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782991549/arcofattrition/Races/2027%20GPX%20files%20-%20July/AOA_2027_Arc_50_K_v4_8902b11958.gpx
+arc-of-attrition-by-utmb,22.1K,22.1,744,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782991548/arcofattrition/Races/2027%20GPX%20files%20-%20July/AOA_2027_Arc_20_K_v5_92f9610d2e.gpx
+tarawera-ultra-trail-by-utmb,163K,163.0,3800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1769550545/tarawera/Races/2026_Tarawera_Ultra_Trail_160km_V5_52f24e574e.gpx
+tarawera-ultra-trail-by-utmb,102K,102.0,2300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1769551549/tarawera/Races/2026_Tarawera_Ultra_Trail_102km_V6_5835fdbbe0.gpx
+tarawera-ultra-trail-by-utmb,52K,52.0,1150,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1737668995/tarawera/Races/2025_Tarawera_Ultra_Trail_50km_v4_1acbe37c06.gpx
+tarawera-ultra-trail-by-utmb,23K,23.0,400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1737671119/tarawera/Races/2025_Tarawera_Ultra_Trail_21km_v3_0b9893faaa.gpx
+tarawera-ultra-trail-by-utmb,14K,14.0,161,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1750648967/tarawera/Races/2026_Tarawera_Ultra_Trail_14km_v2_534c7791ce.gpx
+puerto-vallarta-by-utmb,81K,81.0,3900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776006096/puerto-vallarta/PV_80k_3900_1204_0c3ee3772a.gpx
+puerto-vallarta-by-utmb,53K,53.0,2500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772218201/puerto-vallarta/PV_53k_2500_b2ae203dca.gpx
+puerto-vallarta-by-utmb,37K,37.0,1600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1753746928/puerto-vallarta/GPX/puerto_vallarta_37k_1600_2026_1cec7ed914.gpx
+puerto-vallarta-by-utmb,20K,20.0,1050,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772493604/puerto-vallarta/PV_20k_1050_0ece807fac.gpx
+puerto-vallarta-by-utmb,5K,5.0,200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1753748461/puerto-vallarta/GPX/puerto_vallarta_5k_200_2026_ba1641f401.gpx
+xtrail-by-utmb,98K,98.0,3291,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779934971/xtrail/2027%20%E5%BB%BA%E7%BD%AE/GPX/%E7%B8%BD%E9%83%A8%E6%8F%90%E4%BE%9B/Kenting_98k_3300_2605_2ebd00856a.gpx
+xtrail-by-utmb,50K,50.0,1496,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779934969/xtrail/2027%20%E5%BB%BA%E7%BD%AE/GPX/%E7%B8%BD%E9%83%A8%E6%8F%90%E4%BE%9B/Kenting_51k_1500_2605_d3096953a5.gpx
+xtrail-by-utmb,26K,26.0,589,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779934966/xtrail/2027%20%E5%BB%BA%E7%BD%AE/GPX/%E7%B8%BD%E9%83%A8%E6%8F%90%E4%BE%9B/Kenting_26k_600_2605_4a7645b980.gpx
+xtrail-by-utmb,11K,11.0,201,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779934965/xtrail/2027%20%E5%BB%BA%E7%BD%AE/GPX/%E7%B8%BD%E9%83%A8%E6%8F%90%E4%BE%9B/Kenting_11k_300_2605_0553286663.gpx
+xtrail-by-utmb,2K,2.0,10,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782460067/xtrail/2027%20%E5%BB%BA%E7%BD%AE/GPX/Xtrail_2_K_2_Kids_ba5ed259dd.gpx
+tokyo-maratonu,42K,42.0,,,,,
+chianti-ultra-trail-by-utmb,123K,123.0,5200,,,,
+chianti-ultra-trail-by-utmb,73K,73.0,3000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777382308/chianti/Races/gpx%20files/2027/CUT_73_K_2027_a4e001e60a.gpx
+chianti-ultra-trail-by-utmb,46K,46.0,1650,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777382306/chianti/Races/gpx%20files/2027/CMT_46_K_2027_08117c4b23.gpx
+chianti-ultra-trail-by-utmb,20K,20.0,920,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777382304/chianti/Races/gpx%20files/2027/CHT_20_K_2027_5ead6459d8.gpx
+chianti-ultra-trail-by-utmb,10K,10.0,400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1772526039/chianti/Races/gpx%20files/CWR_10_K_2026_0c96df8a12.gpx
+alanya-ultra-trail,90K,90.0,4500,,7150.0,TRY,https://alanyaultratrail.com/GPX/alanya-ut-2027-90.gpx
+alanya-ultra-trail,70K Taurus Trail,70,3490,,5850.0,TRY,https://alanyaultratrail.com/GPX/tt-70k.gpx
+alanya-ultra-trail,50K Keykubat Trail,50,2413,,4550.0,TRY,https://alanyaultratrail.com/GPX/kt-50k.gpx
+alanya-ultra-trail,32K Cleopatra Trail,32,1516,,3900.0,TRY,https://alanyaultratrail.com/GPX/ct-32k.gpx
+alanya-ultra-trail,14K Alaiye Trail,14,771,,3250.0,TRY,https://alanyaultratrail.com/GPX/at-14k.gpx
+alanya-ultra-trail,5K Castle Run,6.2,,,1950.0,TRY,https://alanyaultratrail.com/GPX/cr-5k.gpx
+efes-ultra-maratonu,Ephesus Ultra Trail 120K,120,,,,,http://www.efesultra.org/27-Km.gpx
+efes-ultra-maratonu,Ephesus Medium Trail 61K,61,,,,,http://www.efesultra.org/61KM.....GPX
+efes-ultra-maratonu,Ephesus Short Trail 42K,42,,,,,
+efes-ultra-maratonu,Virgin Mary Trail 27K,27,,,,,
+efes-ultra-maratonu,Artemis Trail 12K,12,,,,,
+efes-ultra-maratonu,ST Jean Race 6K,6,,,,,https://www.efesultra.org/wp-admin/Ephesus-Ultra-6KM.gpx
+ephesus-ultra-maratonu,61K,61.0,,,3390.0,TRY,http://www.efesultra.org/61KM.....GPX
+ephesus-ultra-maratonu,42K,42.0,,,3090.0,TRY,
+ephesus-ultra-maratonu,27K,27.0,,,2690.0,TRY,
+ephesus-ultra-maratonu,12K,12.0,,,2190.0,TRY,
+ephesus-ultra-maratonu,6K,6.0,,,1790.0,TRY,https://www.efesultra.org/wp-admin/Ephesus-Ultra-6KM.gpx
+ephesus-ultra-maratonu,120,,,,4490.0,TRY,https://www.efesultra.org/wp-content/uploads/2026/04/Ephesus-120KM-2026-1.gpx
+istria-100-by-utmb,168K,168.0,6800,,303.75,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1781524089/istria/.gpx/ISTRIA_168k_2027_85dcf7c2ad.gpx
+istria-100-by-utmb,111K,111.0,4200,,258.75,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1781524088/istria/.gpx/ISTRIA_111k_2027_43ca9de8f1.gpx
+istria-100-by-utmb,69.6K,69.6,2400,,157.5,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1781524084/istria/.gpx/ISTRIA_69k_2027_f18764744b.gpx
+istria-100-by-utmb,42K,42.0,1000,,140.63,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1781524083/istria/.gpx/ISTRIA_42k_2027_86917b64ad.gpx
+istria-100-by-utmb,21.5K,21.5,157,,90.0,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1781524082/istria/.gpx/ISTRIA_21k_2027_c07fc2ccdb.gpx
+jujuy-los-andes-by-utmb,87.2K,87.2,5101,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685072/jujuy/Races/85_K_JUJUY_BY_UTMB_08c6701df8.gpx
+jujuy-los-andes-by-utmb,50.3K,50.3,2754,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685063/jujuy/Races/50_K_JUJUY_BY_UTMB_64e07198af.gpx
+jujuy-los-andes-by-utmb,34K,34.0,1826,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685061/jujuy/Races/33_K_JUJUY_BY_UTMB_9cc772f908.gpx
+jujuy-los-andes-by-utmb,21.3K,21.3,884,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685057/jujuy/Races/21_K_JUJUY_BY_UTMB_7f995e0357.gpx
+jujuy-los-andes-by-utmb,11.9K,11.9,723,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685053/jujuy/Races/12_K_JUJUY_BY_UTMB_e6fb4c77ac.gpx
+jujuy-los-andes-by-utmb,4.5K,4.5,175,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787685048/jujuy/Races/5_K_JUJUY_BY_UTMB_f0c84fee2a.gpx
+desert-rats-trail-running-festival-by-utmb,100K,100.0,2050,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1737677621/desertrats/GPX%20Files/2025/2025_Desert_Rats_Trail_Running_Festival_by_UTMB_100k_Course_4e624a1649.gpx
+desert-rats-trail-running-festival-by-utmb,48K,48.0,1050,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1738281026/desertrats/GPX%20Files/2025/2025_Desert_Rats_Trail_Running_Festival_by_UTMB_50k_Course_8e95c5c5e7.gpx
+desert-rats-trail-running-festival-by-utmb,21K,21.0,700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1737738182/desertrats/GPX%20Files/2025/2025_Desert_Rats_Trail_Running_Festival_by_UTMB_21k_Course_Only_563bdce3bd.gpx
+desert-rats-trail-running-festival-by-utmb,9K,9.0,200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1737738197/desertrats/GPX%20Files/2025/2025_Desert_Rats_Trail_Running_Festival_by_UTMB_10k_Course_Only_fa0b1d3867.gpx
+tenerife-bluetrail-by-utmb,110K,110.0,6250,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1740506141/tenerife/Races/TRACKS/Bluetrail_2025_Ultra_Cristianos_6c1ed2238c.gpx
+tenerife-bluetrail-by-utmb,82K,82.0,3300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779958614/tenerife/2027_TBT_VILAFLOR_82km_3300m_15dda65079.gpx
+tenerife-bluetrail-by-utmb,68K,68.0,3600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779958611/tenerife/2027_TBT_LA_ESPERANZA_68km_3600m_d784b08256.gpx
+tenerife-bluetrail-by-utmb,47K,47.0,2600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1740509728/tenerife/Races/TRACKS/Bluetrail_2025_47km_2c035af117.gpx
+tenerife-bluetrail-by-utmb,24K,24.0,1300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1740509883/tenerife/Races/TRACKS/Bluetrail_2025_24k_465413524b.gpx
+tenerife-bluetrail-by-utmb,6.5K,6.5,850,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778238144/tenerife/Races/TRACKS/VERTICAL_2027_40e2515f8a.gpx
+paris-maratonu,42K,42.0,,,,,
+boston-maratonu,42K,42.0,,,,,
+the-canyons-endurance-runs-by-utmb,161K,161.0,5550,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776808245/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_100_mile_Course_Alternate_3b179d0806.gpx
+the-canyons-endurance-runs-by-utmb,100K,100.0,3750,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776808248/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_100k_Course_Alternate_877686b0ca.gpx
+the-canyons-endurance-runs-by-utmb,50K,50.0,1700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1773624467/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_50k_Course_6c7ab292d4.gpx
+the-canyons-endurance-runs-by-utmb,25K,25.0,850,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1773624467/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_25k_Course_70ca09a814.gpx
+grand-raid-ventoux-by-utmb,125K,125.0,5700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775829137/ventoux/Races/2026/100_M_GRV_26_v6_62916c4aac.gpx
+grand-raid-ventoux-by-utmb,87K,87.0,4200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775829134/ventoux/Races/2026/100_K_GRV_26_v6_02a026d758.gpx
+grand-raid-ventoux-by-utmb,51K,51.0,2500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775829134/ventoux/Races/2026/50_K_GRV_26_v6_d9bc3f59ce.gpx
+grand-raid-ventoux-by-utmb,26K,26.0,1100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775829134/ventoux/Races/2026/20_K_GRV_26_v6_b38f5b4346.gpx
+londra-maratonu,42K,42.0,,,,,
+oh-meu-deus-by-utmb,167K,167.0,8900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777644883/ohmeudeus/Races/OMD_167k_9100_0105_399023b95b.gpx
+oh-meu-deus-by-utmb,94K,94.0,5300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775147874/ohmeudeus/Races/OMD_94k_5400_0204_d0c535622f.gpx
+oh-meu-deus-by-utmb,52K,52.0,2900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1775147614/ohmeudeus/Races/OMD_52k_2800_0204_a6cb6c140f.gpx
+oh-meu-deus-by-utmb,22K,22.0,1000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1774258215/ohmeudeus/Races/OMD_22k_1000_19_03_052015d7db.gpx
+tahtali-run-to-sky,43K,43.0,,,,,https://media.dalamanhalfmarathon.com/media/uploads/1838_ozntah4rw_Phaselis-RUn.gpx
+tahtali-run-to-sky,27K,27.0,,,,,https://media.dalamanhalfmarathon.com/media/uploads/27K-RuntoSky.gpx
+tahtali-run-to-sky,11K,11.0,,,,,https://media.dalamanhalfmarathon.com/media/uploads/Viking%20Hotels%2012K.gpx
+hoka-ultra-trail-australia-by-utmb,161.1K,161.1,7200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776329883/uta/Races/2026%20RACE%20ALIGNMENTS/uta_miller2026_cleaned_livetrail_958e6dd375.gpx
+hoka-ultra-trail-australia-by-utmb,101K,101.0,4400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776334050/uta/Races/2026%20RACE%20ALIGNMENTS/uta_100k_cleaned_livetrail_f81c7a5085.gpx
+hoka-ultra-trail-australia-by-utmb,51K,51.0,2400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776334307/uta/Races/2026%20RACE%20ALIGNMENTS/uta_50k_2026_cleaned_livetrail_6951f682ea.gpx
+hoka-ultra-trail-australia-by-utmb,22K,22.0,1200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776334469/uta/Races/2026%20RACE%20ALIGNMENTS/uta_22_K_2026_cleaned_livetrail_18887fee5e.gpx
+hoka-ultra-trail-australia-by-utmb,11.4K,11.4,731,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776334764/uta/Races/2026%20RACE%20ALIGNMENTS/uta_11_K_2026_cleaned_livetrail_079859a74e.gpx
+hoka-ultra-trail-australia-by-utmb,1K,1.0,25,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777329289/uta/Races/2026%20RACE%20ALIGNMENTS%20v2/2026_UTA_by_UTMB_1km_for_Kids_RACE_ALIGNMENT_10092025_8d0fac8766.gpx
+trail-alsace-by-utmb,158K,158.0,5100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778483103/alsacegrandest/GPX%202026/2026_tage_utdc_v17_113abf93d4.gpx
+trail-alsace-by-utmb,108K,108.0,3900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778484702/alsacegrandest/GPX%202026/2026_tage_utdp_v8_b4e9e02420.gpx
+trail-alsace-by-utmb,47K,47.0,1600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777041241/alsacegrandest/GPX%202026/2026_tage_tdc_v5_9bb7e62bdb.gpx
+trail-alsace-by-utmb,29K,29.0,800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777041241/alsacegrandest/GPX%202026/2026_tage_tdp_v4_bed5e9165d.gpx
+trail-alsace-by-utmb,18K,18.0,250,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777041241/alsacegrandest/GPX%202026/2026_tage_rdp_v2_c90992388c.gpx
+trail-alsace-by-utmb,10.5K,10.5,400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1785257060/alsacegrandest/GPX%202026/trail_des_ecuyers_2027_1912ad4ad5.gpx
+rothrock-by-utmb,53.3K,53.3,1550,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777794897/rothrock/2026/GPX%20Files/Rothrock_50_K_2026_v_LT_d98aa1dbd0.gpx
+rothrock-by-utmb,26.9K,26.9,1188,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777794748/rothrock/2026/GPX%20Files/Rothrock_25_K_2026_v_LT_1f1406dc97.gpx
+run-caretta-run,24K,24,,,,,https://runcarettarun.com/wp-content/uploads/2026/07/24K_RCR_FINAL-1.gpx
+run-caretta-run,10K,10,,,,,https://runcarettarun.com/wp-content/uploads/2026/07/10K-yeni-1.gpx
+run-caretta-run,5K,5,15,,,,https://runcarettarun.com/wp-content/uploads/2026/07/5K-yeni-parkur-1.gpx
+mountain-ultra-trail-by-utmb,168K,168.0,8014,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777656020/mut/GPX%20files/2026%20GPX/MILER_2026_1_8db284754b.gpx
+mountain-ultra-trail-by-utmb,100K,100.0,4717,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777636844/mut/GPX%20files/2026%20GPX/100_KM_2026_ffa7c0daa2.gpx
+mountain-ultra-trail-by-utmb,58K,58.0,3005,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777636844/mut/GPX%20files/2026%20GPX/60_KM_2026_e4c3d54196.gpx
+mountain-ultra-trail-by-utmb,43K,43.0,2312,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777636842/mut/GPX%20files/2026%20GPX/MARATHON_2026_b21c733bdf.gpx
+mountain-ultra-trail-by-utmb,25K,25.0,1043,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777636840/mut/GPX%20files/2026%20GPX/CHALLENGE_2026_e100be67b3.gpx
+mountain-ultra-trail-by-utmb,11.9K,11.9,312,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777636840/mut/GPX%20files/2026%20GPX/LITE_2026_e037180eb9.gpx
+mozart-100-by-utmb,119K,119.0,6000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778920147/mozart/mozart%20100%202026/GPX%20files%202026/mozart100_2026_mozart100_NEW_20260516_d1a5f7ec90.gpx
+mozart-100-by-utmb,84K,84.0,4800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783931886/mozart/mozart%20100%202026/GPX%20files%202026/mozart100_2027_Ultra_Schafberg_ohne_Illinger_1ab9c50943.gpx
+mozart-100-by-utmb,44K,44.0,1600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778920146/mozart/mozart%20100%202026/GPX%20files%202026/mozart100_2026_Marathon_NEW_20260516_f6e6931863.gpx
+mozart-100-by-utmb,28K,28.0,1100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778920145/mozart/mozart%20100%202026/GPX%20files%202026/mozart100_2026_Halfmarathon_NEW_20260516_07a8eb4c07.gpx
+mozart-100-by-utmb,12K,12.0,200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1778920145/mozart/mozart%20100%202026/GPX%20files%202026/mozart100_2026_Laketrail_NEW_20260516_af67985840.gpx
+trail-100-andorra-by-utmb,105K,105.0,6800,,315.1,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1780912062/andorra/Gpx/GPX%202026/105_K_2024_Parc_Central_BO_2914c10629.gpx
+trail-100-andorra-by-utmb,79K,79.0,3900,,265.47,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1780912058/andorra/Gpx/GPX%202026/Trail_100_Andorra_80_K_62b2393950.gpx
+trail-100-andorra-by-utmb,50K,50.0,3400,,188.13,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1780912057/andorra/Gpx/GPX%202026/50k_UTMB_Andorra_211305a8da.gpx
+trail-100-andorra-by-utmb,24.9K,24.9,1350,,143.12,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1780912060/andorra/Gpx/GPX%202026/25k_2026_per_segudet_i_amb_Final_Bo_9273a6bbba.gpx
+trail-100-andorra-by-utmb,10K,10.0,500,,71.56,EUR,https://res.cloudinary.com/utmb-world/raw/upload/v1780912051/andorra/Gpx/GPX%202026/Trail10_K_2026_1036d84143.gpx
+zugspitz-ultra-trail-by-utmb,167K,167.0,8205,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776698004/zugspitz/Races/ZUT100/ZUT_100_2026_Start_Ga_Pa_5bcee57cdf.gpx
+zugspitz-ultra-trail-by-utmb,107K,107.0,5280,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760105332/zugspitz/Races/Ultratrail/Ultratrail_ZUT_2025_3b6cbaa510.gpx
+zugspitz-ultra-trail-by-utmb,86K,86.0,4295,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760107415/zugspitz/Races/Ehrwald%20Trail/Ehrwald_Trail_ZUT_2025_85a841b963.gpx
+zugspitz-ultra-trail-by-utmb,68.5K,68.5,3100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760108381/zugspitz/Races/Leutasch%20Trail/Leutasch_Trail_ZUT_2025_620e36ae36.gpx
+zugspitz-ultra-trail-by-utmb,44K,44.0,2110,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760108403/zugspitz/Races/Mittenwald%20Trail/Mittenwald_Trail_ZUT_2025_fa6c0d4010.gpx
+zugspitz-ultra-trail-by-utmb,29K,29.0,1565,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1760108337/zugspitz/Races/Garmisch-Partenkirchen%20Trail/Garmisch_Partenkirchen_Trail_ZUT_2025_1d59df01ee.gpx
+zugspitz-ultra-trail-by-utmb,16K,16.0,760,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1776698038/zugspitz/Races/Grainau%20Trail/Grainau_Trail_ZUT_2026_new_Start_8579d96b05.gpx
+trail-du-saint-jacques-by-utmb,140K,140.0,6000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781161290/saint-jacques/Pages/tsj26_ultra_24222650_1780232751_282_1_24c06d9c9d.gpx
+trail-du-saint-jacques-by-utmb,88K,88.0,3600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781161290/saint-jacques/Pages/tsj26_tsj_22152133_1780235229_385_1_8687725e33.gpx
+trail-du-saint-jacques-by-utmb,55K,55.0,2100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781161290/saint-jacques/Pages/tsj26_monistrail_22157283_1780235238_766_284f9bbd62.gpx
+trail-du-saint-jacques-by-utmb,28K,28.0,750,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781161290/saint-jacques/Pages/tsj26_chibottes_rando_22805975_1780235248_442_1_cf5f61964d.gpx
+trail-du-saint-jacques-by-utmb,12K,12.0,200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1781161289/saint-jacques/Pages/tsj26_douze_22157668_1780235242_448_28aa724caa.gpx
+la-sportiva-lavaredo-ultra-trail-by-utmb,120K,120.0,5800,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782387012/lavaredo/files/2026/LUT_20_Madre_2026_6_2025_2065s_20pul_89a81f913b.gpx
+la-sportiva-lavaredo-ultra-trail-by-utmb,80K,80.0,4600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1729968924/lavaredo/files/2025/Lavaredo80_K_2025_Val_Marzon_Cortina_8000eae9e2.gpx
+la-sportiva-lavaredo-ultra-trail-by-utmb,50K,50.0,2600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1699116332/lavaredo/files/2024/Lavaredo50_K_6b9b57cbde.gpx
+la-sportiva-lavaredo-ultra-trail-by-utmb,20K,20.0,1000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1719163172/lavaredo/files/2024/LUT_20k_variante_2024_de2a531f04.gpx
+la-sportiva-lavaredo-ultra-trail-by-utmb,10K,10.0,300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1750610477/lavaredo/files/2025/Lavaredo_10_K_2025_m_22_6_25_67b83acbb3.gpx
+torrencial-chile-by-utmb,101K,101.0,4100,,183.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1788471557/torrencial/Races/GPX%20Files/Torrencial%202027/Tor_101k_4100_1808_b492400379.gpx
+torrencial-chile-by-utmb,65K,65.0,2600,,146.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1788471553/torrencial/Races/GPX%20Files/Torrencial%202027/Tor_65k_2600_1808_ce3b92e4ce.gpx
+torrencial-chile-by-utmb,45K,45.0,1600,,101.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1788727431/torrencial/Races/GPX%20Files/Torrencial%202027/TVT_2027_44k_ff17870b3e.gpx
+torrencial-chile-by-utmb,20K,20.0,800,,82.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1788726819/torrencial/Races/GPX%20Files/Torrencial%202027/TVT_2027_21k_e8a0b420e5.gpx
+torrencial-chile-by-utmb,12K,12.0,400,,55.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1728675520/torrencial/Races/GPX%20Files/Torrencial%202025/12k_torrencial_9b64ac410c.gpx
+torrencial-chile-by-utmb,6.5K,6.5,200,,35.0,USD,https://res.cloudinary.com/utmb-world/raw/upload/v1728675519/torrencial/Races/GPX%20Files/Torrencial%202025/6k_torrencial_e084d18def.gpx
+hoka-val-d-aran-by-utmb,163K,163.0,10000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1770724536/valdaran/Races/GPX2026/OFICIALES%202026/VDA_2026_WEB_COLOMERS_ea9d9ddf9e.gpx
+hoka-val-d-aran-by-utmb,110K,110.0,6400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1770724535/valdaran/Races/GPX2026/OFICIALES%202026/CDH_2026_COLOMERS_36aa55fb74.gpx
+hoka-val-d-aran-by-utmb,75K,75.0,5100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782631034/valdaran/Races/GPX%202026%20DEFINTIVOS%20EVENTO/NORMALES/TDL%20track%20mapa%20Web/TDL_WEB_V1_2_f4cb01c4fd.gpx
+hoka-val-d-aran-by-utmb,55K,55.0,3300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1770724536/valdaran/Races/GPX2026/OFICIALES%202026/PDA_2026_COLOMERS_ebd11f3b70.gpx
+hoka-val-d-aran-by-utmb,32K,32.0,2100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1770728342/valdaran/Races/GPX2026/OFICIALES%202026/EXP_2026_516aae67cc.gpx
+hoka-val-d-aran-by-utmb,18K,18.0,900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1756971164/valdaran/Races/GPX2026/SKY_2026_v0_65ebcf5dd8.gpx
+hoka-val-d-aran-by-utmb,10K,10.0,500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782645286/valdaran/Races/GPX%202026%20DEFINTIVOS%20EVENTO/NORMALES/VIELHA_10_K_2026_39f453409a.gpx
+restonica-trail-by-utmb,110K,110.0,7200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777838033/restonica/Races/GPX/UTC_2026_645f729353.gpx
+restonica-trail-by-utmb,69K,69.0,3950,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777753515/restonica/Races/GPX/RT_2026_fe9b8e0c48.gpx
+restonica-trail-by-utmb,33K,33.0,2400,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777148318/restonica/Races/GPX/TT_2026_b491853609.gpx
+restonica-trail-by-utmb,17K,17.0,650,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1777910969/restonica/Races/GPX/GT_2026_b891af5cc9.gpx
+trail-verbier-st-bernard-by-utmb,140K,140.0,9300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788272759/verbier/Races/GPX%202027/2027xalpine_eaf9308d89.gpx
+trail-verbier-st-bernard-by-utmb,77K,77.0,5300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1788272757/verbier/Races/GPX%202027/2027xtraversee_33107709f4.gpx
+trail-verbier-st-bernard-by-utmb,47K,47.0,2900,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787903110/verbier/Races/GPX%202027/2027_V_Marathon_2a7bb1d8a2.gpx
+trail-verbier-st-bernard-by-utmb,43K,43.0,3000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1787903097/verbier/Races/GPX%202027/2027marathon_X_Treme_0f12b87403.gpx
+eiger-ultra-trail-by-utmb,261K,261.0,18000,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783658442/eiger/Races/GPX%202026/eiger_ultra_trail_2026_e250_2026_23758642cc.gpx
+eiger-ultra-trail-by-utmb,101K,101.0,6700,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782804276/eiger/Races/GPX%202026/E101_2026_5258b44cf2.gpx
+eiger-ultra-trail-by-utmb,51K,51.0,3100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1783658437/eiger/Races/GPX%202026/E51_2026_5eba191d79.gpx
+eiger-ultra-trail-by-utmb,35K,35.0,2500,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1782804273/eiger/Races/GPX%202026/E35_2026_4be7247326.gpx
+eiger-ultra-trail-by-utmb,16K,16.0,950,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1697561588/eiger/Races/GPX%202024/E16_2024_2a605ace7d.gpx
+eiger-ultra-trail-by-utmb,15K,15.0,800,,,,
+monte-rosa-walserwaeg-by-utmb,120K,120.0,8200,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784039088/mrww/100m_2026_7cfb064644.gpx
+monte-rosa-walserwaeg-by-utmb,82K,82.0,6300,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1779697373/mrww/MRW_2026_100_K_22d59b22b6.gpx
+monte-rosa-walserwaeg-by-utmb,43K,43.0,3100,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784039996/mrww/WWT_50k_by_UTMB_dbcbe317ee.gpx
+monte-rosa-walserwaeg-by-utmb,35K,35.0,1800,,,,
+monte-rosa-walserwaeg-by-utmb,15K,15.0,650,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1784039070/mrww/20k_2026_b8183922a0.gpx
+monte-rosa-walserwaeg-by-utmb,9K,9.0,600,,,,https://res.cloudinary.com/utmb-world/raw/upload/v1770978779/mrww/Junior_Walser_Trail_v3_67a087f33d.gpx
+uludag-premium-ultra-trail-2027,70K,73,3661,,5900.0,TRY,https://uludagultra.com/Route2025/UPUT70K.gpx
+uludag-premium-ultra-trail-2027,42K,44,2353,,4490.0,TRY,https://uludagultra.com/Route2025/UPM42K.gpx
+uludag-premium-ultra-trail-2027,30K,30,1510,,4000.0,TRY,https://uludagultra.com/Route2025/UPE30K.gpx
+uludag-premium-ultra-trail-2027,16K,16,500,,3250.0,TRY,https://uludagultra.com/Route2025/UP16K.gpx
+uludag-premium-ultra-trail-2027,6K,6,210,,2000.0,TRY,https://uludagultra.com/Route2025/UP6K.gpx

@@ -1,0 +1,120 @@
+race_slug,edition_year,course_label,distance_km,event_date,starters,finishers,dnf,fastest_seconds,p50_seconds,p90_seconds
+alanya-ultra-trail,2022,ALAIYE SHORT TRAIL (17K),17.0,2022-04-02,187,185,2,6935,13379,17321
+alanya-ultra-trail,2022,KEYKUBAT MOUNTAIN RUN (28K),28.0,2022-04-02,173,171,2,9527,19913,24227
+alanya-ultra-trail,2022,MERRELL ALANYA ULTRA TRAIL (76K),76.0,2022-04-02,65,33,32,37388,48424,52558
+alanya-ultra-trail,2022,TAURUS MOUNTAIN MARATHON (48K),48.0,2022-04-02,115,107,8,18465,28778,35599
+alanya-ultra-trail,2026,ACR 5K,5.0,2026-03-28,148,145,3,2138,4117,6002
+alanya-ultra-trail,2026,AUT 68K,68.0,2026-03-28,83,70,13,31747,44112,51322
+alanya-ultra-trail,2026,CST 18K,18.0,2026-03-28,222,216,6,6139,11330,15000
+alanya-ultra-trail,2026,KMR 27K,27.0,2026-03-28,160,154,6,9250,16260,20512
+alanya-ultra-trail,2026,TMT 42K,42.0,2026-03-28,112,98,14,16696,28435,34212
+ayvalik-yari-maratonu,2023,10K,10.77,,170,164,6,2116,3610,4704
+ayvalik-yari-maratonu,2023,10K PARALİMPİK,10.77,,1,1,0,3290,3290,3290
+ayvalik-yari-maratonu,2023,21K,21.1,,99,98,1,4985,7224,8898
+ayvalik-yari-maratonu,2023,5K,5.0,,76,72,4,1198,2394,3239
+bodrum-yari-maratonu,2024,10K,10.0,,760,723,37,2130,3788,4792
+bodrum-yari-maratonu,2024,21K,21.0,,391,374,17,4228,7260,9031
+bodrum-yari-maratonu,2024,5K,5.0,,443,439,4,1066,2313,3078
+bodrum-yari-maratonu,2025,10K,10.0,2025-10-05,881,844,37,2022,3782,4782
+bodrum-yari-maratonu,2025,21K,21.1,2025-10-05,406,392,14,4606,7358,9208
+bodrum-yari-maratonu,2025,5K,5.0,2025-10-05,532,516,16,1016,2173,2971
+buyuk-ataturk-kosusu,2023,10K,8.85,,1291,1285,6,1446,2963,4022
+dogus-holding-nigde-yari-maratonu,2024,10K,10.0,,179,176,3,1908,3449,4634
+dogus-holding-nigde-yari-maratonu,2024,21K,21.1,,115,115,0,4335,6955,8989
+dogus-holding-nigde-yari-maratonu,2024,5K,5.0,,70,70,0,1064,2167,2883
+dogus-holding-nigde-yari-maratonu,2025,10K,10.0,,277,273,4,2159,3845,4992
+dogus-holding-nigde-yari-maratonu,2025,21K,21.1,,138,136,2,4399,6810,8829
+dogus-holding-nigde-yari-maratonu,2025,5K,5.0,,103,102,1,1216,2221,3035
+efeler-yolu-ultra-trail,2025,EY15,14.6,,60,59,1,3995,7254,9657
+efeler-yolu-ultra-trail,2025,EY5,4.9,,74,74,0,1458,2445,3824
+efeler-yolu-ultra-trail,2025,EYM - 50K,53.5,,29,28,1,22337,34887,42922
+efeler-yolu-ultra-trail,2025,EYS - 30K,33.4,,49,46,3,11039,19186,23487
+efeler-yolu-ultra-trail,2025,EYU - 80K,82.4,,22,16,6,40583,57699,64022
+efeler-yolu-ultra-trail,2026,EYUT15K,14.6,2026-05-16,85,85,0,3895,6794,9158
+efeler-yolu-ultra-trail,2026,EYUT30K,33.4,2026-05-16,28,28,0,13011,17292,20112
+efeler-yolu-ultra-trail,2026,EYUT50K,53.5,2026-05-16,34,31,3,23336,32679,39271
+efeler-yolu-ultra-trail,2026,EYUT5K,4.9,2026-05-16,48,45,3,1408,2524,3273
+kar-spor-ida-ultra,2024,IDA HALF ULTRA 66K,66.0,,89,85,4,23561,34775,42652
+kar-spor-ida-ultra,2024,IDA ULTRA 110K,109.8,,42,26,16,46456,56449,68164
+kar-spor-ida-ultra,2024,KÖY KOŞUSU 15K,15.5,,537,535,2,4074,7800,10147
+kar-spor-ida-ultra,2024,RUN ZEUS 36K,36.65,,336,311,25,10677,18005,22531
+kar-spor-ida-ultra,2024,SEKİZ BUÇUK 8.5K,8.5,,205,203,2,2236,4113,5763
+kyzikos-ultra,2024,20K Apostol,20.0,,348,342,6,5217,9182,13025
+kyzikos-ultra,2024,35K Arteka,35.0,,215,212,3,9051,14256,17459
+kyzikos-ultra,2024,5K Umut Pina,5.0,,240,237,3,937,1826,2814
+kyzikos-ultra,2024,65K Suunto,65.0,,104,98,6,20564,29849,37726
+salomon-cesme-yari-maratonu,2023,10K,10.0,,722,720,2,2006,3886,5098
+salomon-cesme-yari-maratonu,2023,21K,21.1,,377,376,1,4333,6920,8619
+salomon-cesme-yari-maratonu,2024,10K,10.0,,984,979,5,2071,3853,5163
+salomon-cesme-yari-maratonu,2024,21K,21.1,,395,392,3,4173,7007,8680
+salomon-cesme-yari-maratonu,2025,10K,10.0,,1726,1607,119,1964,4011,5523
+salomon-cesme-yari-maratonu,2025,21K,21.1,,442,439,3,4696,7030,8605
+salomon-cesme-yari-maratonu,2025,42K,42.2,,72,69,3,9917,14627,16438
+salomon-cesme-yari-maratonu,2026,10K,10.0,2026-05-10,1970,1958,12,2015,3965,5192
+salomon-cesme-yari-maratonu,2026,21K,21.1,2026-05-10,453,452,1,4312,7377,9182
+salomon-cesme-yari-maratonu,2026,5K,5.2,2026-05-10,549,544,5,1187,2460,3045
+soli-10k,2025,10K,10.0,2025-11-09,361,347,14,1970,3631,4860
+tahtali-run-to-sky,2022,BERG SKY RACE (65K),65.0,,32,23,9,35806,45419,57156
+tahtali-run-to-sky,2022,KEMERUN (12K),12.0,,135,132,3,3556,7204,9210
+tahtali-run-to-sky,2022,TAHTALI RUN TO SKY (27K),27.0,,247,216,31,13307,21623,28246
+tahtali-run-to-sky,2022,TAHTALI ULTRA SKY (113K),113.0,,16,5,11,78142,91899,100960
+tahtali-run-to-sky,2023,BERG SKY RACE (65K),65.0,,44,34,10,32643,43080,51360
+tahtali-run-to-sky,2023,KEMERUN (12K),12.0,,164,150,14,3514,6802,8637
+tahtali-run-to-sky,2023,TAHTALI RUN TO SKY (27K),27.0,,235,214,21,12339,21903,27180
+uci-gran-fondo-antalya,2022,AG TOHUM (49K),49.0,,338,330,8,4439,5805,8061
+uci-gran-fondo-antalya,2022,AG TOHUM - PARA B (49K),49.0,,6,5,1,6532,8223,9565
+uci-gran-fondo-antalya,2022,AG TOHUM - PARA C (49K),49.0,,4,4,0,4549,5544,8299
+uci-gran-fondo-antalya,2022,AKRA (98K),98.0,,125,113,12,10995,13567,16040
+uci-gran-fondo-antalya,2022,AKRA - PRO (98K),98.0,,1,1,0,13164,13164,13164
+ultra-abant,2023,FOREST RUN - 18K,18.0,,170,167,3,4667,8250,11972
+ultra-abant,2023,LAKE RUN - 6K,6.35,,139,138,1,1257,2786,3797
+ultra-abant,2023,LOTUS - 33K,33.5,,126,124,2,8466,15049,19128
+ultra-abant,2023,ULTRA ABANT - 62K,59.1,,31,30,1,20021,27319,38522
+ultra-abant,2024,FOREST RUN - 18K,18.0,,310,304,6,4660,8123,9961
+ultra-abant,2024,LAKE RUN - 6K,6.35,,268,265,3,1260,2799,3606
+ultra-abant,2024,LOTUS - 33K,33.5,,188,186,2,8238,14973,18124
+ultra-abant,2024,ULTRA ABANT - 60K,59.0,,39,36,3,18936,26215,33048
+ultra-sumela,2026,Altındere Medium Trail,22.0,2026-06-06,208,206,2,7241,12518,16076
+ultra-sumela,2026,Macka Short Trail,10.0,2026-06-06,255,243,12,3741,7185,9923
+ultra-sumela,2026,Sümela Ultra Trail,61.0,2026-06-06,57,44,13,24552,36087,44815
+uludag-premium-ultra-trail,2026,UP16K,15.32,2026-07-18,1145,1126,19,4621,9542,12928
+uludag-premium-ultra-trail,2026,UP6K,5.92,2026-07-18,569,548,21,1710,3813,5133
+uludag-premium-ultra-trail,2026,UPE30K,31.13,2026-07-18,385,334,51,10272,20109,24617
+uludag-premium-ultra-trail,2026,UPM42K,45.19,2026-07-18,139,125,14,18570,32316,39127
+uludag-premium-ultra-trail,2026,UPUT70K,70.83,2026-07-18,181,152,29,31420,48831,57091
+varda-ultra-trail,2023,BRIDGE,14.0,,304,298,6,4050,8771,12401
+varda-ultra-trail,2023,TRAIN,27.0,,193,191,2,8627,14674,18807
+varda-ultra-trail,2023,VARDA ULTRA TRAIL,67.0,,36,32,4,25758,35965,41152
+varda-ultra-trail,2024,Bridge (14K),14.0,,387,378,9,4118,8355,11399
+varda-ultra-trail,2024,Train (27K),27.0,,254,247,7,8238,14463,19000
+varda-ultra-trail,2024,Varda Ultra Trail (67K),59.0,,43,38,5,22184,29311,37291
+varda-ultra-trail,2025,Bridge (14K),13.9,2025-11-08,501,491,10,4193,8473,11941
+varda-ultra-trail,2025,Train (27K),26.6,2025-11-08,210,185,25,9446,14260,17661
+varda-ultra-trail,2025,Varda Ultra Trail (62K),59.7,2025-11-08,36,30,6,20935,30032,35043
+veloturk-gran-fondo-cesme,2021,CARRARO (110K),110.0,,472,442,30,10904,13738,17345
+veloturk-gran-fondo-cesme,2021,PARALIMPIK B (63K),63.0,,14,12,2,6974,11246,15055
+veloturk-gran-fondo-cesme,2021,PARALIMPIK C (63K),63.0,,9,9,0,6791,10495,11799
+veloturk-gran-fondo-cesme,2021,TOYOTA HYBRID (63K),63.0,,786,733,53,6346,9055,12506
+veloturk-gran-fondo-cesme,2022,CARRARO (110K),110.0,,292,233,59,11297,14211,17717
+veloturk-gran-fondo-cesme,2022,PARALIMPIK B (63K),63.0,,15,8,7,8276,9840,12599
+veloturk-gran-fondo-cesme,2022,PARALIMPIK C (63K),63.0,,7,6,1,6901,7493,8129
+veloturk-gran-fondo-cesme,2022,PRO 110k,110.0,,2,2,0,12783,12783,41765
+veloturk-gran-fondo-cesme,2022,PRO 63K,63.0,,1,1,0,7731,7731,7731
+veloturk-gran-fondo-cesme,2022,TOYOTA HYBRID (63K),63.0,,648,553,95,6351,9124,11635
+veloturk-gran-fondo-cesme,2023,PARALIMPIK B (63K),63.0,,9,5,4,8059,11298,11669
+veloturk-gran-fondo-cesme,2023,PARALIMPIK C (63K),63.0,,3,3,0,6735,7425,9900
+veloturk-gran-fondo-cesme,2023,PRO 110k,110.0,,3,3,0,11355,11575,14412
+veloturk-gran-fondo-cesme,2023,SALCANO (110K),110.0,,220,199,21,11168,13473,17630
+veloturk-gran-fondo-cesme,2023,TOYOTA HYBRID (63K),63.0,,476,443,33,5972,8587,11021
+veloturk-gran-fondo-cesme,2024,PARALIMPIK B (41K),41.0,,8,6,2,5474,6365,7346
+veloturk-gran-fondo-cesme,2024,PARALIMPIK C (67K),63.0,,2,2,0,8591,8591,11303
+veloturk-gran-fondo-cesme,2024,PRO 91K,91.0,,4,4,0,8944,9939,10437
+veloturk-gran-fondo-cesme,2024,SALCANO (91K),91.0,,158,140,18,8936,10437,13024
+veloturk-gran-fondo-cesme,2024,TOYOTA HYBRID (67K),67.0,,314,290,24,6949,9448,11887
+veloturk-gran-fondo-cesme,2024,ÇEŞME (41K),41.0,,130,119,11,4515,6616,8460
+veloturk-gran-fondo-cesme,2025,PARALIMPIK B (41K),41.0,2025-10-26,8,8,0,4869,6267,7380
+veloturk-gran-fondo-cesme,2025,PARALIMPIK C (67K),63.0,2025-10-26,5,3,2,9188,9280,11077
+veloturk-gran-fondo-cesme,2025,PRO 91K,91.0,2025-10-26,2,2,0,8770,8770,10107
+veloturk-gran-fondo-cesme,2025,SALCANO (91K),91.0,2025-10-26,174,167,7,8754,10628,13832
+veloturk-gran-fondo-cesme,2025,TOYOTA HYBRID (67K),67.0,2025-10-26,294,282,12,6998,9238,11896
+veloturk-gran-fondo-cesme,2025,ÇEŞME (41K),41.0,2025-10-26,148,145,3,4608,6531,8215
