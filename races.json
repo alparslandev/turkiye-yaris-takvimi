@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T20:32:29Z",
+ "generated_at": "2026-09-12T20:39:00Z",
  "source": "https://yarisradari.com",
  "license": "CC BY 4.0",
  "races": [
@@ -609,73 +609,6 @@
      "url": null
     }
    ]
-  },
-  {
-   "slug": "speedgoat-mountain-races-by-utmb",
-   "name": "Speedgoat Mountain Races by UTMB",
-   "sport": "trail_run",
-   "status": "completed",
-   "city": "Sandy",
-   "venue": null,
-   "country_code": "US",
-   "start_date": "2026-07-23",
-   "end_date": "2026-07-25",
-   "start_time": null,
-   "latitude": 40.578,
-   "longitude": -111.666,
-   "website_url": "https://speedgoat.utmb.world",
-   "instagram_url": "https://www.instagram.com/speedgoatmtnraces/",
-   "results_url": "https://speedgoat.utmb.world/results",
-   "photos_url": null,
-   "description_tr": "Speedgoat, bu efsanevi dağ yarışında koşucuları zorlu zirvelere meydan okumaya davet ediyor.",
-   "description_en": "Speedgoat invites runners to challenge themselves on tough peaks in this legendary mountain race.",
-   "page_url": "https://yarisradari.com/yaris/speedgoat-mountain-races-by-utmb",
-   "updated_at": "2026-09-08T07:15:40.800996+00:00",
-   "distances": [
-    {
-     "label": "50K",
-     "distance_km": 50.0,
-     "elevation_gain_m": 3450,
-     "itra_points": null,
-     "price": null,
-     "currency": null,
-     "swim_km": null,
-     "bike_km": null,
-     "run_km": null,
-     "start_time": null,
-     "surface_note": null,
-     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_50k_Course_Only_fc9b371f42.gpx"
-    },
-    {
-     "label": "31K",
-     "distance_km": 31.0,
-     "elevation_gain_m": 2000,
-     "itra_points": null,
-     "price": null,
-     "currency": null,
-     "swim_km": null,
-     "bike_km": null,
-     "run_km": null,
-     "start_time": null,
-     "surface_note": null,
-     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_30k_Course_Only_b43c6797ff.gpx"
-    },
-    {
-     "label": "10K",
-     "distance_km": 10.0,
-     "elevation_gain_m": 500,
-     "itra_points": null,
-     "price": null,
-     "currency": null,
-     "swim_km": null,
-     "bike_km": null,
-     "run_km": null,
-     "start_time": null,
-     "surface_note": null,
-     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548004/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_10k_Course_Only_514d34c4df.gpx"
-    }
-   ],
-   "registration": []
   },
   {
    "slug": "bucovina-ultra-rocks-by-utmb",
@@ -1497,7 +1430,7 @@
    "description_tr": "Geç kayıt tarihi 12 Ağustos Çarşamba 23.59’dur. Yaş Grubu sporcuların kitlerini 2026 TTF akredite antrenör listesinde yer alan antrenör veya diğer bir yaş grubu sporcusu kit teslim formunu ve kimlik ibrazı ile teslim alabilir. \n\nKAYIT ÜCRETLERİ\n\nKayıtlar, Türkiye Triatlon Federasyonu Üye Portalı üzerinden yapılacaktır. Yaş grupları için kayıt ücreti 9 Ağustos 2026 Pazar gününe kadar bireysel katılımda triatlon 3000 TL, aquatlon 2500TL’dir. Takım katılımlarda triatlon 6000 TL, aquatlon 3750 TL’dir. Geç kayıt fiyatı ise bireysel müsabakalar için 6000 TL Takım müsabakaları için 12.000TL’dir.",
    "description_en": "Late registration deadline is Wednesday, August 12, 23.59. Age Group athletes can receive their kits from a coach listed in the 2026 TTF accredited coach list or from another Age Group athlete with the kit delivery form and ID presentation.\n\nREGISTRATION FEES\n\nRegistrations will be made through the Turkey Triathlon Federation Member Portal. Registration fees for Age Groups until Sunday, August 9, 2026 are 3000 TL for triathlon and 2500 TL for aquathlon in individual participation. For team participation, triathlon is 6000 TL and aquathlon is 3750 TL. Late registration fee is 6000 TL for individual competitions and 12.000 TL for team competitions.",
    "page_url": "https://yarisradari.com/yaris/bogazici-triatlonu",
-   "updated_at": "2026-08-23T23:06:20.42064+00:00",
+   "updated_at": "2026-09-12T01:22:36.613087+00:00",
    "distances": [
     {
      "label": "Yaş Grubu Triatlon",
@@ -3144,12 +3077,12 @@
    "longitude": 41.1131,
    "website_url": "https://kackar.utmb.world/",
    "instagram_url": "https://www.instagram.com/kackarbyutmb/",
-   "results_url": null,
+   "results_url": "https://kackar.utmb.world/runners/results",
    "photos_url": "https://kackar.utmb.world/get-excited/photos",
    "description_tr": "Kaçkar by UTMB sizi Ayder Plateau köyünden başlayarak, Kaçkar Dağları'nın doğal ve zorlu zirvelerini geçirerek götürür. Bu, koşu ve doğaya olan tutkuya bir saygı duruşudur. Parkurunuzu seçin ve Kaçkar'ı üç yoldan birinde keşfedin.",
    "description_en": "Kaçkar by UTMB takes you from Ayder Plateau village through the natural and challenging peaks of the Kaçkar Mountains. This is a tribute to the passion for running and nature. Choose your course and explore Kaçkar on one of three routes.",
    "page_url": "https://yarisradari.com/yaris/kackar-by-utmb",
-   "updated_at": "2026-09-11T09:07:12.853272+00:00",
+   "updated_at": "2026-09-12T01:21:23.94981+00:00",
    "distances": [
     {
      "label": "82K",
@@ -3234,12 +3167,12 @@
    "longitude": 100.742,
    "website_url": "https://malaysia.utmb.world/",
    "instagram_url": "https://www.instagram.com/malaysiaultratrail/",
-   "results_url": null,
+   "results_url": "https://malaysia.utmb.world/runners/results",
    "photos_url": "https://malaysia.utmb.world/get-excited/gallery",
    "description_tr": "Malaysia Ultra-Trail by UTMB, Malezya Yarımadası'nın kuzeybatısındaki tarihi Taiping kentinde düzenlenir. Koşucular MY13, MY25, MY50 ve MY100 olmak üzere dört farklı mesafede yarışır.",
    "description_en": "Malaysia Ultra-Trail by UTMB is held in the historic city of Taiping in the northwest of the Malay Peninsula. Runners compete over four different distances: MY13; MY25; MY50; and MY100.",
    "page_url": "https://yarisradari.com/yaris/malaysia-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:06:41.839688+00:00",
+   "updated_at": "2026-09-12T01:03:14.142667+00:00",
    "distances": [
     {
      "label": "100K",
@@ -3315,7 +3248,7 @@
    "description_tr": "Bartın'ın Amasra ilçesinde koşulan 7 kilometrelik bir yol koşusu. Parkur, kasabanın tarihi sokakları ile Karadeniz kıyısı boyunca uzanıyor ve tek mesafe üzerinden yapılıyor. Organizasyon; parkur detayları, genel kurallar, yarış programı ve ilçeye ulaşım bilgilerini kendi sitesinde ayrı başlıklar altında paylaşıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/1-amasra-cesm-i-cihan-kosusu",
-   "updated_at": "2026-09-11T05:18:53.273285+00:00",
+   "updated_at": "2026-09-12T05:25:08.511176+00:00",
    "distances": [
     {
      "label": "7K",
@@ -3339,7 +3272,7 @@
      "closes_at": "2026-09-01T20:59:00+00:00",
      "price": 1000,
      "currency": "TRY",
-     "url": "https://kosu.taf.org.tr/kayit_kimlik.php?yarisma=173"
+     "url": null
     }
    ]
   },
@@ -3411,7 +3344,7 @@
    "description_tr": "Bu yıl Ayvalık’ta ilk kez düzenlenen Ayvalık Kurtuluş Yarı Maratonu 8 farklı ülkeden 650 sporcunun katılımıyla sona erdi.",
    "description_en": "The Ayvalık Kurtuluş Half Marathon, organized for the first time this year in Ayvalık, concluded with the participation of 650 athletes from 8 different countries.",
    "page_url": "https://yarisradari.com/yaris/ayvalik-yari-maratonu",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:05:05.017744+00:00",
    "distances": [
     {
      "label": "21K",
@@ -3487,7 +3420,7 @@
    "description_tr": "Çanakkale'ye bağlı Bozcaada'da, 5 ve 10 kilometre olmak üzere iki mesafede koşuluyor; start saat 10:00'da veriliyor. Organizatörün İstanbul ayağıyla birlikte yürüttüğü yaz koşusu serisinin adalardaki durağı. Yarış kiti ve göğüs numarası, duyurulan teslim noktasından kimlik ibrazıyla elden alınıyor; kayıt, yarıştan yedi gün öncesine kadar başka bir koşucuya devredilebiliyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/summer-run-bozcaada",
-   "updated_at": "2026-09-11T05:19:01.012467+00:00",
+   "updated_at": "2026-09-12T05:05:06.390452+00:00",
    "distances": [
     {
      "label": "10K",
@@ -3549,7 +3482,7 @@
    "description_tr": "Grindstone Running Festival by UTMB, Shenandoah Vadisi'nin batısındaki ulusal orman arazisinde; sonbahar renkleri, dağ manzaraları ve zorlu araziyle dolu bir koşu macerası sunar. 100 mil, 100K, 50K ve 21K seçenekleriyle her koşucuya yeni bir hedef vadeder; UTMB World Series Finalleri'ne kota verir.",
    "description_en": "Grindstone Running Festival by UTMB, on national forest land west of Shenandoah Valley; offers a running adventure filled with fall colors, mountain views and challenging terrain. It promises a new goal for every runner with 100 mile, 100K, 50K and 21K options; awards quotas for UTMB World Series Finals.",
    "page_url": "https://yarisradari.com/yaris/grindstone-trail-running-festival",
-   "updated_at": "2026-09-11T09:07:47.583551+00:00",
+   "updated_at": "2026-09-12T00:35:00.781043+00:00",
    "distances": [
     {
      "label": "167.4K",
@@ -3639,7 +3572,7 @@
    "description_tr": "Rio de Janeiro ve São Paulo şehirleri arasında, Brezil'in güneydoğu kıyısında yer alan büyüleyici ve misafirperver Paraty kasabası, Rio de Janeiro Eyalet Hükümeti, Paraty Belediyesi ve ICMBio'nun desteğiyle 17-20 Eylül 2026 tarihlerinde en yeni etkinlik Paraty Brazil by UTMB'ye ev sahipliği yapacaktır. Görkemli dağlar ve verimli ormanlarla çevrili Paraty, güzelce korunmuş sömürge döneminden kalma tarihi merkezi ve taş döşeli sokaklarıyla koşuculara sıcak bir karşılama vaat etmektedir…",
    "description_en": "Between the cities of Rio de Janeiro and São Paulo, in the charming and hospitable town of Paraty located on Brazil's southeastern coast, with the support of the Rio de Janeiro State Government, Paraty Municipality and ICMBio, the newest event Paraty Brazil by UTMB will take place on September 17-20, 2026. Surrounded by magnificent mountains and lush forests, Paraty with its beautifully preserved historic center from the colonial period and cobblestone streets promises a warm welcome to runners…",
    "page_url": "https://yarisradari.com/yaris/paraty-brazil-by-utmb",
-   "updated_at": "2026-09-11T09:07:46.73061+00:00",
+   "updated_at": "2026-09-12T05:05:10.676464+00:00",
    "distances": [
     {
      "label": "101K",
@@ -3671,8 +3604,8 @@
     },
     {
      "label": "34K",
-     "distance_km": 34,
-     "elevation_gain_m": 1150,
+     "distance_km": 34.0,
+     "elevation_gain_m": 1100,
      "itra_points": null,
      "price": 825.0,
      "currency": "BRL",
@@ -3699,8 +3632,8 @@
     },
     {
      "label": "17K",
-     "distance_km": 17,
-     "elevation_gain_m": 600,
+     "distance_km": 17.0,
+     "elevation_gain_m": 550,
      "itra_points": null,
      "price": 505.0,
      "currency": "BRL",
@@ -3757,7 +3690,7 @@
    "description_tr": "Julian Alpleri'nin görkemli çerçevesinde, bu trail run Slovenya'nın en nefes kesen rotalarından bazılarını ortaya koymaktadır. Koşucular, scenic single trail'ler, yoğun ormanlar ve alpin çayırlardan geçerek bölgenin doğal güzelliğinin özünü yakalayacaklardır. Lake Bled'in panoramik manzaraları ve Triglav National Park'ın – Slovenya'nın tek milli parkı – görkemli zirvelerini tek, unutulmaz bir koşuda deneyimlemenin eşsiz bir fırsatıdır.",
    "description_en": "Within the magnificent framework of the Julian Alps, this trail run showcases some of Slovenia's most breathtaking routes. Runners will capture the essence of the region's natural beauty by passing through scenic single trails, dense forests, and alpine meadows. It is a unique opportunity to experience the panoramic views of Lake Bled and the magnificent peaks of Triglav National Park – Slovenia's only national park – in a single, unforgettable run.",
    "page_url": "https://yarisradari.com/yaris/julian-alps-trail-run-by-utmb",
-   "updated_at": "2026-09-11T09:07:53.209091+00:00",
+   "updated_at": "2026-09-12T00:35:12.961952+00:00",
    "distances": [
     {
      "label": "122K",
@@ -3875,7 +3808,7 @@
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/11-ultimate-cunda",
-   "updated_at": "2026-09-11T09:07:43.701868+00:00",
+   "updated_at": "2026-09-12T05:05:23.5143+00:00",
    "distances": [
     {
      "label": "12K",
@@ -3937,7 +3870,7 @@
    "description_tr": "İzmir etabı, HYROX'un standart yarışma düzenini kapalı salonda uyguluyor: 1 kilometrelik koşularla dönüşümlü sekiz istasyon, sabit ağırlıklar ve herkes için aynı sıra. İstasyonlar arasında kızak itme ve çekme, kürek, farmer's carry ve wall ball bulunuyor. Bireysel yarışmanın yanında çift ve takım kategorileri de açılıyor; sporcular kendi seviyelerine göre pro ve open bölümlerinden birini seçiyor.",
    "description_en": "HYROX; is the world series of fitness races that brought together more than 90,000 athletes and 50,000 spectators across more than 40 races worldwide in 2023.",
    "page_url": "https://yarisradari.com/yaris/hyrox-izmir",
-   "updated_at": "2026-09-11T05:19:28.774423+00:00",
+   "updated_at": "2026-09-12T05:05:32.440608+00:00",
    "distances": [],
    "registration": [
     {
@@ -3970,13 +3903,13 @@
    "description_tr": "Bursa'nın Mudanya ilçesinde iki güne yayılan triatlon organizasyonu, Türkiye Triatlon Federasyonu takviminde kupa finali olarak yer alıyor. Süper sprint, sprint ve mini triatlon mesafeleri koşuluyor. Elit, genç, yıldız ve yaş grubu kategorilerinin yanı sıra paratriatletler ile M3 yaş grubundaki küçük sporcular da ayrı klasmanlarda yarışıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/mudanya-triatlonu-turkiye-kupasi-finali",
-   "updated_at": "2026-09-11T09:07:10.634682+00:00",
+   "updated_at": "2026-09-12T05:05:20.272054+00:00",
    "distances": [],
    "registration": [
     {
      "kind": "standard",
      "opens_at": null,
-     "closes_at": "2026-09-16T20:59:00+00:00",
+     "closes_at": "2026-09-13T20:59:00+00:00",
      "price": null,
      "currency": "TRY",
      "url": "https://portal.triatlon.org.tr/tr/portal/race/2026-mudanya-triatlonu-turkiye-kupasi-finali/"
@@ -4003,7 +3936,7 @@
    "description_tr": "Yarı maraton ve 10.193 metrelik koşu olmak üzere iki mesafede düzenleniyor. Parkur, AIMS sertifikalı ölçümcü tarafından ölçülmüş ve World Athletics ile AIMS onayından geçmiş durumda. Yarışma 18 yaşını dolduran lisanslı, lisanssız ve yabancı uyruklu koşuculara açık; yarı maratonda bitirme süresi 3 saat 25 dakika. Ödül töreni Kayseri Cumhuriyet Meydanı'nda yapılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/6-uluslararasi-kayseri-yari-maratonu",
-   "updated_at": "2026-09-11T05:39:36.76314+00:00",
+   "updated_at": "2026-09-12T05:06:18.818968+00:00",
    "distances": [
     {
      "label": "21K",
@@ -4179,17 +4112,17 @@
    "country_code": "TR",
    "start_date": "2026-09-24",
    "end_date": "2026-09-24",
-   "start_time": null,
+   "start_time": "20:30:00",
    "latitude": null,
    "longitude": null,
-   "website_url": null,
+   "website_url": "https://runawayzone.com/tr/etkinlik-detay/85-fast5-belgrad-forest",
    "instagram_url": null,
    "results_url": null,
    "photos_url": null,
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/fast-5-belgrad-night-run",
-   "updated_at": "2026-09-11T05:20:34.939673+00:00",
+   "updated_at": "2026-09-12T05:08:23.447077+00:00",
    "distances": [],
    "registration": [
     {
@@ -4198,7 +4131,7 @@
      "closes_at": null,
      "price": null,
      "currency": "TRY",
-     "url": "https://www.plustimer.com/tr/yaris/the-north-face-src-x-belgrad-test-kosusu"
+     "url": "https://runawayzone.com/tr/etkinlik-detay/85-fast5-belgrad-forest"
     }
    ]
   },
@@ -4222,7 +4155,7 @@
    "description_tr": "Fransız Rivierası'nda, Akdeniz kıyısındaki şehir ile arkasındaki dağlar arasında kurulan beş parkurlu bir patika organizasyonu. Rotalar Roubion, Levens, Eze ve Saint-Jean-Cap-Ferrat gibi noktalardan başlayıp şehirde birleşiyor; mesafeler 23 kilometre ve 680 metre tırmanıştan 165 kilometre ve 8.900 metre tırmanışa kadar uzanıyor. UTMB World Series kapsamında koşuluyor, bitirenlere Running Stones puanı kazandırıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/nice-cote-d-azur-by-utmb",
-   "updated_at": "2026-09-11T09:08:56.86986+00:00",
+   "updated_at": "2026-09-12T00:36:27.855411+00:00",
    "distances": [
     {
      "label": "165K",
@@ -4326,7 +4259,7 @@
    "description_tr": "Ankara’nın kalbinde dayanıklılığın macerayla buluştuğu ANKARA BOTANİK BACKYARD ULTRA (ABBU) 2026’ya hoş geldiniz! Koşucuların sınırlarını zorladığı, ayakta kalan son kişi olma mücadelesine katıldığı, eşi benzeri olmayan heyecan verici bir yarış deneyimi için bize katılın. Bu ilk etkinlik, katılımcıların yarışma alanının büyüleyici manzarası eşliğinde dayanıklılıklarını test ederken heyecan, dostluk ve unutulmaz anlar yaşamasını vaat ediyor. ABU’da turları fethetmeye, sınırları zorlamaya ve…",
    "description_en": "Welcome to ANKARA BOTANİK BACKYARD ULTRA (ABBU) 2026, where endurance meets adventure in the heart of Ankara! Join us for an unparalleled exciting race experience where runners push their limits, competing to be the last one standing. This inaugural event promises excitement, friendship and unforgettable moments as participants test their endurance while surrounded by the enchanting views of the race venue. At ABBU, conquer the laps, push your boundaries and…",
    "page_url": "https://yarisradari.com/yaris/ankara-botanik-backyard",
-   "updated_at": "2026-09-10T05:22:32.032918+00:00",
+   "updated_at": "2026-09-12T00:36:20.354268+00:00",
    "distances": [
     {
      "label": "6.7K",
@@ -4407,7 +4340,7 @@
    "description_tr": "Muğla'nın Akyaka beldesinde, start ve bitiş alanı Akyaka Meydanı'nda olan bir koşu festivali. 5K, 10K ve yarı maraton parkurlarının yanı sıra çiftler etabı da düzenleniyor. Parkur ve yarış kontrolü Türkiye Atletizm Federasyonu hakemlerince yapılıyor; yarı maratonda süre sınırı 3 saat, kit alımında geçerli lisans ya da son altı ay içinde alınmış sağlık raporu isteniyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/gokova-yari-maratonu",
-   "updated_at": "2026-09-11T05:20:53.679794+00:00",
+   "updated_at": "2026-09-12T05:06:53.583785+00:00",
    "distances": [
     {
      "label": "21K",
@@ -4456,7 +4389,7 @@
     {
      "kind": "standard",
      "opens_at": null,
-     "closes_at": "2026-09-23T20:59:00+00:00",
+     "closes_at": "2026-09-24T18:00:00+00:00",
      "price": 40,
      "currency": "EUR",
      "url": "https://gotix.com.tr/activities/30"
@@ -4531,7 +4464,7 @@
    "description_tr": "BMW Berlin Maratonu; rekorları, çeşitliliği ve şehre yayılan eşsiz enerjisiyle dünyanın en büyük maratonlarından biridir.",
    "description_en": "BMW Berlin Marathon; with its records, diversity and unique energy spread across the city, is one of the world's largest marathons.",
    "page_url": "https://yarisradari.com/yaris/berlin-maratonu",
-   "updated_at": "2026-09-11T09:10:26.195683+00:00",
+   "updated_at": "2026-09-12T05:07:35.921633+00:00",
    "distances": [
     {
      "label": "42K",
@@ -4579,7 +4512,7 @@
    "description_tr": "* Kayıt fiyatlarında, ödeme yapılan tarih esas alınır. * Katılım kontenjanlarla sınırlıdır. * Organizasyon firması katılım ücretlerini güncelleme hakkına sahiptir. Decathlon Büyükada Yarı Maratonu’na online ödeme sistemi sayesinde kredi kartı veya EFT/Havale yöntemi ile kayıt olabilirsiniz.",
    "description_en": "* Registration prices are based on the payment date. * Participation is limited to available quotas. * The organizing company reserves the right to update participation fees. You can register for the Decathlon Büyükada Half Marathon through the online payment system using credit card or EFT/Bank Transfer.",
    "page_url": "https://yarisradari.com/yaris/buyukada-yari-maratonu",
-   "updated_at": "2026-09-11T09:10:00.551186+00:00",
+   "updated_at": "2026-09-12T05:07:04.551123+00:00",
    "distances": [
     {
      "label": "21K",
@@ -4655,7 +4588,7 @@
    "description_tr": "Efteni Duatlonu, Düzce'nin Gölyaka ilçesinde Efteni Gölü Kültür Parkı çevresinde koşuluyor. Yarış 4 km koşu, 20 km bisiklet ve 2 km koşu etaplarından oluşan klasik duatlon formatında; bisiklet etabı Gölormanı Park Camii'ne gidiş dönüş yapılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/duzce-efteni-duatlonu",
-   "updated_at": "2026-09-11T05:20:54.684685+00:00",
+   "updated_at": "2026-09-12T05:06:54.384597+00:00",
    "distances": [
     {
      "label": "Yaş Grubu",
@@ -4779,7 +4712,7 @@
    "description_tr": "27 Eylül 2026 Urla'da BirİZ 5K ve 10K sosyal sorumluluk koşusu hakkında genel bilgiler.",
    "description_en": "General information about BirİZ 5K and 10K social responsibility race on 27 September 2026 in Urla.",
    "page_url": "https://yarisradari.com/yaris/urla-da-biriz-sosyal-sorumluluk-kosusu",
-   "updated_at": "2026-09-11T05:21:26.969591+00:00",
+   "updated_at": "2026-09-12T05:07:24.597503+00:00",
    "distances": [
     {
      "label": "10K",
@@ -4841,7 +4774,7 @@
    "description_tr": "Antalya Belek Üniversitesi olarak, gece ve gündüzün eşitlendiği 28 Eylül Ekinoks gününde, eşitlik ilkesine dikkat çekmek amacıyla düzenlenecek Eşitlik Koşusuna ev sahipliği yapıyoruz. Konyaaltı Sahili’nde gerçekleşecek bu anlamlı etkinlikte, eşit bir gelecek için hep birlikte koşmaya davetlisiniz.",
    "description_en": "As Antalya Belek University, we are hosting the Equality Race, organized on September 28 Equinox day when day and night are equal, to draw attention to the principle of equality. We invite you to run together for an equal future at this meaningful event taking place on Konyaaltı Beach.",
    "page_url": "https://yarisradari.com/yaris/ekinoks-kosusu-antalya",
-   "updated_at": "2026-09-11T05:21:19.312325+00:00",
+   "updated_at": "2026-09-12T05:07:16.917861+00:00",
    "distances": [
     {
      "label": "10K",
@@ -4889,7 +4822,7 @@
    "description_tr": "Efsanelerle koş ve Bakır Kanyonun kalbinden 100 mil fethederken Chihuahua by UTMB 100-miller yeni bir parkurla geri dönüyor; koşucuları Bakır Kanyonlara daha derine götürüyor, daha fazla kültür, toprakla daha fazla etkileşim ve yol boyunca paylaşılan hayatın daha fazla anı arıyor.",
    "description_en": "Run with legends and conquer 100 miles from the heart of Copper Canyon as Chihuahua by UTMB 100-miler returns with a new course; taking runners deeper into Copper Canyon, seeking more culture, more interaction with the land, and more moments of shared life along the way.",
    "page_url": "https://yarisradari.com/yaris/chihuahua-by-utmb",
-   "updated_at": "2026-09-11T09:10:19.856307+00:00",
+   "updated_at": "2026-09-12T05:07:36.762414+00:00",
    "distances": [
     {
      "label": "118K",
@@ -5007,7 +4940,7 @@
    "description_tr": "TransJeju by UTMB, Güney Kore'nin Jeju volkanik adasında en büyük ultra mesafe trail etkinliğidir. Katılımcılar Hallasan Milli Parkı'nda (UNESCO Dünya Mirası) koşacaklardır; park son derece çeşitlidir: çeşitli irtifalarında, Halla volkanının (Güney Kore'nin en yüksek dağı) üzerinde 1.800'den fazla subtropikal, ılıman ve subarktik bitki türü gelişmekte, dört mevsimle belirgin şekilde değişmekte ve koşuculara sürekli değişen manzaralar sunmaktadır. Dağın zirvesinin çevresinde…",
    "description_en": "TransJeju by UTMB is the largest ultra-distance trail event on Jeju, South Korea's volcanic island. Participants will run in Hallasan National Park (UNESCO World Heritage Site); the park is extremely diverse: at various altitudes, over 1,800 subtropical, temperate and subarctic plant species develop on top of Halla volcano (South Korea's highest mountain), it changes distinctly with the four seasons and offers runners continuously changing landscapes. Around the summit of the mountain…",
    "page_url": "https://yarisradari.com/yaris/transjeju-by-utmb",
-   "updated_at": "2026-09-11T09:10:15.548322+00:00",
+   "updated_at": "2026-09-12T00:37:56.646959+00:00",
    "distances": [
     {
      "label": "148K",
@@ -5097,7 +5030,7 @@
    "description_tr": "15. Uluslararası Afşin-Elbistan Ultra Maraton Şampiyonası (100 Km) Başvuruları Başladı! Ayrıca yarışmayı 4.’den 25.’ye kadar bitiren tüm yarışmacılara 4.000 TL ödül verilecektir. 30 – 35 – 40 – 45 – 50 – 55 – 60 ve 65 YAŞ KATEGORİSİNDE KADIN ve ERKEK YARIŞMACILARDAN 1. 2. VE 3. GELEN YARIŞMACILARIMIZA “KUPA” – “MADALYA” VERİLECEKTİR.",
    "description_en": "15th International Afşin-Elbistan Ultra Marathon Championship (100 Km) Applications Have Started! Additionally, all competitors who finish the race from 4th to 25th place will be awarded 4,000 TL. CUPS – MEDALS WILL BE GIVEN TO OUR 1ST, 2ND AND 3RD PLACE FINISHERS AMONG FEMALE AND MALE COMPETITORS IN THE 30 – 35 – 40 – 45 – 50 – 55 – 60 AND 65 AGE CATEGORIES.",
    "page_url": "https://yarisradari.com/yaris/15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi",
-   "updated_at": "2026-09-11T05:21:49.167082+00:00",
+   "updated_at": "2026-09-12T05:07:45.711881+00:00",
    "distances": [
     {
      "label": "100K",
@@ -5145,7 +5078,7 @@
    "description_tr": "Beypazarı Ultra Trail, UNESCO Dünya Mirasları listesine aday olan Beypazarı yöresinin vadilerinde, derelerinde ve platolarında gerçekleştirilen yaklaşık 8 km uzunluğunda ve 250+ m. tırmanış içeren bir patika koşusudur. Koşu, 3 Ekim 2026 tarihinde saat 10:00'da Beypazarı şehir merkezinde bulunan Atatürk Parkı'ndan başlar. Katılımcıların kısmi yeterlilik esasına göre, 3 saat içerisinde parkuru tamamlamaları gereklidir. Kısmi yeterlilik, katılımcıların karşılaşabilecekleri doğa koşullarında…",
    "description_en": "Beypazarı Ultra Trail is a trail running event of approximately 8 km with 250+ m elevation gain, taking place in the valleys, streams and plateaus of the Beypazarı region, which is a candidate for UNESCO World Heritage status. The race starts on 3 October 2026 at 10:00 from Atatürk Park located in Beypazarı city center. Participants must complete the course within 3 hours on a partial competency basis. Partial competency refers to the natural conditions that participants may encounter…",
    "page_url": "https://yarisradari.com/yaris/beypazari-ultra-trail",
-   "updated_at": "2026-09-11T09:11:47.291642+00:00",
+   "updated_at": "2026-09-12T05:07:50.766227+00:00",
    "distances": [
     {
      "label": "52K",
@@ -5235,7 +5168,7 @@
    "description_tr": "3. Geleneksel Doğuş Holding Niğde Yarı Maratonu 3 - 3 Ekim 2026 Tarih, Doğa ve Kültür Yolunda Koşun!",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/dogus-holding-nigde-yari-maratonu",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T00:37:41.05369+00:00",
    "distances": [
     {
      "label": "21K",
@@ -5311,7 +5244,7 @@
    "description_tr": "Bodrum Yarı Maratonu; 21K - 10K - 5K etapları ile; Myndos kapısı, Antik Tiyatrosu, Bitez ve Kumbahçe sahilleri ile tüm koşu severleri ve ailelerini heyecanla bekliyor.",
    "description_en": "Bodrum Half Marathon; 21K - 10K - 5K stages; awaits all running enthusiasts and their families with excitement, featuring the Myndos Gate, Ancient Theater, Bitez and Kumbahçe beaches.",
    "page_url": "https://yarisradari.com/yaris/bodrum-yari-maratonu",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:07:55.121491+00:00",
    "distances": [
     {
      "label": "21K",
@@ -5411,7 +5344,7 @@
    "description_tr": "Eker I Run, topluma spor bilinci, sağlıklı yaşam ve beslenme alışkanlıkları kazandırmayı, yaşama sevincini arttırmayı hedefleyen amatör ruhlu, koşabilen herkesin kayıt olmasına açık bir atletizm yarışı ve sağlıklı yaşam festivalidir.",
    "description_en": "Eker I Run is an athletics competition and healthy lifestyle festival with an amateur spirit that aims to raise awareness of sport in society, foster healthy living and nutrition habits, increase the joy of living, and is open to registration for anyone who can run.",
    "page_url": "https://yarisradari.com/yaris/eker-i-run-yol-kosusu",
-   "updated_at": "2026-09-11T05:22:03.343316+00:00",
+   "updated_at": "2026-09-12T05:07:59.239557+00:00",
    "distances": [
     {
      "label": "42K",
@@ -5487,7 +5420,7 @@
    "description_tr": "Spor İstanbul olarak Türkiye’deki yol yarışlarının katılımcı sayılarını artırmak, yol yarışları katılımcılarına alternatif yarışlar düzenlemek, koşuculara seri şeklinde yarışlar sunabilmek, koşmaya yeni başlayanları da kısa mesafeli yarışlara adapte edebilmek amacıyla İstanbul'u Koşuyorum etaplarını organize ediyoruz.",
    "description_en": "As Spor İstanbul, we organize İstanbul'u Koşuyorum stages to increase the number of participants in road races in Turkey, to organize alternative races for road race participants, to be able to offer series-format races to runners, and to adapt those new to running to short-distance races.",
    "page_url": "https://yarisradari.com/yaris/istanbul-u-kosuyorum-avrupa-etabi-yenikapi",
-   "updated_at": "2026-09-11T05:22:05.718225+00:00",
+   "updated_at": "2026-09-12T05:08:01.030565+00:00",
    "distances": [
     {
      "label": "10K",
@@ -5535,7 +5468,7 @@
    "description_tr": "Sinop Eğitim Vakfı olarak inanıyoruz ki; eğitim, dayanışma ve sevgiyle büyür. Her destek, bir gencimizin hayatında yeni bir kapı açar. Her katkı, geleceğe atılmış güçlü bir adımdır. Sinop Yarı Maratonu; sadece bir yarış değil, kalplerin aynı ritimde attığı bir buluşmadır.",
    "description_en": "As Sinop Education Foundation, we believe that education grows with solidarity and love. Every support opens a new door in the life of one of our young people. Every contribution is a strong step toward the future. Sinop Half Marathon; it is not just a race, but a meeting where hearts beat in the same rhythm.",
    "page_url": "https://yarisradari.com/yaris/sinop-egitim-vakfi-sinop-yari-maratonu",
-   "updated_at": "2026-09-11T05:22:10.15912+00:00",
+   "updated_at": "2026-09-12T05:08:05.229436+00:00",
    "distances": [
     {
      "label": "21K",
@@ -5611,7 +5544,7 @@
    "description_tr": "HOKA Kodiak Ultra Marathons by UTMB, sakin bir dağ kasabasının konukseverliğini ve yüksek irtifada yarışmanın zorluğunu bir arada sunar. Üç güne yayılan yarışlarda her parkur benzersiz bir deneyim vadeder; Sugar Loaf zirvesine tırmanırken de Siberia Kanyonu'na inerken de Big Bear Gölü manzarası koşuculara eşlik eder.",
    "description_en": "HOKA Kodiak Ultra Marathons by UTMB brings together the hospitality of a quiet mountain town and the challenge of racing at high altitude. Spread over three days, each course offers a unique experience; whether climbing to the Sugar Loaf summit or descending into Siberia Canyon, Big Bear Lake views accompany runners throughout.",
    "page_url": "https://yarisradari.com/yaris/hoka-kodiak-ultra-marathons-by-utmb",
-   "updated_at": "2026-09-11T09:11:24.585708+00:00",
+   "updated_at": "2026-09-12T00:39:03.201882+00:00",
    "distances": [
     {
      "label": "99K",
@@ -5735,7 +5668,7 @@
    "description_tr": "Kyzikos Ultra, Marmara’da antik Kyzikos çevresinde geçen, doğa ve patika koşusunu buluşturan kısa mesafe ve ultra parkurlarıyla düzenlenen bir trail koşu etkinliğidir.",
    "description_en": "Kyzikos Ultra is a trail running event organized with short distance and ultra courses that bring together nature and trail running around the ancient Kyzikos in Marmara.",
    "page_url": "https://yarisradari.com/yaris/kyzikos-ultra",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T00:42:13.145004+00:00",
    "distances": [
     {
      "label": "65K",
@@ -5853,7 +5786,7 @@
    "description_tr": "Dünyanın en özel yüzme rotalarından birinde, turkuaz sularla buluşmaya hazır mısın? Ölüdeniz Open Water, doğa, performans ve yarış heyecanını e",
    "description_en": "Are you ready to meet the turquoise waters on one of the world's most special swimming routes? Ölüdeniz Open Water brings together nature, performance and race excitement.",
    "page_url": "https://yarisradari.com/yaris/oludeniz-open-water",
-   "updated_at": "2026-09-11T05:22:53.718019+00:00",
+   "updated_at": "2026-09-12T05:08:52.356976+00:00",
    "distances": [
     {
      "label": "6K",
@@ -5957,7 +5890,7 @@
    "description_tr": "Kadıköy Caddebostan'dan başlayıp Maltepe ve Kartal sahil hattında ilerleyen düz asfalt parkurda koşulan yarı maraton ve 10K; programda paten, tekerlekli sandalye ve çocuk koşusu kategorileri de yer alıyor.",
    "description_en": "Half marathon and 10K run on a flat asphalt course starting from Kadıköy Caddebostan and continuing along the Maltepe and Kartal coastline; the program also includes roller skating, wheelchair and kids' run categories.",
    "page_url": "https://yarisradari.com/yaris/anadolu-yari-maratonu",
-   "updated_at": "2026-09-11T05:22:24.213235+00:00",
+   "updated_at": "2026-09-12T05:08:28.532902+00:00",
    "distances": [
     {
      "label": "21K",
@@ -6019,7 +5952,7 @@
    "description_tr": "Start ve bitişi Grant Park'ta olan parkur şehrin 29 mahallesinden geçiyor ve düz yapısıyla biliniyor; bu rotada yedi dünya rekoru kırıldı. Güzergah boyunca yaklaşık 1,7 milyon seyirci koşucuları izliyor. Abbott World Marathon Majors serisinin ayaklarından biri; başvuru penceresi kapandıktan sonra kalan kontenjan resmi tur programı üzerinden dağıtılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/chicago-maratonu",
-   "updated_at": "2026-09-11T05:23:02.636776+00:00",
+   "updated_at": "2026-09-12T05:09:02.68429+00:00",
    "distances": [
     {
      "label": "42K",
@@ -6067,7 +6000,7 @@
    "description_tr": "Ankara'da Cumhurbaşkanlığı himayesinde düzenlenen koşu üç mesafeden oluşuyor: 21 kilometrelik uluslararası yarı maraton, 10 kilometrelik gelişim koşusu ve 5 kilometrelik halk ve aile koşusu. Start saat 09:00'da veriliyor. Kayıtlar Türkiye Atletizm Federasyonu'nun özel yol yarışları portalından alınıyor; erken kayıt ve geç kayıt olmak üzere iki dönem uygulanıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/cumhurbaskanligi-yari-maratonu",
-   "updated_at": "2026-09-11T05:22:43.166703+00:00",
+   "updated_at": "2026-09-12T05:08:43.037635+00:00",
    "distances": [
     {
      "label": "21K",
@@ -6143,7 +6076,7 @@
    "description_tr": "Girne Belediyesi ve KKTC Atletizm Federasyonu işbirliğinde yedinci kez düzenlenen Girne Yarı Maratonu, Girne Kordonboyu'nda koşuluyor. Organizasyon 1 km çocuk koşusu, 3 km halk koşusu, 5 km, 10 km ve 21 km kategorilerinde katılımcıları ağırlıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/girne-yari-maratonu",
-   "updated_at": "2026-08-23T23:06:20.42064+00:00",
+   "updated_at": "2026-09-12T01:22:36.613087+00:00",
    "distances": [
     {
      "label": "21 KM Yarı Maraton",
@@ -6247,7 +6180,7 @@
    "description_tr": "Türkiye Bisiklet Federasyonu 2026 Gran Fondo serisinin Yalova ayağı; trafiğe kapalı parkurda düzenlenen amatör yol bisikleti yarışı. Seri 2026'da 10 ilde 13 yarıştan oluşuyor; Yalova parkurunun ve kayıt sürecinin detayları henüz açıklanmadı.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/yalova-gran-fondo",
-   "updated_at": "2026-09-11T09:12:02.837059+00:00",
+   "updated_at": "2026-09-12T05:04:48.647387+00:00",
    "distances": [
     {
      "label": "82K",
@@ -6323,12 +6256,12 @@
    "description_tr": "Mountain Race Serisi'nin (Silk Road, Atlas, Hellenic) dördüncü yarışı: Antalya'dan başlayıp Toros Dağları'nı aşan yaklaşık 1.400 km'lik tek etaplı, desteksiz bikepacking yarışı.",
    "description_en": "Taurus Mountain Race, the fourth race in the Mountain Race Series, will take place in Turkiye in 2026.",
    "page_url": "https://yarisradari.com/yaris/taurus-mountain-race",
-   "updated_at": "2026-09-11T05:23:12.916242+00:00",
+   "updated_at": "2026-09-12T05:09:11.681967+00:00",
    "distances": [
     {
      "label": "1400K",
      "distance_km": 1400.0,
-     "elevation_gain_m": null,
+     "elevation_gain_m": 2026,
      "itra_points": null,
      "price": null,
      "currency": null,
@@ -6371,7 +6304,7 @@
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/the-north-face-src-x-kapadokya-test-kosusu",
-   "updated_at": "2026-09-11T05:23:10.554325+00:00",
+   "updated_at": "2026-09-12T05:09:09.908477+00:00",
    "distances": [],
    "registration": [
     {
@@ -6380,7 +6313,7 @@
      "closes_at": null,
      "price": null,
      "currency": "TRY",
-     "url": "https://www.plustimer.com/tr/yaris/the-north-face-src-x-kapadokya-test-kosusu"
+     "url": "https://www.plustimer.com/tr/yaris/the-north-face-src-kapadokya-test-kosusu"
     }
    ]
   },
@@ -6404,7 +6337,7 @@
    "description_tr": "Olağanüstü doğal güzellikleri ve emsalsiz tarihi ile UNESCO Dünya Mirası listesinde yer alan Kapadokya'nın tepelerinde ve vadilerinde gerçekleşecek ultra trail koşusunun katılımcılarından biri olun! Üç farklı parkur. Ortak eşsiz deneyim.",
    "description_en": "Be one of the participants in the ultra trail run that will take place on the hills and valleys of Cappadocia, which is on the UNESCO World Heritage list with its extraordinary natural beauty and unparalleled history! Three different courses. One unique shared experience.",
    "page_url": "https://yarisradari.com/yaris/cappadocia-ultra-trail",
-   "updated_at": "2026-09-11T09:14:24.191067+00:00",
+   "updated_at": "2026-09-12T05:09:22.797182+00:00",
    "distances": [
     {
      "label": "119K",
@@ -6494,7 +6427,7 @@
    "description_tr": "Lao Tzu'nun, Taoizm'in kurucusunun bir zamanlar ziyaret ettiği Mount Yun'a adım atın. Büyüleyici bir yeşil cennet içinde unutulmaz bir trail running macerası yaşayın; görkemli Mount Yun, yemyeşil çam ağaçları ve buz mağara gruplarından oluşan nefes kesen doğal manzaralar...",
    "description_en": "Step onto Mount Yun, which the founder of Taoism, Lao Tzu, once visited. Experience an unforgettable trail running adventure within an enchanting green paradise; breathtaking natural landscapes consisting of magnificent Mount Yun, lush pine forests and ice cave formations...",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-mount-yun-by-utmb",
-   "updated_at": "2026-09-11T09:13:20.706558+00:00",
+   "updated_at": "2026-09-12T00:41:42.79456+00:00",
    "distances": [
     {
      "label": "97K",
@@ -6570,7 +6503,7 @@
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/2-uluslar-arasi-ordu-yari-maratonu",
-   "updated_at": "2026-09-11T05:23:52.188937+00:00",
+   "updated_at": "2026-09-12T05:09:44.879062+00:00",
    "distances": [
     {
      "label": "21K",
@@ -6632,7 +6565,7 @@
    "description_tr": "TCS Amsterdam Maratonu 17-18 Ekim 2026'da düzenleniyor; parkur şehrin öne çıkan noktalarından geçiyor.",
    "description_en": "TCS Amsterdam Marathon is being held on 17-18 October 2026; the course passes through the city's prominent landmarks.",
    "page_url": "https://yarisradari.com/yaris/amsterdam-maratonu",
-   "updated_at": "2026-09-11T05:24:16.526088+00:00",
+   "updated_at": "2026-09-12T05:10:53.402461+00:00",
    "distances": [
     {
      "label": "42K",
@@ -6680,7 +6613,7 @@
    "description_tr": "Kuruçeşme Cemil Topuzlu Parkı'ndan start alan 10,5 kilometrelik parkur, Muallim Naci Caddesi boyunca sahili takip ederek Cevdet Paşa Caddesi'ndeki U dönüşüne uzanıyor; sporcular ardından Çırağan Caddesi yönünde ilerleyip başladıkları noktada bitiriyor. Boğaz hattındaki bu hızlı rota, Caddebostan sahilinde koşulan ilk etabın madalyasıyla birleşince İstanbul haritasını oluşturan bir koleksiyon tamamlanıyor. Yarış aynı zamanda İstanbul Maratonu kriter koşusu olarak düzenleniyor: belirlenen süre içinde bitirenler maratona katılma hakkı kazanabiliyor. Katılım 16 yaş ve üzerine açık.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/bosphorun-quarter-marathon-bebek",
-   "updated_at": "2026-09-11T05:23:55.867212+00:00",
+   "updated_at": "2026-09-12T05:09:48.257512+00:00",
    "distances": [
     {
      "label": "10.5K",
@@ -6728,7 +6661,7 @@
    "description_tr": "Anadolu'dan Avrupa'ya uzanan kadim geçiş güzergâhının üzerinde, Trakya'nın ortasındaki Çorlu'da koşuluyor. Organizasyon Türkiye Atletizm Federasyonu iş birliğiyle yürütülüyor ve parkur şehrin geniş caddelerinde ilerliyor. 21 kilometrelik yarı maratonun yanında 10K halk koşusu ile 1K çocuk koşusu da programda yer alıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/uluslararasi-corlu-yari-maratonu",
-   "updated_at": "2026-09-11T05:23:59.277845+00:00",
+   "updated_at": "2026-09-12T05:09:51.335424+00:00",
    "distances": [
     {
      "label": "21K",
@@ -6838,7 +6771,7 @@
    "description_tr": "Tarih ve vahşi doğa arasında, bu Puglia by UTMB sizi Matera'dan Castellaneta Marina'ya götürüyor; spektaküler Gravine Natural Park'ı geçerek. Dik patikalar, nefes kesen kanyonlar ve muazzam panoramalar bu zorlu parkuru işaretliyor. Kayalıklar ve Akdeniz bitkileriyle dolu bir maceradan sonra, İyon Denizi'nin altın kumlu plajlarına ulaşmak unutulmaz bir ödül. Meydan okumaya atılmaya ve Puglia'da benzersiz bir macera yaşamaya hazır mısınız?",
    "description_en": "Between history and wild nature, this Puglia by UTMB takes you from Matera to Castellaneta Marina; crossing the spectacular Gravine Natural Park. Steep trails, breathtaking canyons and stunning panoramas mark this challenging course. After an adventure filled with rocky terrain and Mediterranean vegetation, reaching the golden sandy beaches of the Ionian Sea is an unforgettable reward. Are you ready to take on the challenge and experience a unique adventure in Puglia?",
    "page_url": "https://yarisradari.com/yaris/puglia-by-utmb",
-   "updated_at": "2026-09-11T09:15:05.529109+00:00",
+   "updated_at": "2026-09-12T00:43:12.246484+00:00",
    "distances": [
     {
      "label": "145K",
@@ -6942,7 +6875,7 @@
    "description_tr": "Alanya'da aynı hafta sonu üç ayrı organizasyon koşulur: Avrupa Triatlon Kupası (elit sprint), Dünya Triatlon Para Kupası ve yaş grubu sporcuların standart mesafede yarıştığı Türkiye Kupası Finali. Yüzme etabı Akdeniz'de, bisiklet parkuru şehir içinde, koşu etabı Kleopatra Plajı sahilinde geçer.",
    "description_en": "Three separate organizations will be held the same weekend in Alanya: Europe Triathlon Cup (elite sprint), World Triathlon Para Cup, and Turkey Cup Final where age-group athletes compete at standard distance. The swimming stage takes place in the Mediterranean; the cycling course runs through the city; the running stage passes along Cleopatra Beach shore.",
    "page_url": "https://yarisradari.com/yaris/alanya-triatlonu-turkiye-kupasi-finali-yas-grubu-standart-mesafe",
-   "updated_at": "2026-09-11T09:14:41.416966+00:00",
+   "updated_at": "2026-09-12T05:11:06.211392+00:00",
    "distances": [
     {
      "label": "Standart (Olimpik)",
@@ -6963,7 +6896,7 @@
     {
      "kind": "standard",
      "opens_at": null,
-     "closes_at": "2026-10-21T20:59:00+00:00",
+     "closes_at": "2026-10-18T20:59:00+00:00",
      "price": null,
      "currency": "TRY",
      "url": "https://portal.triatlon.org.tr/tr/portal/race/2026-alanya-triatlonu-turkiye-kupasi-finali-yas-gr/"
@@ -6990,7 +6923,7 @@
    "description_tr": "2015'ten beri düzenlenen uluslararası açık su serisinin 27. edisyonu; İçmeler'de iki günde 1K, 2K, 3K ve 5K bireysel yarışlar, bayrak yarışları ve 300 metrelik gece yüzmesi programda. Türkiye Yüzme Federasyonu hakemleri gözetiminde çip zamanlamayla yüzülüyor.",
    "description_en": "The 27th edition of the international open water series organized since 2015; in İçmeler over two days 1K, 2K, 3K and 5K individual races, relay races and 300-meter night swim on the program. Swum with chip timing under the supervision of Turkish Swimming Federation referees.",
    "page_url": "https://yarisradari.com/yaris/aquachallenge-marmaris",
-   "updated_at": "2026-09-11T05:24:27.019063+00:00",
+   "updated_at": "2026-09-12T05:11:04.542202+00:00",
    "distances": [
     {
      "label": "10K",
@@ -7094,7 +7027,7 @@
    "description_tr": "Heliz tarafından düzenlenen koşu yarışları, maratonlar ve spor etkinlikleri. Kaş Yarımaratonu ve daha fazlası.",
    "description_en": "Running races, marathons and sports events organized by Heliz. Kaş Half Marathon and more.",
    "page_url": "https://yarisradari.com/yaris/heliz-kas-yari-maratonu",
-   "updated_at": "2026-09-11T05:24:19.777429+00:00",
+   "updated_at": "2026-09-12T05:10:56.048457+00:00",
    "distances": [
     {
      "label": "21K",
@@ -7170,7 +7103,7 @@
    "description_tr": "Zeytinburnu Belediyesi tarafından geleneksel olarak düzenlenen Uluslararası Zeytinburnu Cumhuriyet Koşusu, bu yıl 17’nci kez koşulacak. Türkiye’nin farklı şehirlerinden ve yurt dışından çok sayıda sporcunun katılması beklenen organizasyon için çevrimiçi başvuru süreci başladı. 25 Ekim 2026 Pazar günü gerçekleştirilecek yarışta sporcular, Zeytinburnu sınırları içerisinde belirlenen 10 kilometrelik parkurda mücadele edecek. Koşunun startı Kazlıçeşme Sanat önünden verilirken, […]",
    "description_en": "The International Zeytinburnu Republic Race, traditionally organized by Zeytinburnu Municipality, will be held for the 17th time this year. The online application process has begun for the event, which is expected to attract many athletes from different cities in Turkey and from abroad. The race will take place on Sunday, October 25, 2026, where athletes will compete on a 10-kilometer course determined within Zeytinburnu boundaries. The race will start from in front of Kazlıçeşme Sanat, […]",
    "page_url": "https://yarisradari.com/yaris/17-uluslararasi-zeytinburnu-cumhuriyet-kosusu",
-   "updated_at": "2026-09-11T05:25:30.78621+00:00",
+   "updated_at": "2026-09-12T05:12:04.584774+00:00",
    "distances": [
     {
      "label": "10K",
@@ -7218,7 +7151,7 @@
    "description_tr": "30 Ağustos Zafer Parkı'nda, resmî olarak ölçülmüş 1.250 metrelik bir döngü üzerinde koşuluyor. Katılımcılar 1, 2, 4 ve 6 saatlik kategorilerden birini seçiyor; sıralama süre dolmadan tamamlanan tur sayısı ile son turda kat edilen metrelerin toplamına göre yapılıyor. Yaş ve cinsiyet ayrımı olmadan herkes tek genel klasmanda yarışıyor, kontenjan 40 sporcuyla sınırlı tutuluyor. Dört şehre yayılan zaman koşusu serisinin ayaklarından biri.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/ankara-zaman-kosusu",
-   "updated_at": "2026-09-11T05:25:43.62724+00:00",
+   "updated_at": "2026-09-12T05:11:23.462306+00:00",
    "distances": [
     {
      "label": "1 Saat",
@@ -7356,7 +7289,7 @@
    "description_tr": "Parkuru hızlı, atmosferi coşkulu, finişi unutulmaz: Frankfurt Maratonu kendine özgü bir koşu deneyimi sunar.",
    "description_en": "The course is fast, the atmosphere is exciting, the finish is unforgettable: Frankfurt Marathon offers a unique running experience.",
    "page_url": "https://yarisradari.com/yaris/frankfurt-maratonu",
-   "updated_at": "2026-09-11T05:26:02.721688+00:00",
+   "updated_at": "2026-09-12T05:12:08.767101+00:00",
    "distances": [
     {
      "label": "42K",
@@ -7404,7 +7337,7 @@
    "description_tr": "Türkiye’nin en büyüleyici manzaralarından biri üzerinde koşmaya hazır mısınız? Lykos Half Marathon, UNESCO dünya mirası travertenlerin ve Hierapolis antik kentinin arasında, tarihle doğanın birleştiği bir rota sunar. Bu sadece bir yarış değil; unutulmaz bir koşu deneyimi.",
    "description_en": "Are you ready to run over one of Turkey's most captivating landscapes? Lykos Half Marathon offers a route between UNESCO world heritage travertines and the ancient city of Hierapolis, where history and nature meet. This is not just a race; it is an unforgettable running experience.",
    "page_url": "https://yarisradari.com/yaris/lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu",
-   "updated_at": "2026-09-11T05:25:52.961054+00:00",
+   "updated_at": "2026-09-12T05:11:32.021444+00:00",
    "distances": [
     {
      "label": "21K",
@@ -7480,7 +7413,7 @@
    "description_tr": "Türkiye Atletizm Federasyonu’nun 2026 faaliyet programında yer alan 18. Uluslararası Tarsus Yarı Maratonu 25 Ekim 2026 tarihinde Tarsus’ta düzenlenecektir. Kayıtlar sadece internet üzerinden alınacaktır. 1. Yarışmalar Atletizm Federasyonu ve WA yarışma kurallarına uygun olarak yapılacaktır.",
    "description_en": "The 18th International Tarsus Half Marathon, included in the Turkish Athletics Federation's 2026 activity program, will be held in Tarsus on 25 October 2026. Registrations will be accepted only online. 1. Competitions will be conducted in accordance with the Athletics Federation and WA competition rules.",
    "page_url": "https://yarisradari.com/yaris/tarsus-yari-maratonu",
-   "updated_at": "2026-09-11T09:16:08.752241+00:00",
+   "updated_at": "2026-09-12T05:11:11.819819+00:00",
    "distances": [
     {
      "label": "21K",
@@ -7528,7 +7461,7 @@
    "description_tr": "Çeşme'nin sekizinci kez ev sahipliği yaptığı yol bisikleti yarışında 91, 67 ve 41 kilometrelik üç parkur şehir merkezinden başlayıp sahil yollarında ilerliyor. Türkiye Bisiklet Federasyonu 2026 Gran Fondo serisinin ayağı; katılım ücretleri Veloturk Charity projesine aktarılıyor ve her parkurda 1000 katılımcı sınırı var.",
    "description_en": "In the road cycling race, which Çeşme is hosting for the eighth time, three routes of 91, 67 and 41 kilometers start from the city center and proceed along coastal roads. A stage of the Turkish Cycling Federation's 2026 Gran Fondo series; entry fees are transferred to the Veloturk Charity project and each route has a limit of 1000 participants.",
    "page_url": "https://yarisradari.com/yaris/veloturk-gran-fondo-cesme",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:11:35.006649+00:00",
    "distances": [
     {
      "label": "91K",
@@ -7604,7 +7537,7 @@
    "description_tr": "Alanya ve çevresinde altı gün süren uluslararası oryantiring festivali. Kızılalan, Gedevet, Alanya Kalesi, Cebelireis ve Tophane etaplarının yanı sıra Alanya çarşısında gece oryantiringi yapılıyor; etaplar dünya sıralaması (WRE) kapsamında.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/antalya-o-fest",
-   "updated_at": "2026-08-23T23:06:20.42064+00:00",
+   "updated_at": "2026-09-12T01:22:36.613087+00:00",
    "distances": [],
    "registration": [
     {
@@ -7637,7 +7570,7 @@
    "description_tr": "AquaChallenge şampiyonasının üçüncü gününde Göcek'te yüzülen 10 kilometrelik açık su etabı; Marmaris'teki iki günlük programın devamı olarak Setur Marina çevresinde koşuluyor. 10K'ya üç günü kapsayan AquaUltra paketiyle katılınabiliyor.",
    "description_en": "On the third day of the AquaChallenge championship, the 10-kilometer open water stage swum in Göcek; continues as part of the two-day program in Marmaris around Setur Marina. You can participate in the 10K with the AquaUltra package covering three days.",
    "page_url": "https://yarisradari.com/yaris/aquachallenge-gocek",
-   "updated_at": "2026-09-11T05:26:06.20858+00:00",
+   "updated_at": "2026-09-12T05:12:11.555677+00:00",
    "distances": [
     {
      "label": "10K",
@@ -7769,7 +7702,7 @@
    "description_tr": "Mülkiye öğrencilerinin burs fonuna destek olmak için iki yıl üst üste düzenlenen Mülkiye Cumhuriyet Koşusu ’nun bu yıl üçüncüsü düzenlenecektir. Amacımız her yıl öğrencilerimize burs olarak dönecek bu koşuyu sadece gelenekselleştirmek değil, aynı zamanda Ankara’nın ve Türkiye’nin önde gelen koşu yarışlarından biri haline getirmektir.",
    "description_en": "The third edition of the Mülkiye Cumhuriyet Koşusu, which has been organized for two consecutive years to support the scholarship fund for Mülkiye students, will be held this year. Our aim is not only to establish this race as a tradition that returns to our students as scholarships each year, but also to make it one of the leading running races in Ankara and Turkey.",
    "page_url": "https://yarisradari.com/yaris/mulkiye-cumhuriyet-kosusu",
-   "updated_at": "2026-09-11T05:26:08.812765+00:00",
+   "updated_at": "2026-09-12T05:12:13.690852+00:00",
    "distances": [],
    "registration": [
     {
@@ -7802,7 +7735,7 @@
    "description_tr": "A+ 100 Mil yarışının ultimate deneyimini yaşayın. 15 muhteşem doğa rezervini ve iki dağı geçerek ilerleyin. Arazi nispeten düz olmasına rağmen bu yarış son derece zorludur. Başlangıç noktası Höganäs, ardından Mölle'ye prologue ve efsanevi Kullaberg gelir; burada güçlü Kullamannen efsanesinin doğduğu yer. Kendinizi sınırınızın ötesine itmeye hazırlık yapın; İsveç'in en popüler doğa rezervlerinden biri olan güzel Kullberg Dağı'ndaki teknik single tracklar sizi bekliyor...",
    "description_en": "Experience the ultimate A+ 100 Mil race. Progress through 15 magnificent nature reserves and two mountains. Despite the terrain being relatively flat, this race is extremely challenging. Starting point Höganäs, followed by prologue to Mölle and the legendary Kullaberg; here is where the powerful Kullamannen legend was born. Prepare to push yourself beyond your limits; technical single tracks on the beautiful Kullberg Mountain, one of Sweden's most popular nature reserves, await you...",
    "page_url": "https://yarisradari.com/yaris/kullamannen-by-utmb",
-   "updated_at": "2026-09-11T09:16:31.979639+00:00",
+   "updated_at": "2026-09-12T00:45:05.307503+00:00",
    "distances": [
     {
      "label": "173K",
@@ -7892,7 +7825,7 @@
    "description_tr": "Mallorca Akdeniz'in özüdür. Keşfedilecek ve tadılacak binlerce köşesi olan bir adadadır. Mallorca deniz, kara ve havadır. Doğa en saf halinde. Mallorca by UTMB® dünyadaki en çeşitli dağ yarışlarından biri. Serra de Tramuntana Doğal Alanı'nda (UNESCO Dünya Mirası Alanı) gerçekleştirilecek 100M, 100K, 50K ve 20K kategorilerinde dört mesafe. Eşsiz bir manzarada olağanüstü bir macera.",
    "description_en": "Mallorca is the essence of the Mediterranean. It is an island with thousands of corners to discover and taste. Mallorca is sea, land and sky. Nature in its purest form. Mallorca by UTMB® is one of the most diverse mountain races in the world. Four distances in the 100M, 100K, 50K and 20K categories to be held in the Serra de Tramuntana Natural Area (UNESCO World Heritage Site). An extraordinary adventure in an unparalleled landscape.",
    "page_url": "https://yarisradari.com/yaris/mallorca-by-utmb",
-   "updated_at": "2026-09-11T09:16:42.727016+00:00",
+   "updated_at": "2026-09-12T00:45:15.224219+00:00",
    "distances": [
     {
      "label": "138K",
@@ -7982,7 +7915,7 @@
    "description_tr": "Şehit Fethi Bey Parkı'nın düz park yolunda, 1,39 kilometrelik bir döngü üzerinde koşuluyor. 4 ve 6 saatlik kategorilerde süre dolmadan tamamlanan turlar mesafeye ekleniyor; 10K ve 25K'da ise klasik yarış mantığı geçerli, bitiş çizgisine ilk ulaşan kazanıyor. Sekizinci kez düzenlenen etkinlik zaman koşusu serisinin bir ayağı: seri şampiyonu İzmir, Ankara, Fethiye ve Antalya'daki derecelerin toplamıyla belirleniyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/fethiye-ultra",
-   "updated_at": "2026-09-11T05:26:19.335296+00:00",
+   "updated_at": "2026-09-12T05:12:23.127318+00:00",
    "distances": [
     {
      "label": "50K",
@@ -8158,7 +8091,7 @@
    "description_tr": "Dünyanın kıtalararası tek maratonu İstanbul Maratonu’nda koşun! Tarihi güzellikler eşliğinde unutulmaz bir deneyim sizi bekliyor.",
    "description_en": "Run the world's only intercontinental marathon at Istanbul Marathon! An unforgettable experience awaits you accompanied by historic beauties.",
    "page_url": "https://yarisradari.com/yaris/istanbul-maratonu",
-   "updated_at": "2026-09-11T05:26:36.80505+00:00",
+   "updated_at": "2026-09-12T05:12:38.543764+00:00",
    "distances": [
     {
      "label": "42K",
@@ -8236,7 +8169,7 @@
    "description_tr": "Staten Island'dan Verrazzano-Narrows Köprüsü ile başlayan rota Brooklyn, Queens, Bronx ve Manhattan'dan geçerek Central Park'ta sona eriyor; 42 kilometrelik parkur şehrin beş ilçesinin tamamını dolaşıyor. Dünyanın en kalabalık maratonlarından biri: son edisyonu 130 ülkeden gelen 59 binden fazla koşucu tamamladı. Beş ilçeli güzergâh ilk kez 1976'da uygulandı.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/new-york-maratonu",
-   "updated_at": "2026-09-11T05:26:41.651231+00:00",
+   "updated_at": "2026-09-12T05:12:43.045897+00:00",
    "distances": [
     {
      "label": "42K",
@@ -8284,7 +8217,7 @@
    "description_tr": "Kuzey Sichuan'da, binlerce yıllık Shu Yolları boyunca Jiange'den Zhaohua'ya uzanıyor. Jiange Stadyumu'ndan start alan parkur 1.073 metre yükseklikteki Daping Dağı'nın zirvesine tırmanıyor; rota Jianmen Geçidi'nin ikiz tepelerinden, Cuiyun Koridoru'nun kadim servi ormanından ve Chaotianping'in bulutla kaplı teraslı tarlalarından geçiyor. Mesafeler 21,5 kilometreden 104 kilometreye kadar dört seçenek sunuyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/ultra-trail-shudao-by-utmb",
-   "updated_at": "2026-09-11T09:17:10.754113+00:00",
+   "updated_at": "2026-09-12T00:45:48.899695+00:00",
    "distances": [
     {
      "label": "104K",
@@ -8407,7 +8340,7 @@
    "description_tr": "Adana'nın ilk patika yarışı. Toros Dağları ve Çakıt Vadisi boyunca, tarihi Varda Köprüsü'nde son bulan bir ultra patika koşusu; en uzun parkur (59K) için 13 saat süre sınırı vardır.",
    "description_en": "Adana's first trail race. An ultra trail run along the Toros Mountains and Çakıt Valley, ending at the historic Varda Bridge; the longest course (59K) has a 13-hour time limit.",
    "page_url": "https://yarisradari.com/yaris/varda-ultra-trail",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:12:54.179477+00:00",
    "distances": [
     {
      "label": "62K",
@@ -8435,7 +8368,7 @@
      "run_km": null,
      "start_time": null,
      "surface_note": null,
-     "gpx_url": "https://www.vardaultratrail.com/wp-content/uploads/2025/10/Varda-Ultra-62k-2025.gpx"
+     "gpx_url": null
     },
     {
      "label": "27K",
@@ -8497,7 +8430,7 @@
    "description_tr": "Karşıyaka Belediyesi'nin Türkiye Atletizm Federasyonu iş birliğiyle düzenlediği yol koşusu, Atatürk'ün ölüm yıl dönümünde Zübeyde Hanım Anıt Mezarı çevresinde koşuluyor. Otuz yılı aşkın süredir aralıksız düzenlenen etkinliğin tek mesafesi 4 kilometre ve parkur Karşıyaka sahil hattında ilerliyor. Katılım halka açık, kayıt organizatörün kendi sitesinden alınıyor.",
    "description_en": "IZMIR, (DHA) - The 'Respect from Ata to Mother Run,' held for the 28th time this year in the Karşıyaka district of IZMIR in commemoration of the death anniversary of Great Leader Mustafa Kemal Atatürk, was organized with the participation of 1,700 people. Speaking at the awards ceremony, Karşıyaka Mayor Cemil Tugay said, \"This run has a very special meaning for all of us. Right now we are standing right in front of our mother Zübeyde's monumental tomb; we are once again showing our love and respect for her and her son Gazi Mustafa Kemal Atatürk. With gratitude to our Ata and our mother Zübeyde…",
    "page_url": "https://yarisradari.com/yaris/ata-dan-ana-ya-saygi-kosusu",
-   "updated_at": "2026-09-11T05:26:54.299471+00:00",
+   "updated_at": "2026-09-12T05:12:56.276065+00:00",
    "distances": [
     {
      "label": "4K",
@@ -8545,7 +8478,7 @@
    "description_tr": "Klasik rota, Marathon Savaşı'nda ölenler için yapılan anıt mezarın çevresinden başlıyor ve Marathonos Caddesi üzerinden Atina'ya doğru ilerliyor. İlk kilometreler hafif inişli, Pikermi'den sonra inişli çıkışlı bölümler birbirini izliyor; en zor kısım Gerakas'tan Stavros kavşağına uzanan uzun tırmanış. Finalde koşucular Vasilissis Sofias Bulvarı'ndan Panathinaiko Stadyumu'na giriyor ve son 170 metreyi tartan zeminde tamamlıyor. Kırk üçüncü kez düzenleniyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/atina-maratonu",
-   "updated_at": "2026-09-11T05:27:00.902018+00:00",
+   "updated_at": "2026-09-12T05:13:02.37698+00:00",
    "distances": [
     {
      "label": "42K",
@@ -8593,7 +8526,7 @@
    "description_tr": "Peribacaları ve kayaya oyulmuş mağara köylerinin arasında maraton, yarı maraton ya da 10K. Parkur Göreme'de başlayıp biten bir döngü; Güllüdere ve Aşk Vadisi başta olmak üzere kanyonlardan, vadilerden ve köylerden geçiyor. Zemin yaklaşık %65 toprak yol, %25 patika, %10 şehir içi. Yabancı organizatör katılımı beş günlük konaklamalı paket olarak satıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/cappadocia-marathon",
-   "updated_at": "2026-09-03T10:49:07.649221+00:00",
+   "updated_at": "2026-09-12T01:22:36.613087+00:00",
    "distances": [
     {
      "label": "Marathon",
@@ -8669,7 +8602,7 @@
    "description_tr": "Fethiye merkezindeki Beşkaza Meydanı'ndan start alıp yine aynı meydanda tamamlanan parkur, deniz manzarası eşliğinde koşuluyor. Yarı maratonun yanında 10 kilometrelik kısa mesafe seçeneği de bulunuyor, böylece farklı seviyelerden koşucular aynı programa girebiliyor. İki yarış da sabah dokuzda başlıyor ve toplam kontenjan 500 sporcuyla sınırlı.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/fethiye-likyari-maratonu",
-   "updated_at": "2026-09-11T05:27:03.297372+00:00",
+   "updated_at": "2026-09-12T05:13:04.215843+00:00",
    "distances": [
     {
      "label": "21K",
@@ -8731,7 +8664,7 @@
    "description_tr": "2026 UCI Gran Fondo World Series'in Türkiye ayağı ve UCI Gran Fondo Dünya Şampiyonası kota yarışı; 105 ve 73 kilometrelik parkurlar The Land of Legends'tan başlıyor. Etkinlik programı 5-8 Kasım'a yayılıyor; 6 Kasım'da 20 kilometrelik zamana karşı yarışı da koşuluyor.",
    "description_en": "The Turkish leg of the 2026 UCI Gran Fondo World Series and UCI Gran Fondo World Championships qualifying race; 105 and 73 kilometre courses starting from The Land of Legends. The event programme spans 5-8 November; a 20 kilometre time trial is also held on 6 November.",
    "page_url": "https://yarisradari.com/yaris/uci-gran-fondo-antalya",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:12:59.945241+00:00",
    "distances": [
     {
      "label": "105K",
@@ -8849,7 +8782,7 @@
    "description_tr": "Antalya Canyon Ultra, Toroslar'ın kanyonlarında koşulan ilk edisyon patika organizasyonudur. Güver Uçurumu çevresindeki parkurlar 7 km'den 70 km'ye kadar beş mesafede koşulur; kayıtlar kontenjan dolmadan kapanabilir.",
    "description_en": "Antalya Canyon Ultra is a trail organization in its first edition run through the canyons of the Taurus Mountains. The courses around Güver Gorge are run over five distances ranging from 7 km to 70 km; registrations may close before capacity is reached.",
    "page_url": "https://yarisradari.com/yaris/antalya-canyon-ultra",
-   "updated_at": "2026-09-11T09:18:43.405605+00:00",
+   "updated_at": "2026-09-12T00:47:31.54131+00:00",
    "distances": [
     {
      "label": "70K Antalya Termessos Ultra",
@@ -8953,7 +8886,7 @@
    "description_tr": "HOKA Pacific Trails California by UTMB'de California'nın doğal güzelliği tam olarak ortaya çıkıyor. Santa Ynez Vadisi'nde Rancho San Fernando Rey'de yer alan bu yarışta, koşucular dağlar, otlaklar, uçurumlar, bağlar ve zeytin bahçeleri boyunca koşarken doğal manzaradan yararlanacaklar. Daha önce halka açık olmayan bu yarış, tipik bir California çiftliğine özel bir bakış sunuyor. Vintage California'yı bu eşsiz yarış deneyiminde yaşama fırsatı için bize katılın.",
    "description_en": "At HOKA Pacific Trails California by UTMB, California's natural beauty is fully revealed. Located at Rancho San Fernando Rey in Santa Ynez Valley, runners on this race will take advantage of the natural scenery while running through mountains, meadows, cliffs, vineyards and olive groves. Previously not open to the public, this race offers a special glimpse into a typical California ranch. Join us for the opportunity to experience vintage California in this unique race experience.",
    "page_url": "https://yarisradari.com/yaris/hoka-pacific-trails-california-by-utmb",
-   "updated_at": "2026-09-11T09:19:10.109306+00:00",
+   "updated_at": "2026-09-12T00:47:57.824186+00:00",
    "distances": [
     {
      "label": "51K",
@@ -9015,7 +8948,7 @@
    "description_tr": "TransLantau™ by UTMB® parkurları ve Lantau adasının, Hong Kong bölgesinin en büyük adasının zirvelerini keşfeder.",
    "description_en": "TransLantau™ by UTMB® routes explore the peaks of Lantau island, Hong Kong region's largest island.",
    "page_url": "https://yarisradari.com/yaris/translantau-by-utmb",
-   "updated_at": "2026-09-11T09:19:05.85876+00:00",
+   "updated_at": "2026-09-12T00:48:02.685123+00:00",
    "distances": [
     {
      "label": "104K",
@@ -9105,7 +9038,7 @@
    "description_tr": "Latmos Ultra Marathon ‘u, Aydın/Muğla ili sınırları arasıda yer alan Beşparmak dağları etrafında Muğla Büyükşehir Belediyesi himayesinde 14 Kasım tarihinde organize edilecektir. Latmos Ultra Marathon’u, Latmos Lake Trail 10K, Latmos Short Trail 17Km Latmos Medium Trail 26Km ve Latmos Ultra Marathon 45Km olmak üzere dört (4) etaptan oluşmaktadır.",
    "description_en": "Latmos Ultra Marathon will be organized on November 14 under the auspices of Muğla Metropolitan Municipality around the Beşparmak mountains located between the borders of Aydın/Muğla provinces. Latmos Ultra Marathon consists of four (4) stages: Latmos Lake Trail 10K; Latmos Short Trail 17Km; Latmos Medium Trail 26Km; and Latmos Ultra Marathon 45Km.",
    "page_url": "https://yarisradari.com/yaris/latmos-ultra",
-   "updated_at": "2026-09-11T09:21:14.85002+00:00",
+   "updated_at": "2026-09-12T05:13:22.63047+00:00",
    "distances": [
     {
      "label": "45K",
@@ -9465,7 +9398,7 @@
    "description_tr": "15 Kasım 2026 Pazar günü, Mersin’in Mezitli ilçesinde yer alan ve binlerce yıllık geçmişiyle büyüleyen Soli Antik Kenti’nin önünden başlayıp yine aynı tarihi noktada sona erecek olan Soli 10K; koşucuları bu kez geçmişten geleceğe uzanan ikinci bir yolculuğa davet ediyor.",
    "description_en": "On Sunday, November 15, 2026, Soli 10K, starting from and finishing at Soli Ancient City, located in the Mezitli district of Mersin and enchanting with its thousands of years of history, invites runners on a second journey stretching from past to future.",
    "page_url": "https://yarisradari.com/yaris/soli-10k",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:13:58.315534+00:00",
    "distances": [
     {
      "label": "10K",
@@ -9513,7 +9446,7 @@
    "description_tr": "Patagonia Bariloche by UTMB, Arjantin'in en etkileyici bölgesinin kalbinde; dağlar, ormanlar ve göller arasında unutulmaz bir ultra trail deneyimi sunuyor.",
    "description_en": "Patagonia Bariloche by UTMB, in the heart of Argentina's most impressive region; offers an unforgettable ultra trail experience among mountains, forests and lakes.",
    "page_url": "https://yarisradari.com/yaris/patagonia-bariloche-by-utmb",
-   "updated_at": "2026-09-11T09:20:19.165224+00:00",
+   "updated_at": "2026-09-12T00:49:12.575298+00:00",
    "distances": [
     {
      "label": "132K",
@@ -9631,7 +9564,7 @@
    "description_tr": "Çatalkaya Ultra; doğaya saygı, fair play, güvenlik ve dayanışmayı esas alan bir arazi koşusu organizasyonudur. Kayıt olan her katılımcı aşağıdaki tüm kuralları kabul etmiş sayılır. Tüm katılımcılar birbirine karşı saygılı ve destekleyici davranmak zorundadır. Bilinçli engelleme, itme, agresif davranış ve sözlü saygısızlık kabul edilemez. Zor durumda olan bir koşucuya yardım etmek trail ruhunun temelidir.",
    "description_en": "Çatalkaya Ultra is a trail running event based on respect for nature, fair play, safety and solidarity. Every registered participant is deemed to have accepted all the rules below. All participants must behave respectfully and supportively towards each other. Deliberate blocking, pushing, aggressive behavior and verbal disrespect are unacceptable. Helping a runner in difficulty is fundamental to the trail spirit.",
    "page_url": "https://yarisradari.com/yaris/catalkaya-ultra-trail",
-   "updated_at": "2026-09-11T09:20:55.758622+00:00",
+   "updated_at": "2026-09-12T05:15:45.010701+00:00",
    "distances": [
     {
      "label": "74K",
@@ -9735,7 +9668,7 @@
    "description_tr": "Gaziantep Büyükşehir Belediyesi'nin Türkiye Atletizm Federasyonu ile düzenlediği yarışın sekizinci edisyonunda 21 ve 10 kilometre olmak üzere iki mesafe koşuluyor, kontenjan 2.000 sporcuyla sınırlı. Yarı maratonda 2 saat 50 dakika, 10K'da 1 saat 30 dakikalık kesme süresi uygulanıyor. Genel klasmanda para ödülü var, parkur rekoru kıran kadın ve erkek sporculara ayrıca prim veriliyor; 21 kilometreyi 27. sırada bitirenlere ise birer kilo baklava veriliyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/8-gazi-yari-maratonu",
-   "updated_at": "2026-09-11T05:29:46.743287+00:00",
+   "updated_at": "2026-09-12T05:15:49.876293+00:00",
    "distances": [
     {
      "label": "21K",
@@ -9797,7 +9730,7 @@
    "description_tr": "Çenedağ Ultra Trail, Kocaeli Derince’de Marmara Denizi manzarası ve orman ekosisteminin buluştuğu uluslararası standartlarda bir patika koşusu organizasyonudur.",
    "description_en": "Çenedağ Ultra Trail is an international standard trail running event organized in Kocaeli Derince where views of the Marmara Sea and forest ecosystem meet.",
    "page_url": "https://yarisradari.com/yaris/cenedag-ultra-trail",
-   "updated_at": "2026-09-11T09:21:19.537565+00:00",
+   "updated_at": "2026-09-12T05:16:05.11955+00:00",
    "distances": [
     {
      "label": "57K",
@@ -9949,7 +9882,7 @@
    "description_tr": "Bursa'nın Nilüfer ilçesinde koşulan 10 kilometrelik yol koşusunun sağlık, güvenlik, parkur ve sevk idaresi Bidogu Medya tarafından yürütülüyor. Federasyon statüsüne göre yarış günü itibarıyla 16 yaşını doldurmuş sporcular kayıt yaptırabiliyor. Göğüs numarası ve çip dağıtımı yarıştan önceki iki gün yapılıyor; yarış sabahı geç kit teslimi olmadığından çipi ve numarası olmayan sporcu parkura alınmıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/kesifrun-nilufer",
-   "updated_at": "2026-09-11T09:20:55.524906+00:00",
+   "updated_at": "2026-09-12T05:16:22.376045+00:00",
    "distances": [
     {
      "label": "10K",
@@ -9997,7 +9930,7 @@
    "description_tr": "Ultra-Trail Kosciuszko, Avustralya'nın Snowy Mountains Ulusal Parkı'nda (New South Wales) düzenlenen alpin ultra trail etkinliğidir. 100 mil, 100 km, 50 km ve 30 km seçenekleri sunar; UTMB World Series'in parçasıdır.",
    "description_en": "Ultra-Trail Kosciuszko is an alpine ultra trail event held in Snowy Mountains National Park in Australia (New South Wales). It offers 100 mile, 100 km, 50 km and 30 km options; it is part of the UTMB World Series.",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-kosciuszko-by-utmb",
-   "updated_at": "2026-09-11T09:21:49.563438+00:00",
+   "updated_at": "2026-09-12T00:50:31.013034+00:00",
    "distances": [
     {
      "label": "161K",
@@ -10087,7 +10020,7 @@
    "description_tr": "Etkinliğin merkezi Chiang Mai'deki PAO Park; startlar bu alan ile Doi Inthanon Milli Parkı'nın karargâhı arasında paylaşılıyor. Parkurlar adını bölgenin dağlarından ve kültürel simgelerinden alıyor: Chedi 20, Inthanon 20, Suthep 20, Hmong 50, Pagoda 50, Elephant 100 ve Chiang Dao 160 kategorileri, bazı mesafelerde gündüz ve gece startlarına ayrılıyor. 3 kilometreden 173 kilometreye uzanan dokuz yarışla UTMB World Series ayaklarından biri.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/hoka-chiang-mai-thailand-by-utmb",
-   "updated_at": "2026-09-11T09:22:05.893513+00:00",
+   "updated_at": "2026-09-12T00:50:45.691953+00:00",
    "distances": [
     {
      "label": "173K",
@@ -10337,7 +10270,7 @@
    "description_tr": "Yarışmalara katılım ücretlidir. Yarışma katılım ücretine şunlar dahildir: Emanet Noktası (Emanet noktasına değerli eşyalarınızı bırakmayınız.) - 14 Şubat Geyik Koşuları’na kaydın varsa ve henüz tişört almadıysan. Yarış gününü beklemeyip şimdiden yaris@maceraakademisi.com ‘a mail atarak tişört satın alabilirsin.",
    "description_en": "Race participation requires a fee. The race participation fee includes: Gear Check (Do not leave valuables at the gear check point.) - If you are registered for the 14 February Deer Run and have not yet received your t-shirt. Instead of waiting until race day, you can purchase your t-shirt now by emailing yaris@maceraakademisi.com.",
    "page_url": "https://yarisradari.com/yaris/geyik-kosulari",
-   "updated_at": "2026-09-11T05:31:07.418929+00:00",
+   "updated_at": "2026-09-12T05:17:12.51329+00:00",
    "distances": [
     {
      "label": "28K",
@@ -10465,7 +10398,7 @@
    "description_tr": "Antalya'nın Demre ilçesinde üç mesafeli olarak koşulan yol yarışı: 5, 12 ve 21 kilometre. Yarı maraton parkuru Myra antik kenti yönünde çıkıp Andriake çevresinde dolaşıyor, Sülüklü ve Taşdibi üzerinden bitişe dönüyor. Toplam tırmanış 202 metrede kaldığı için rota düz sayılabilecek bir profile sahip. Kısa mesafeler ilçe merkezi ve çevresindeki antik yerleşimlerin adlarıyla anılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/st-nicholas-half-marathon",
-   "updated_at": "2026-09-11T05:32:59.835058+00:00",
+   "updated_at": "2026-09-12T05:18:51.160622+00:00",
    "distances": [
     {
      "label": "21K",
@@ -10541,7 +10474,7 @@
    "description_tr": "Valencia Ciudad del Running, şehirdeki koşu etkinliklerini tek çatı altında toplayan ve Valencia'yı uluslararası bir koşu merkezi haline getiren organizasyondur.",
    "description_en": "Valencia Ciudad del Running is an organization that brings together running events in the city under one roof and makes Valencia an international running hub.",
    "page_url": "https://yarisradari.com/yaris/valencia-maratonu",
-   "updated_at": "2026-09-11T05:33:01.557343+00:00",
+   "updated_at": "2026-09-12T05:18:52.663084+00:00",
    "distances": [
     {
      "label": "42K",
@@ -10589,7 +10522,7 @@
    "description_tr": "Dört mesafe. Bir olağanüstü peyzaj. Zorlu dağ ultramaratonlarından daha kısa, yüksek yoğunluklu rotalarına kadar, Oman by UTMB® Hajar Dağları'nı deneyimlemenin, arazi, dayanıklılık ve yargı ile şekillendirilen birçok yolunu sunuyor. Kayıtlar yakında açılacak! Geçerli bir UTMB Index'e sahip koşucular için öncelikli kayıt 9 Şubat 2026'da açılıyor. Genel kayıt 11 Şubat 2026'da açılıyor, uygunluk ölçüsünde. Yerler sınırlı ve hızlı dolması bekleniyor.",
    "description_en": "Four distances. One extraordinary landscape. From challenging mountain ultramarathons to shorter, high-intensity routes, Oman by UTMB® Hajar Mountains offers many ways to experience the range, shaped by terrain, endurance and judgment. Registrations opening soon! Priority registration opens on February 9, 2026 for runners with a valid UTMB Index. General registration opens on February 11, 2026, subject to eligibility. Places are limited and expected to fill quickly.",
    "page_url": "https://yarisradari.com/yaris/oman-by-utmb",
-   "updated_at": "2026-09-11T09:22:40.125031+00:00",
+   "updated_at": "2026-09-12T00:51:28.543105+00:00",
    "distances": [
     {
      "label": "154K",
@@ -10693,7 +10626,7 @@
    "description_tr": "Uluslararası Mersin Maratonu etkinliği 2026-12-13 tarihinde Mersin, Türkiye konumunda gerçekleşecek. Mesafe: 42K, 10K, 5K. Kayıt ve detaylar için tıklayın.",
    "description_en": "International Mersin Marathon event will take place on 2026-12-13 in Mersin, Turkey. Distance: 42K; 10K; 5K. Click for registration and details.",
    "page_url": "https://yarisradari.com/yaris/uluslararasi-mersin-maratonu",
-   "updated_at": "2026-09-11T05:33:12.234142+00:00",
+   "updated_at": "2026-09-12T05:19:02.667543+00:00",
    "distances": [
     {
      "label": "42K",
@@ -10741,7 +10674,7 @@
    "description_tr": "Parkurların bir kısmı trafiğe açık yollardan geçebilir. Trafik kurallarına uymak ve araçlara dikkat edip emniyetli geçiş yapmak katılımcının sorumluluğundadır. 18 yaşını doldurmamış katılımcılarımız Antalya Geyikbayırı Trail 33K parkuruna katılamaz.",
    "description_en": "Some of the courses may pass through roads open to traffic. It is the participant's responsibility to comply with traffic rules, be aware of vehicles, and make safe passages. Our participants who have not completed 18 years of age cannot participate in the Antalya Geyikbayırı Trail 33K course.",
    "page_url": "https://yarisradari.com/yaris/antalya-ultra",
-   "updated_at": "2026-09-11T09:24:51.955319+00:00",
+   "updated_at": "2026-09-12T05:19:54.704312+00:00",
    "distances": [
     {
      "label": "85K",
@@ -10867,7 +10800,7 @@
    "description_tr": "Atatürk'ün 27 Aralık 1919'da Ankara'ya gelişini anmak için düzenlenen geleneksel 10 kilometrelik yol koşusunun 91. edisyonu; önceki yıllarda parkur Dikmen'den Ankara Garı'na iniyordu. Kayıtlar Türkiye Atletizm Federasyonu'nun yol yarışları platformu üzerinden alınıyor.",
    "description_en": "The 91st edition of the traditional 10-kilometer road run organized to commemorate Atatürk's arrival in Ankara on December 27, 1919; in previous years the course descended from Dikmen to Ankara Station. Registration is conducted through the Turkish Athletics Federation's road race platform.",
    "page_url": "https://yarisradari.com/yaris/buyuk-ataturk-kosusu",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:20:12.373008+00:00",
    "distances": [
     {
      "label": "10K",
@@ -10923,7 +10856,7 @@
    "description_tr": "Vietnam Highlands Trail by UTMB, Dalat yaylalarında; Bidoup, Langbiang, Fil Dağı ve Pinhatt olmak üzere dört simge dağı aşan, kültürel mirasla şekillenmiş çeşitli arazilerde benzersiz bir patika deneyimi sunuyor.",
    "description_en": "Vietnam Highlands Trail by UTMB, Dalat highlands; crossing four iconic mountains including Bidoup, Langbiang, Fil Mountain and Pinhatt, offers a unique trail experience on diverse terrains shaped by cultural heritage.",
    "page_url": "https://yarisradari.com/yaris/vietnam-highlands-trail-by-utmb",
-   "updated_at": "2026-09-11T09:23:01.535856+00:00",
+   "updated_at": "2026-09-12T00:52:08.236167+00:00",
    "distances": [
     {
      "label": "104.2K",
@@ -11013,7 +10946,7 @@
    "description_tr": "Arc of Attrition by UTMB, Birleşik Krallık'ın önde gelen kıyı ultra maratonlarından biridir. Cornwall'un etkileyici South West Coast Path rotasında 25 km, 50 km, 100 km veya 100 mil koşulur.",
    "description_en": "Arc of Attrition by UTMB is one of the United Kingdom's leading coastal ultra marathons. Runners compete over 25 km, 50 km, 100 km or 100 miles on Cornwall's impressive South West Coast Path route.",
    "page_url": "https://yarisradari.com/yaris/arc-of-attrition-by-utmb",
-   "updated_at": "2026-09-11T09:23:29.356938+00:00",
+   "updated_at": "2026-09-12T00:52:25.801499+00:00",
    "distances": [
     {
      "label": "173K",
@@ -11136,7 +11069,7 @@
    "description_tr": "Tarawera Ultra-Trail, Yeni Zelanda'nın Rotorua kentinde düzenlenen önde gelen ultra trail etkinliğidir. 100 mil, 102 km, 50 km, 21 km ve 14 km seçenekleri sunar; UTMB World Series'in parçasıdır.",
    "description_en": "Tarawera Ultra-Trail is a leading ultra trail event held in Rotorua, New Zealand. It offers 100 mile, 102 km, 50 km, 21 km and 14 km options; it is part of the UTMB World Series.",
    "page_url": "https://yarisradari.com/yaris/tarawera-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:23:38.315551+00:00",
+   "updated_at": "2026-09-12T00:52:33.479283+00:00",
    "distances": [
     {
      "label": "163K",
@@ -11240,7 +11173,7 @@
    "description_tr": "Antik Meksika Wixárika mirasının köklerine, orman içindeki benzersiz parkurlar, agave tarlalarında ve Puerto Vallarta plajına ulaşan ormanlık bölgelerde daldın.",
    "description_en": "Dive into the roots of ancient Mexico's Wixárika heritage, unique courses through the forest, across agave fields and woodland areas reaching Puerto Vallarta beaches.",
    "page_url": "https://yarisradari.com/yaris/puerto-vallarta-by-utmb",
-   "updated_at": "2026-09-11T09:23:48.375894+00:00",
+   "updated_at": "2026-09-12T00:52:51.653554+00:00",
    "distances": [
     {
      "label": "81K",
@@ -11344,7 +11277,7 @@
    "description_tr": "Sıcak, Sert, Nemli ve Koşulabilir. Seni tropikal açık hava cennetinden geçerek koştur. The Xtrail Kenting by UTMB katılımcıları Taiwan'ın Hengchun Yarımadası'nın evcil olmayan yabani hayatına götürür. Bu engebeli arazide ilerleme sırasında koşucular tropikal manzaranın ham canlılığını hissederler. Sahil kenarından başlayıp dağlara tırmanırken, parkur yarımadanın daha az bilineni tarafını açığa çıkarır. Rota, Kenting'in ikonik plajlarını geniş otlaklara, yoğun ormanlara, dalgalı...",
    "description_en": "Hot, Tough, Humid and Runnable. Run through a tropical open-air paradise. The Xtrail Kenting by UTMB takes participants into the untamed wildlife of Taiwan's Hengchun Peninsula. While progressing through this rugged terrain, runners feel the raw vibrancy of the tropical landscape. Starting from the coast and climbing into the mountains, the course unveils the lesser-known side of the peninsula. The route transitions from Kenting's iconic beaches to vast grasslands, dense forests, undulating...",
    "page_url": "https://yarisradari.com/yaris/xtrail-by-utmb",
-   "updated_at": "2026-09-11T09:23:46.438494+00:00",
+   "updated_at": "2026-09-12T00:53:01.739202+00:00",
    "distances": [
     {
      "label": "98K",
@@ -11448,7 +11381,7 @@
    "description_tr": "🏃‍♂️ ONE TOKYO GLOBAL VIRTUAL RUN artık Strava'da! 1 Ağustos ile 14 Ağustos tarihleri arasında herhangi bir zamanda 10 km koşun ve 100 şanslı bitiren kişi bir sonraki Tokyo Marathon'da koşma şansını kazanacak! 👉 https://t.co/DmAPjCGJMY https://t.co/YynuFDVQSX",
    "description_en": "🏃‍♂️ ONE TOKYO GLOBAL VIRTUAL RUN is now on Strava! Run 10 km anytime between August 1 and August 14, and 100 lucky finishers will win the chance to run at the next Tokyo Marathon! 👉 https://t.co/DmAPjCGJMY https://t.co/YynuFDVQSX",
    "page_url": "https://yarisradari.com/yaris/tokyo-maratonu",
-   "updated_at": "2026-09-11T05:34:48.952612+00:00",
+   "updated_at": "2026-09-12T05:20:31.213878+00:00",
    "distances": [
     {
      "label": "42K",
@@ -11496,7 +11429,7 @@
    "description_tr": "Toskana'da, Chianti tepelerinin arasında koşulan bir UTMB World Series patika koşusu.",
    "description_en": "A UTMB World Series trail run held in Tuscany, among the Chianti hills.",
    "page_url": "https://yarisradari.com/yaris/chianti-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:24:30.136445+00:00",
+   "updated_at": "2026-09-12T00:53:36.137206+00:00",
    "distances": [
     {
      "label": "123K",
@@ -11600,7 +11533,7 @@
    "description_tr": "Alanya'da Damlataş Mağarası ve Kleopatra Plajı'ndan start alan Alanya Ultra Trail, Tophane, Kızılkule ve Alanya Kalesi surlarını dolaşan nostaljik bir kale turunun ardından Toros Dağları'nın patikalarına uzanıyor. Etkinlik altı parkurdan oluşuyor: 4500 metre tırmanışıyla elit sporculara önerilen 90K, Taurus Trail 70K, Keykubat Trail 50K, Cleopatra Trail 32K, Alaiye Trail 14K ve patika koşusunu denemek isteyenler için Castle Run 5K. Tüm mesafeler tarihi kervan yolları ve yörük göç rotalarından geçip Kleopatra Plajı kumsalında sona eriyor.",
    "description_en": "Starting at Damlataş Cave and Cleopatra Beach in Alanya, the Alanya Ultra Trail opens with a nostalgic tour past Tophane, Kızılkule and the castle walls before heading into the trails of the Taurus Mountains. The event offers six courses: the 90K with 4,500 metres of climbing recommended for elite runners, Taurus Trail 70K, Keykubat Trail 50K, Cleopatra Trail 32K, Alaiye Trail 14K, and the Castle Run 5K for those trying trail running for the first time. Every course follows historic caravan roads and nomad migration routes before finishing on the sands of Cleopatra Beach.",
    "page_url": "https://yarisradari.com/yaris/alanya-ultra-trail",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T00:53:27.760315+00:00",
    "distances": [
     {
      "label": "90K",
@@ -11726,15 +11659,15 @@
    "description_tr": "Efes Antik Kenti, Meryem Ana ve Artemis Tapınağı çevresindeki parkurlarda koşulan patika yarışının 10. edisyonu; cumartesi günü 27K'dan 120K'ya uzun mesafeler, pazar günü 6K ve 12K koşuluyor. Kayıtlar gotix.com.tr üzerinden açılacak.",
    "description_en": "The 10th edition of the trail running race held on courses in the Ephesus Ancient City, Virgin Mary and Temple of Artemis area; long distances from 27K to 120K on Saturday, 6K and 12K on Sunday. Registration will open on gotix.com.tr.",
    "page_url": "https://yarisradari.com/yaris/efes-ultra-maratonu",
-   "updated_at": "2026-09-11T09:27:29.42193+00:00",
+   "updated_at": "2026-09-12T00:57:22.50361+00:00",
    "distances": [
     {
      "label": "Ephesus Ultra Trail 120K",
      "distance_km": 120,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 105.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11747,8 +11680,8 @@
      "distance_km": 61,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 85.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11761,8 +11694,8 @@
      "distance_km": 42,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 80.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11775,8 +11708,8 @@
      "distance_km": 27,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 70.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11789,8 +11722,8 @@
      "distance_km": 12,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 65.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11803,8 +11736,8 @@
      "distance_km": 6,
      "elevation_gain_m": null,
      "itra_points": null,
-     "price": null,
-     "currency": null,
+     "price": 55.0,
+     "currency": "EUR",
      "swim_km": null,
      "bike_km": null,
      "run_km": null,
@@ -11813,7 +11746,16 @@
      "gpx_url": "https://www.efesultra.org/wp-admin/Ephesus-Ultra-6KM.gpx"
     }
    ],
-   "registration": []
+   "registration": [
+    {
+     "kind": "standard",
+     "opens_at": null,
+     "closes_at": "2027-01-31T17:59:00+00:00",
+     "price": null,
+     "currency": "TRY",
+     "url": null
+    }
+   ]
   },
   {
    "slug": "ephesus-ultra-maratonu",
@@ -11832,10 +11774,10 @@
    "instagram_url": "https://www.instagram.com/efesultramaratonu/",
    "results_url": null,
    "photos_url": "https://www.efesultra.org/fotograflar/",
-   "description_tr": null,
+   "description_tr": "St. Jean Race 6K, Artemis Trail 12K, 27K Virgin Mary Trail, 42K Ephesus Short Trail, 61K Ephesus Medium Trail ve UTRAIL Ephes...",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/ephesus-ultra-maratonu",
-   "updated_at": "2026-09-11T09:28:08.492229+00:00",
+   "updated_at": "2026-09-12T00:57:39.21417+00:00",
    "distances": [
     {
      "label": "61K",
@@ -11953,7 +11895,7 @@
    "description_tr": "Kayıt Ücreti, Istria 100 by UTMB deneyimi için koşucuları bekleyen hizmetleri ve hediyeleri kapsar: Lütfen not edin: kayıt ücretine dahil olan tüm hizmetler mevcudiyete tabidir. Tüm paketler genel giriş ve çekilme politikalarına tabidir.",
    "description_en": "The Registration Fee covers the services and gifts awaiting runners for the Istria 100 by UTMB experience: Please note: all services included in the registration fee are subject to availability. All packages are subject to general admission and withdrawal policies.",
    "page_url": "https://yarisradari.com/yaris/istria-100-by-utmb",
-   "updated_at": "2026-09-11T09:25:57.685763+00:00",
+   "updated_at": "2026-09-12T00:55:22.013173+00:00",
    "distances": [
     {
      "label": "168K",
@@ -12057,7 +11999,7 @@
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/jujuy-los-andes-by-utmb",
-   "updated_at": "2026-09-11T09:25:05.227704+00:00",
+   "updated_at": "2026-09-12T00:54:11.708241+00:00",
    "distances": [
     {
      "label": "87.2K",
@@ -12166,7 +12108,7 @@
    "description_tr": "Desert RATS Trail Running Festival by UTMB, yeni trail koşucuları ve ultra veteranlarını benzer görülmemiş bir hafta sonu deneyimine çekiyor. 4 farklı mesafe, üç gün yarış ve çöl manzaralarının tanımlanamaz güzelliğiyle - her koşucu için bir şeyler var.",
    "description_en": "Desert RATS Trail Running Festival by UTMB draws new trail runners and ultra veterans to an unprecedented weekend experience. With 4 different distances, three days of racing and indescribable beauty of desert landscapes - there is something for every runner.",
    "page_url": "https://yarisradari.com/yaris/desert-rats-trail-running-festival-by-utmb",
-   "updated_at": "2026-09-11T09:26:06.527757+00:00",
+   "updated_at": "2026-09-12T00:55:57.747286+00:00",
    "distances": [
     {
      "label": "100K",
@@ -12256,7 +12198,7 @@
    "description_tr": "110k ve 82k parkurlar, dünyanın en olağanüstü volkanik peyzajlarından biri olan Teide Ulusal Parkı'nda geçmektedir. Tenerife Bluetrail by UTMB® 8-10 Nisan 2027'de yeni parkurlar, daha fazla heyecan ve onu Avrupa'nın en spektaküler dağ yarışlarından biri yapan aynı ruhla geri dönüyor. Çok az etkinlik bu kadar çeşitli bir deneyim sunuyor. Burada koşucular volkanik arazi, çam ormanları, masalsı iz parkurları, eski defne ormanları ve okyanusun yanındaki kıyı yollarından geçerek ilerliyor…",
    "description_en": "The 110k and 82k courses take place in Teide National Park, one of the world's most extraordinary volcanic landscapes. Tenerife Bluetrail by UTMB® returns April 8-10, 2027 with new courses, more excitement and the same spirit that makes it one of Europe's most spectacular mountain races. Few events offer such a diverse experience. Here runners progress through volcanic terrain, pine forests, fairy-tale trail routes, ancient laurel forests and coastal paths beside the ocean…",
    "page_url": "https://yarisradari.com/yaris/tenerife-bluetrail-by-utmb",
-   "updated_at": "2026-09-11T09:26:23.925369+00:00",
+   "updated_at": "2026-09-12T00:56:07.372741+00:00",
    "distances": [
     {
      "label": "110K",
@@ -12407,7 +12349,7 @@
    "description_tr": "Fransa'nın başkentinde koşulan 42,195 kilometrelik yol maratonu. Start Champs-Élysées'de veriliyor, bitiş çizgisi Avenue Foch'ta bulunuyor ve rota kentin yedi idari bölgesinden geçiyor. Koşucular Concorde ve Opera yönünde inip Rivoli Caddesi ile Bastille'in ardından Bois de Vincennes'e yöneliyor. Dönüş Seine kıyısı boyunca, Notre-Dame, Invalides ve Eyfel Kulesi gibi yapıların karşısından yapılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/paris-maratonu",
-   "updated_at": "2026-09-11T05:35:07.308452+00:00",
+   "updated_at": "2026-09-12T05:20:47.626322+00:00",
    "distances": [
     {
      "label": "42K",
@@ -12455,7 +12397,7 @@
    "description_tr": "Kayıt Güncellemeleri ve 2027 Boston Marathon presented by Bank of America İçin Duyurulan Bilgiler Yeni ek Boston Qualifier Seçim fırsatı; Kayıt tarihleri açıklandı BOSTON (Yayın: Çarşamba, 22 Temmuz, saat 11:30 ET) — Boston Athletic Association (B.A.A.), kayıt güncellemelerini duyurmuştur...\n\nRED",
    "description_en": "Registration Updates and Announcements for 2027 Boston Marathon presented by Bank of America New additional Boston Qualifier selection opportunity; registration dates announced BOSTON (Release: Wednesday, July 22, 11:30 a.m. ET) — The Boston Athletic Association (B.A.A.) has announced registration updates...",
    "page_url": "https://yarisradari.com/yaris/boston-maratonu",
-   "updated_at": "2026-09-11T05:35:09.535503+00:00",
+   "updated_at": "2026-09-12T05:20:49.172566+00:00",
    "distances": [
     {
      "label": "42K",
@@ -12503,7 +12445,7 @@
    "description_tr": "The Canyons Endurance Runs by UTMB® altın hücum döneminin tarihi kasabası Auburn'de başlıyor; bu kasaba dağ ultralarının doğum yeri olup, Sierra Nevada dağ silsilesinin kuzey California eteğinde yer almaktadır. Bu yarış, ikonik UTMB World Series Finals ve Western States Endurance Run için bir eleme yarışıdır. Ayrıca, Canyons 100K mesafesi, ilk üç kadın ve erkek finişerin The Western States Endurance Run'a doğrudan katılım hakkı kazandığı bir Western States 100 Super Golden Ticket yarışıdır.",
    "description_en": "The Canyons Endurance Runs by UTMB® starts in Auburn, the historic town of the gold rush era; this town is the birthplace of mountain ultras and is located at the foothills of the Sierra Nevada mountain range in northern California. This race is a qualifying race for the iconic UTMB World Series Finals and Western States Endurance Run. Additionally, the Canyons 100K distance is a Western States 100 Super Golden Ticket race where the first three female and male finishers earn direct entry to The Western States Endurance Run.",
    "page_url": "https://yarisradari.com/yaris/the-canyons-endurance-runs-by-utmb",
-   "updated_at": "2026-09-11T09:26:50.801291+00:00",
+   "updated_at": "2026-09-12T05:20:49.971839+00:00",
    "distances": [
     {
      "label": "161K",
@@ -12593,7 +12535,7 @@
    "description_tr": "Mont Ventoux'nun izlerini keşfetmek için bir macera; çaba, hayranlık ve vahşi doğaya dalmayı bir arada sunuyor. 26 km ile bu tanıtım parkuru, Mont Ventoux'nun izlerini keşfetmek için mükemmel bir ilk macera – çaba, hayranlık ve vahşi doğaya dalmayı birleştiriyor – Grand Raid Ventoux by UTMB'nin özünü yakalıyor.",
    "description_en": "An adventure to explore the traces of Mont Ventoux; offering effort, wonder and immersion in the wild all together. With 26 km, this discovery course is a perfect first adventure to explore the traces of Mont Ventoux – combining effort, wonder and immersion in the wild – capturing the essence of Grand Raid Ventoux by UTMB.",
    "page_url": "https://yarisradari.com/yaris/grand-raid-ventoux-by-utmb",
-   "updated_at": "2026-09-11T09:27:14.038086+00:00",
+   "updated_at": "2026-09-12T00:56:56.561106+00:00",
    "distances": [
     {
      "label": "125K",
@@ -12683,7 +12625,7 @@
    "description_tr": "Greenwich'ten başlayıp The Mall'da sona eren 42,195 kilometrelik parkur, kentin güneydoğusundan merkeze uzanıyor. Tower Bridge geçişi, yol boyunca dizilen tezahürat alanları, canlı müzik grupları ve DJ'ler rotanın bilinen özellikleri. Abbott World Marathon Majors serisinde yer alan yol maratonu, hayır kurumları için koşan katılımcılara ayrılmış geniş bir kontenjanla da anılıyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/londra-maratonu",
-   "updated_at": "2026-09-11T05:35:17.282418+00:00",
+   "updated_at": "2026-09-12T05:20:55.864542+00:00",
    "distances": [
     {
      "label": "42K",
@@ -12731,7 +12673,7 @@
    "description_tr": "Portekiz'in orta kesiminde, ülkenin en büyük doğal parkı olan Serra da Estrela ve çevresinde koşulan patika yarışı. Dört parkur 22 kilometreden 167 kilometreye uzanıyor; en uzun rotanın toplam tırmanışı 8.900 metre. Güzergâh şist köyleri, dağ ve tarihi köyler ile eski patikalardan geçiyor, son yıllarda Serra do Açor ve Serra da Lousã yönünde genişletildi. UTMB World Series kapsamında düzenleniyor ve mesafeye göre Running Stones puanı veriyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/oh-meu-deus-by-utmb",
-   "updated_at": "2026-09-11T09:27:36.622202+00:00",
+   "updated_at": "2026-09-12T00:57:21.032598+00:00",
    "distances": [
     {
      "label": "167K",
@@ -12821,7 +12763,7 @@
    "description_tr": "Antalya'nın Kemer ilçesinde, Olympos teleferiğinin zirve istasyonunda biten dağ koşusu. 27,6 kilometrelik parkur Çıralı'dan başlıyor, Ulupınar ve Beycik kontrol noktalarından geçerek 2.666 metrelik toplam tırmanışla zirveye çıkıyor. 41,4 kilometrelik Phaselis rotası daha uzun ama 1.210 metrelik tırmanışıyla daha ılımlı bir profil sunuyor, 12 kilometrelik Kemerun ise kısa mesafe olarak koşuluyor.",
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/tahtali-run-to-sky",
-   "updated_at": "2026-09-11T11:48:15.094459+00:00",
+   "updated_at": "2026-09-12T05:21:36.903164+00:00",
    "distances": [
     {
      "label": "43K",
@@ -12888,7 +12830,7 @@
    "description_tr": "HOKA Ultra-Trail Australia by UTMB, New South Wales'teki Blue Mountains National Park'ta düzenlenen Avustralya'nın en prestijli trail koşu etkinliğidir. Trail koşu mesafeleri arasında Miler, 100km, 50km, 22km ve 11km seçenekleri yer almaktadır.",
    "description_en": "HOKA Ultra-Trail Australia by UTMB is Australia's most prestigious trail running event held in Blue Mountains National Park in New South Wales. Trail running distances include Miler, 100km, 50km, 22km and 11km options.",
    "page_url": "https://yarisradari.com/yaris/hoka-ultra-trail-australia-by-utmb",
-   "updated_at": "2026-09-11T09:28:01.977085+00:00",
+   "updated_at": "2026-09-12T00:57:50.664825+00:00",
    "distances": [
     {
      "label": "161.1K",
@@ -13006,7 +12948,7 @@
    "description_tr": "Grand Est Bölgesi tarafından desteklenen Trail Alsace by UTMB, 13-16 Mayıs 2027'de baharın zirvesinde, Alsas'ın iki departmanı olan Bas-Rhin ve Haut-Rhin'de, Kuzeydoğu Fransa'da gerçekleştirilecek. UTMB'nin en yüksek standartlarına uygun şekilde organize edilen etkinlik, bölgeyi keşfetmek isteyen yerel ve uluslararası koşuculara, şatolar ve bağ bölgeleri boyunca geçerken zaman içinde eşsiz bir yolculuk yaşama fırsatı sunacak; pek çoğu için bu, onların ... arayışının başlangıcı olacak.",
    "description_en": "Supported by the Grand Est Region, Trail Alsace by UTMB will take place on 13-16 May 2027 at the peak of spring in the two departments of Alsace, Bas-Rhin and Haut-Rhin, in Northeast France. Organized to the highest standards of UTMB, the event will offer local and international runners seeking to explore the region a unique journey through time as they pass through châteaux and vineyard areas; for many, this will be the beginning of their ... quest.",
    "page_url": "https://yarisradari.com/yaris/trail-alsace-by-utmb",
-   "updated_at": "2026-09-11T09:28:28.435932+00:00",
+   "updated_at": "2026-09-12T00:58:20.094579+00:00",
    "distances": [
     {
      "label": "158K",
@@ -13124,7 +13066,7 @@
    "description_tr": "Rothrock by UTMB, Pensilvanya'nın ortasındaki Rothrock Eyalet Ormanı'nda; kumtaşı sırtlar, eğrelti otu kaplı vadiler ve orman tünelleri arasında sert, saf ve etkileyici bir patika deneyimi sunar.",
    "description_en": "Rothrock by UTMB, in Rothrock State Forest in central Pennsylvania; offers a challenging, pure and immersive trail experience among sandstone ridges, fern-covered valleys and forest tunnels.",
    "page_url": "https://yarisradari.com/yaris/rothrock-by-utmb",
-   "updated_at": "2026-09-11T09:28:14.586946+00:00",
+   "updated_at": "2026-09-12T00:58:07.256839+00:00",
    "distances": [
     {
      "label": "53.3K",
@@ -13186,7 +13128,7 @@
    "description_tr": "YARIŞ KURALLARI​ GENEL KOŞULLAR Run Caretta Run’a katılmak; Dalyan Kaunos’un ruhuna, tarihine ve doğasına uzanan özel bir yolculuğa adım atmaktır. Bu yolculu...",
    "description_en": "RACE RULES GENERAL CONDITIONS\n\nParticipating in Run Caretta Run; is taking a step on a special journey that extends to the spirit, history and nature of Dalyan Kaunos. This journey...",
    "page_url": "https://yarisradari.com/yaris/run-caretta-run",
-   "updated_at": "2026-09-11T09:29:10.936772+00:00",
+   "updated_at": "2026-09-12T00:59:17.744176+00:00",
    "distances": [
     {
      "label": "24K",
@@ -13253,7 +13195,7 @@
    "description_tr": "The Mountain Ultra Trail or MUT by UTMB, Güney Afrika'nın doğu kıyısında yer alan bahçe şehri George'da düzenlenen bir trail running festivalidir.",
    "description_en": "The Mountain Ultra Trail or MUT by UTMB is a trail running festival held in George, the garden city located on the east coast of South Africa.",
    "page_url": "https://yarisradari.com/yaris/mountain-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:28:37.594012+00:00",
+   "updated_at": "2026-09-12T00:58:27.648383+00:00",
    "distances": [
     {
      "label": "168K",
@@ -13371,13 +13313,13 @@
    "description_tr": null,
    "description_en": null,
    "page_url": "https://yarisradari.com/yaris/gelibolu-orta-mesafe-triatlon-ve-aquatlon-turkiye-ve-balkan-sampiyonasi",
-   "updated_at": "2026-09-11T09:28:19.054579+00:00",
+   "updated_at": "2026-09-12T05:21:47.641728+00:00",
    "distances": [],
    "registration": [
     {
      "kind": "standard",
      "opens_at": null,
-     "closes_at": "2027-05-26T20:59:00+00:00",
+     "closes_at": "2027-05-23T20:59:00+00:00",
      "price": null,
      "currency": "TRY",
      "url": "https://portal.triatlon.org.tr/tr/portal/race/2027-gelibolu-yas-grubu-orta-mesafe/"
@@ -13437,7 +13379,7 @@
    "description_tr": "mozart 100 by UTMB, katılımcıları Salzkammergut'un etkileyici çeşitliliği ve güzelliği içinde bir yolculuğa çıkarır. 120 km'den 12 km'ye beş parkur seçeneğiyle her sporcu kendine uygun mesafeyi bulur; takım bayrak yarışında ultra mesafe üç arkadaşla birlikte de koşulabilir.",
    "description_en": "mozart 100 by UTMB takes participants on a journey through the impressive diversity and beauty of the Salzkammergut. With five course options ranging from 120 km to 12 km, every athlete finds a distance suited to them; the ultra distance can also be run as a team relay with three friends.",
    "page_url": "https://yarisradari.com/yaris/mozart-100-by-utmb",
-   "updated_at": "2026-09-11T09:29:27.827355+00:00",
+   "updated_at": "2026-09-12T00:59:34.994991+00:00",
    "distances": [
     {
      "label": "119K",
@@ -13541,7 +13483,7 @@
    "description_tr": "Ülkeyi taçlandıran dağların şekillendirdiği Andorra, Trail 100 Andorra by UTMB'de macera duygusunu uyandıran bir destinasyon.",
    "description_en": "Shaped by the mountains that crown the country, Andorra is a destination that awakens the sense of adventure at Trail 100 Andorra by UTMB.",
    "page_url": "https://yarisradari.com/yaris/trail-100-andorra-by-utmb",
-   "updated_at": "2026-09-11T09:29:37.909877+00:00",
+   "updated_at": "2026-09-12T00:59:26.617187+00:00",
    "distances": [
     {
      "label": "105K",
@@ -13645,7 +13587,7 @@
    "description_tr": "Salomon Zugspitz Ultra Trail by UTMB, Almanya'nın en büyük trail running etkinliğidir. 5.000'den fazla sporcu, yaklaşık 50 sergici ve binlerce ziyaretçi ile eşsiz havasıyla ünlüdür; Garmisch-Partenkirchen, her Haziran'da trail running'in merkezi haline gelir. 16 kilometre ile 100 mil arasında değişen altı mesafe seçeneği bulunmaktadır. Festival atmosferi garantilidir.",
    "description_en": "Salomon Zugspitz Ultra Trail by UTMB is Germany's largest trail running event. It is renowned for its unique atmosphere with more than 5,000 athletes, approximately 50 exhibitors and thousands of visitors; Garmisch-Partenkirchen becomes the center of trail running every June. There are six distance options ranging from 16 kilometers to 100 miles. Festival atmosphere is guaranteed.",
    "page_url": "https://yarisradari.com/yaris/zugspitz-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:29:40.603083+00:00",
+   "updated_at": "2026-09-12T00:59:23.314522+00:00",
    "distances": [
     {
      "label": "167K",
@@ -13768,7 +13710,7 @@
    "description_tr": "Efsanevi yolun üzerinde ve boyunca izlenen Trail du Saint-Jacques by UTMB, bu saf ve vahşi yolun Le Puy-en-Velay - Saugues bölümünü keşfetmenize olanak tanır.",
    "description_en": "The Trail du Saint-Jacques by UTMB, traced over and along the legendary route, allows you to discover the Le Puy-en-Velay - Saugues section of this pure and wild path.",
    "page_url": "https://yarisradari.com/yaris/trail-du-saint-jacques-by-utmb",
-   "updated_at": "2026-09-11T09:29:46.074844+00:00",
+   "updated_at": "2026-09-12T00:59:41.148191+00:00",
    "distances": [
     {
      "label": "140K",
@@ -13872,7 +13814,7 @@
    "description_tr": "Cortina d'Ampezzo; Alp Disiplini Kayak Dünya Kupası'nın yanı sıra La Sportiva Lavaredo Ultra Trail by UTMB gibi çok sayıda uluslararası spor etkinliğine ev sahipliği yapar.",
    "description_en": "Cortina d'Ampezzo; hosts numerous international sporting events, including the Alpine Skiing World Cup alongside La Sportiva Lavaredo Ultra Trail by UTMB.",
    "page_url": "https://yarisradari.com/yaris/la-sportiva-lavaredo-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:29:53.938546+00:00",
+   "updated_at": "2026-09-12T00:59:51.432999+00:00",
    "distances": [
     {
      "label": "120K",
@@ -13976,7 +13918,7 @@
    "description_tr": "Torrencial Chile by UTMB, Şili'nin tek kış trail running yarışıdır. Sınırlarınızı zorlayın ve muhteşem Valdivian yağmur ormanı içinde koşun.",
    "description_en": "Torrencial Chile by UTMB is Chile's only winter trail running race. Push your limits and run through the magnificent Valdivian rainforest.",
    "page_url": "https://yarisradari.com/yaris/torrencial-chile-by-utmb",
-   "updated_at": "2026-09-11T09:29:57.527421+00:00",
+   "updated_at": "2026-09-12T01:00:10.722404+00:00",
    "distances": [
     {
      "label": "101K",
@@ -14094,7 +14036,7 @@
    "description_tr": "HOKA Val d'Aran by UTMB® yarışının tüm mesafelerine katılabilir miyim? Evet, ancak VDA, CDH ve TDL için bir takım şartlar vardır: VDA yarışına kaydolmak için koşucuların uzun mesafe trail running yarışlarında deneyimlerini kanıtlamaları gerekir. 100K veya 100M kategorilerinde UTMB® Index'e sahip olmaları istenecektir.",
    "description_en": "Can I participate in all distances of the HOKA Val d'Aran by UTMB® race? Yes, but there are certain conditions for VDA, CDH and TDL: To register for the VDA race, runners must prove their experience in long-distance trail running races. They will be required to have a UTMB® Index in the 100K or 100M categories.",
    "page_url": "https://yarisradari.com/yaris/hoka-val-d-aran-by-utmb",
-   "updated_at": "2026-09-11T09:30:35.497665+00:00",
+   "updated_at": "2026-09-12T01:00:46.814308+00:00",
    "distances": [
     {
      "label": "163K",
@@ -14226,7 +14168,7 @@
    "description_tr": "Restonica Trail by UTMB ile sınırları aşan bir maceraya çıkın, Korsika'nın vahşi ve eşsiz şekilde korunmuş manzaralarının ortasında. İkonik GR20 parkurunu takip ederek Île de Beauté'nin görkemli zirveleri fethein ve her adımın nefes kesici panoramalar ve bu olağanüstü arazinin özgünlüğünü ortaya çıkardığı Korsika dağlarının derinliklerine çekilin.",
    "description_en": "Venture beyond boundaries with Restonica Trail by UTMB, in the midst of Corsica's wild and uniquely preserved landscapes. Following the iconic GR20 course, conquer the magnificent peaks of the Île de Beauté and be drawn into the depths of the Corsican mountains where every step reveals breathtaking panoramas and the authenticity of this extraordinary terrain.",
    "page_url": "https://yarisradari.com/yaris/restonica-trail-by-utmb",
-   "updated_at": "2026-09-11T09:30:42.739057+00:00",
+   "updated_at": "2026-09-12T01:00:39.892458+00:00",
    "distances": [
     {
      "label": "110K",
@@ -14307,7 +14249,7 @@
    "description_tr": "İsviçre'nin ilk ultra trail'i olan Trail Verbier St Bernard by UTMB, İsviçre Alpleri'nin kalbinde 140 km'den 28 km'ye dört yarış sunuyor.",
    "description_en": "Trail Verbier St Bernard by UTMB, Switzerland's first ultra trail, offers four races ranging from 140 km to 28 km in the heart of the Swiss Alps.",
    "page_url": "https://yarisradari.com/yaris/trail-verbier-st-bernard-by-utmb",
-   "updated_at": "2026-09-11T09:30:46.38898+00:00",
+   "updated_at": "2026-09-12T01:00:49.265615+00:00",
    "distances": [
     {
      "label": "140K",
@@ -14397,7 +14339,7 @@
    "description_tr": "Eiger Ultra Trail; Jungfrau bölgesinde, Eiger, Mönch ve Jungfrau'nun eteklerinde koşulur. Rota Grindelwald çevresinde First, Faulhorn, Schynige Platte, Männlichen, Lauberhorn ve Kleine Scheidegg üzerinden Eiger kuzey duvarının eteklerine uzanır.",
    "description_en": "Eiger Ultra Trail; runs in the Jungfrau region, at the foothills of Eiger, Mönch and Jungfrau. The route extends around Grindelwald via First, Faulhorn, Schynige Platte, Männlichen, Lauberhorn and Kleine Scheidegg to the foothills of the Eiger north face.",
    "page_url": "https://yarisradari.com/yaris/eiger-ultra-trail-by-utmb",
-   "updated_at": "2026-09-11T09:32:28.269885+00:00",
+   "updated_at": "2026-09-12T01:03:07.683683+00:00",
    "distances": [
     {
      "label": "261K",
@@ -14515,7 +14457,7 @@
    "description_tr": "İtalyan Alpleri'nde anıtsal bir dağ koşusu macerasına atılın, tarihi dağcılar ve alpin rehberlerinin izinden giderek. Canlı yerel toplulukları ve gelenekler ve efsanelerle dolu antik köyleri keşfedin. Ikonik Matterhorn'dan majestik Monte Rosa'ya kadar Aosta Vadisi'nde dolambaçlı yollardan geçerek benzeri görülmemiş parkurları fethedip, nefes kesici güzelliğin içinde ilerleyin.",
    "description_en": "Embark on a monumental mountain running adventure in the Italian Alps, following in the footsteps of historic mountaineers and alpine guides. Discover vibrant local communities and ancient villages filled with traditions and legends. Conquer unprecedented courses winding through the Aosta Valley from iconic Matterhorn to majestic Monte Rosa, progressing through breathtaking beauty.",
    "page_url": "https://yarisradari.com/yaris/monte-rosa-walserwaeg-by-utmb",
-   "updated_at": "2026-09-11T09:30:53.753158+00:00",
+   "updated_at": "2026-09-12T01:01:02.627316+00:00",
    "distances": [
     {
      "label": "120K",
@@ -14633,7 +14575,7 @@
    "description_tr": "Uludağ'ın zirve bölgesinde, startı ve finişi Oteller Bölgesi'nde olan dağ koşusu etkinliği. 6K, 16K, 30K, 42K (44 km) ve 70K (73 km) parkurları iki güne yayılır; rotaların büyük bölümü 2.000 metre irtifanın üzerinde, patika ve single track ağırlıklı ilerler.",
    "description_en": "Mountain running event with start and finish in the Hotels Area, at the summit region of Uludağ. 6K, 16K, 30K, 42K (44 km) and 70K (73 km) courses spread over two days; the majority of the routes are above 2,000 meters elevation, progressing mainly on trails and single track.",
    "page_url": "https://yarisradari.com/yaris/uludag-premium-ultra-trail-2027",
-   "updated_at": "2026-09-09T09:33:48.768009+00:00",
+   "updated_at": "2026-09-12T01:03:06.946791+00:00",
    "distances": [
     {
      "label": "70K",
@@ -14704,6 +14646,73 @@
      "start_time": null,
      "surface_note": "%20 patika, %60 single track, %20 asfalt",
      "gpx_url": "https://uludagultra.com/Route2025/UP6K.gpx"
+    }
+   ],
+   "registration": []
+  },
+  {
+   "slug": "speedgoat-mountain-races-by-utmb",
+   "name": "Speedgoat Mountain Races by UTMB",
+   "sport": "trail_run",
+   "status": "completed",
+   "city": "Sandy",
+   "venue": null,
+   "country_code": "US",
+   "start_date": "2027-07-22",
+   "end_date": "2027-07-24",
+   "start_time": null,
+   "latitude": 40.578,
+   "longitude": -111.666,
+   "website_url": "https://speedgoat.utmb.world",
+   "instagram_url": "https://www.instagram.com/speedgoatmtnraces/",
+   "results_url": "https://speedgoat.utmb.world/results",
+   "photos_url": null,
+   "description_tr": "Speedgoat, bu efsanevi dağ yarışında koşucuları zorlu zirvelere meydan okumaya davet ediyor.",
+   "description_en": "Speedgoat invites runners to challenge themselves on tough peaks in this legendary mountain race.",
+   "page_url": "https://yarisradari.com/yaris/speedgoat-mountain-races-by-utmb",
+   "updated_at": "2026-09-12T05:22:24.842641+00:00",
+   "distances": [
+    {
+     "label": "50K",
+     "distance_km": 50.0,
+     "elevation_gain_m": 3450,
+     "itra_points": null,
+     "price": null,
+     "currency": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "start_time": null,
+     "surface_note": null,
+     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_50k_Course_Only_fc9b371f42.gpx"
+    },
+    {
+     "label": "31K",
+     "distance_km": 31.0,
+     "elevation_gain_m": 2000,
+     "itra_points": null,
+     "price": null,
+     "currency": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "start_time": null,
+     "surface_note": null,
+     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548229/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_30k_Course_Only_b43c6797ff.gpx"
+    },
+    {
+     "label": "10K",
+     "distance_km": 10.0,
+     "elevation_gain_m": 500,
+     "itra_points": null,
+     "price": null,
+     "currency": null,
+     "swim_km": null,
+     "bike_km": null,
+     "run_km": null,
+     "start_time": null,
+     "surface_note": null,
+     "gpx_url": "https://res.cloudinary.com/utmb-world/raw/upload/v1760548004/speedgoat/2026/GPX%20Files/2026_Speedgoat_Mountain_Races_by_UTMB_10k_Course_Only_514d34c4df.gpx"
     }
    ],
    "registration": []
