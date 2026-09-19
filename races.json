@@ -1,0 +1,3307 @@
+{
+ "generated_at": "2026-09-19T16:57:42Z",
+ "source": "https://yarisradari.com",
+ "license": "CC BY 4.0",
+ "races": [
+  {
+   "slug": "bodrun-ultra-maratonu",
+   "name": "BODRUN Ultra",
+   "start_date": "2026-02-15",
+   "end_date": "2026-02-15",
+   "page_url": "https://yarisradari.com/yaris/bodrun-ultra-maratonu",
+   "distances_km": [
+    60.0,
+    34.0,
+    22.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "iznik-ultra-maratonu",
+   "name": "İznik Ultra Maratonu",
+   "start_date": "2026-04-10",
+   "end_date": "2026-04-12",
+   "page_url": "https://yarisradari.com/yaris/iznik-ultra-maratonu",
+   "distances_km": [
+    165.1,
+    88.1,
+    76.6,
+    49.0,
+    24.5,
+    14.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "salomon-cesme-yari-maratonu",
+   "name": "Salomon Çeşme Yarı Maratonu",
+   "start_date": "2026-05-09",
+   "end_date": "2026-05-10",
+   "page_url": "https://yarisradari.com/yaris/salomon-cesme-yari-maratonu",
+   "distances_km": [
+    21.1,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "efeler-yolu-ultra-trail",
+   "name": "Efeler Yolu Ultra-Trail",
+   "start_date": "2026-05-16",
+   "end_date": "2026-05-17",
+   "page_url": "https://yarisradari.com/yaris/efeler-yolu-ultra-trail",
+   "distances_km": [
+    95.29,
+    82.33,
+    50.0,
+    30.0,
+    15.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "ultra-sumela",
+   "name": "Ultra Sümela",
+   "start_date": "2026-06-06",
+   "end_date": "2026-06-06",
+   "page_url": "https://yarisradari.com/yaris/ultra-sumela",
+   "distances_km": [
+    61.0,
+    22.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "oyak-65-yil-kosusu",
+   "name": "Oyak 65. Yıl Koşusu",
+   "start_date": "2026-06-14",
+   "end_date": "2026-06-14",
+   "page_url": "https://yarisradari.com/yaris/oyak-65-yil-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "uludag-premium-ultra-trail",
+   "name": "Uludağ Ultra Trail",
+   "start_date": "2026-07-18",
+   "end_date": "2026-07-19",
+   "page_url": "https://yarisradari.com/yaris/uludag-premium-ultra-trail",
+   "distances_km": [
+    73.0,
+    44.0,
+    30.0,
+    16.0,
+    6.0
+   ]
+  },
+  {
+   "slug": "bucovina-ultra-rocks-by-utmb",
+   "name": "Bucovina Ultra Rocks by UTMB",
+   "start_date": "2026-07-24",
+   "end_date": "2026-07-26",
+   "page_url": "https://yarisradari.com/yaris/bucovina-ultra-rocks-by-utmb",
+   "distances_km": [
+    114.0,
+    72.0,
+    48.0,
+    33.0,
+    20.0,
+    16.5,
+    5.0
+   ]
+  },
+  {
+   "slug": "evden-bi-kosu-iznik",
+   "name": "Evden Bi Koşu İznik",
+   "start_date": "2026-07-26",
+   "end_date": "2026-07-26",
+   "page_url": "https://yarisradari.com/yaris/evden-bi-kosu-iznik",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "quito-trail-ecuador-by-utmb",
+   "name": "Quito Trail Ecuador by UTMB®",
+   "start_date": "2026-07-31",
+   "end_date": "2026-08-02",
+   "page_url": "https://yarisradari.com/yaris/quito-trail-ecuador-by-utmb",
+   "distances_km": [
+    76.0,
+    53.0,
+    31.0,
+    20.0,
+    13.0,
+    6.5
+   ]
+  },
+  {
+   "slug": "gauja-trail-by-utmb",
+   "name": "Gauja Trail by UTMB",
+   "start_date": "2026-08-01",
+   "end_date": "2026-08-02",
+   "page_url": "https://yarisradari.com/yaris/gauja-trail-by-utmb",
+   "distances_km": [
+    91.0,
+    53.0,
+    21.0,
+    13.5,
+    6.0,
+    1.6
+   ]
+  },
+  {
+   "slug": "hyrox-istanbul",
+   "name": "HYROX Istanbul",
+   "start_date": "2026-08-01",
+   "end_date": "2026-08-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-istanbul",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "konya-ultra-trail",
+   "name": "Konya Ultra",
+   "start_date": "2026-08-01",
+   "end_date": "2026-08-01",
+   "page_url": "https://yarisradari.com/yaris/konya-ultra-trail",
+   "distances_km": [
+    74.0,
+    55.0,
+    30.0,
+    16.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "korfez-10k-kiraz-kosusu-ve-spor-festivali",
+   "name": "Körfez 10K Kiraz Koşusu ve Spor Festivali",
+   "start_date": "2026-08-02",
+   "end_date": "2026-08-02",
+   "page_url": "https://yarisradari.com/yaris/korfez-10k-kiraz-kosusu-ve-spor-festivali",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "kat100-by-utmb",
+   "name": "KAT100 by UTMB",
+   "start_date": "2026-08-06",
+   "end_date": "2026-08-08",
+   "page_url": "https://yarisradari.com/yaris/kat100-by-utmb",
+   "distances_km": [
+    169.0,
+    75.0,
+    51.0,
+    24.0,
+    8.0
+   ]
+  },
+  {
+   "slug": "borealys-mont-tremblant-by-utmb",
+   "name": "Boréalys Mont-Tremblant by UTMB",
+   "start_date": "2026-08-14",
+   "end_date": "2026-08-16",
+   "page_url": "https://yarisradari.com/yaris/borealys-mont-tremblant-by-utmb",
+   "distances_km": [
+    81.0,
+    46.4,
+    26.6,
+    14.5,
+    5.8
+   ]
+  },
+  {
+   "slug": "bogazici-triatlonu",
+   "name": "İstanbul Boğaziçi Triatlonu",
+   "start_date": "2026-08-15",
+   "end_date": "2026-08-16",
+   "page_url": "https://yarisradari.com/yaris/bogazici-triatlonu",
+   "distances_km": [
+    52.2
+   ]
+  },
+  {
+   "slug": "ultra-abant",
+   "name": "Ultra Abant",
+   "start_date": "2026-08-15",
+   "end_date": "2026-08-15",
+   "page_url": "https://yarisradari.com/yaris/ultra-abant",
+   "distances_km": [
+    60.0,
+    34.0,
+    18.0,
+    6.0
+   ]
+  },
+  {
+   "slug": "runfire-salt-lake",
+   "name": "Runfire Salt Lake Ultra Trail",
+   "start_date": "2026-08-21",
+   "end_date": "2026-08-21",
+   "page_url": "https://yarisradari.com/yaris/runfire-salt-lake",
+   "distances_km": [
+    160.9,
+    80.0,
+    40.0,
+    20.0,
+    15.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "ultra-trail-whistler-by-utmb",
+   "name": "Ultra Trail Whistler by UTMB",
+   "start_date": "2026-08-21",
+   "end_date": "2026-08-23",
+   "page_url": "https://yarisradari.com/yaris/ultra-trail-whistler-by-utmb",
+   "distances_km": [
+    100.0,
+    50.0,
+    12.0
+   ]
+  },
+  {
+   "slug": "davraz-sky-run",
+   "name": "Davraz Sky Run",
+   "start_date": "2026-08-22",
+   "end_date": "2026-08-22",
+   "page_url": "https://yarisradari.com/yaris/davraz-sky-run",
+   "distances_km": [
+    25.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "bogazici-kitalararasi-yuzme-yarisi",
+   "name": "Boğaziçi Kıtalararası Yüzme Yarışı",
+   "start_date": "2026-08-23",
+   "end_date": "2026-08-23",
+   "page_url": "https://yarisradari.com/yaris/bogazici-kitalararasi-yuzme-yarisi",
+   "distances_km": [
+    6.5
+   ]
+  },
+  {
+   "slug": "gomec-ataturk-yol-kosusu",
+   "name": "Gömeç Atatürk Yol Koşusu",
+   "start_date": "2026-08-23",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/gomec-ataturk-yol-kosusu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "gran-fondo-baskent",
+   "name": "Gran Fondo Başkent",
+   "start_date": "2026-08-23",
+   "end_date": "2026-08-23",
+   "page_url": "https://yarisradari.com/yaris/gran-fondo-baskent",
+   "distances_km": [
+    90.61,
+    56.6
+   ]
+  },
+  {
+   "slug": "yesilay-yari-maratonu",
+   "name": "Yeşilay Yarı Maratonu",
+   "start_date": "2026-08-23",
+   "end_date": "2026-08-23",
+   "page_url": "https://yarisradari.com/yaris/yesilay-yari-maratonu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hoka-utmb-mont-blanc",
+   "name": "HOKA UTMB Mont-Blanc",
+   "start_date": "2026-08-24",
+   "end_date": "2026-08-30",
+   "page_url": "https://yarisradari.com/yaris/hoka-utmb-mont-blanc",
+   "distances_km": [
+    174.0,
+    145.0,
+    101.0,
+    60.0,
+    40.0,
+    15.0
+   ]
+  },
+  {
+   "slug": "kocaeli-ultra-trail",
+   "name": "Kocaeli Ultra Trail",
+   "start_date": "2026-08-29",
+   "end_date": "2026-08-29",
+   "page_url": "https://yarisradari.com/yaris/kocaeli-ultra-trail",
+   "distances_km": [
+    50.0,
+    15.0
+   ]
+  },
+  {
+   "slug": "canakkale-bogazi-yuzme-yarismasi",
+   "name": "Çanakkale Boğazı Yüzme Yarışması",
+   "start_date": "2026-08-30",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/canakkale-bogazi-yuzme-yarismasi",
+   "distances_km": [
+    6.5,
+    4.5
+   ]
+  },
+  {
+   "slug": "sydney-maratonu",
+   "name": "Sydney Maratonu",
+   "start_date": "2026-08-30",
+   "end_date": "2026-08-30",
+   "page_url": "https://yarisradari.com/yaris/sydney-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "izmir-kurtulus-oryantiring-gunleri",
+   "name": "İzmir Kurtuluş Oryantiring Günleri",
+   "start_date": "2026-09-03",
+   "end_date": "2026-09-06",
+   "page_url": "https://yarisradari.com/yaris/izmir-kurtulus-oryantiring-gunleri",
+   "distances_km": []
+  },
+  {
+   "slug": "egrekkaya-ultra-trail",
+   "name": "Kızılcahamam Eğrekkaya Trail",
+   "start_date": "2026-09-05",
+   "end_date": "2026-09-05",
+   "page_url": "https://yarisradari.com/yaris/egrekkaya-ultra-trail",
+   "distances_km": [
+    36.0,
+    18.0,
+    12.0,
+    11.0,
+    6.0
+   ]
+  },
+  {
+   "slug": "istanbul-ultra",
+   "name": "Merrell İstanbul Ultra",
+   "start_date": "2026-09-05",
+   "end_date": "2026-09-05",
+   "page_url": "https://yarisradari.com/yaris/istanbul-ultra",
+   "distances_km": [
+    60.0,
+    30.0,
+    15.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "edirne-yari-maratonu",
+   "name": "Uluslararası Edirne Maratonu",
+   "start_date": "2026-09-06",
+   "end_date": "2026-09-06",
+   "page_url": "https://yarisradari.com/yaris/edirne-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "hybrid-track-race",
+   "name": "Hybrid Track Race",
+   "start_date": "2026-09-06",
+   "end_date": "2026-09-06",
+   "page_url": "https://yarisradari.com/yaris/hybrid-track-race",
+   "distances_km": []
+  },
+  {
+   "slug": "summer-run-istanbul",
+   "name": "Summer Run İstanbul",
+   "start_date": "2026-09-06",
+   "end_date": "2026-09-06",
+   "page_url": "https://yarisradari.com/yaris/summer-run-istanbul",
+   "distances_km": [
+    21.0975,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "snowbasin-by-utmb",
+   "name": "Snowbasin by UTMB",
+   "start_date": "2026-09-10",
+   "end_date": "2026-09-12",
+   "page_url": "https://yarisradari.com/yaris/snowbasin-by-utmb",
+   "distances_km": [
+    59.0,
+    29.0
+   ]
+  },
+  {
+   "slug": "wildstrubel-by-utmb",
+   "name": "Wildstrubel by UTMB®",
+   "start_date": "2026-09-10",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/wildstrubel-by-utmb",
+   "distances_km": [
+    113.0,
+    72.0,
+    55.0,
+    42.0,
+    26.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "jd-ultra-trail-great-wall-by-utmb",
+   "name": "JD Ultra-Trail Great Wall by UTMB®",
+   "start_date": "2026-09-11",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/jd-ultra-trail-great-wall-by-utmb",
+   "distances_km": [
+    100.0,
+    68.0,
+    52.0,
+    31.0
+   ]
+  },
+  {
+   "slug": "kackar-by-utmb",
+   "name": "Kaçkar by UTMB",
+   "start_date": "2026-09-11",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/kackar-by-utmb",
+   "distances_km": [
+    82.0,
+    44.0,
+    20.0,
+    4.0
+   ]
+  },
+  {
+   "slug": "malaysia-ultra-trail-by-utmb",
+   "name": "Malaysia Ultra-Trail by UTMB",
+   "start_date": "2026-09-11",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/malaysia-ultra-trail-by-utmb",
+   "distances_km": [
+    100.0,
+    50.0,
+    20.0
+   ]
+  },
+  {
+   "slug": "1-amasra-cesm-i-cihan-kosusu",
+   "name": "1. Amasra Çeşm-i Cihan Koşusu",
+   "start_date": "2026-09-13",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/1-amasra-cesm-i-cihan-kosusu",
+   "distances_km": [
+    7.0
+   ]
+  },
+  {
+   "slug": "14-uluslararasi-9-eylul-izmir-yari-maratonu",
+   "name": "14. Uluslararası 9 Eylül İzmir Yarı Maratonu",
+   "start_date": "2026-09-13",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/14-uluslararasi-9-eylul-izmir-yari-maratonu",
+   "distances_km": [
+    21.0
+   ]
+  },
+  {
+   "slug": "ayvalik-yari-maratonu",
+   "name": "Ayvalık Yarı Maratonu",
+   "start_date": "2026-09-13",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/ayvalik-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "summer-run-bozcaada",
+   "name": "Summer Run Bozcaada",
+   "start_date": "2026-09-13",
+   "end_date": "2026-09-13",
+   "page_url": "https://yarisradari.com/yaris/summer-run-bozcaada",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "grindstone-trail-running-festival",
+   "name": "Grindstone Trail Running Festival",
+   "start_date": "2026-09-17",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/grindstone-trail-running-festival",
+   "distances_km": [
+    167.4,
+    100.0,
+    50.0,
+    21.0
+   ]
+  },
+  {
+   "slug": "hyrox-maastricht",
+   "name": "HYROX Maastricht",
+   "start_date": "2026-09-17",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-maastricht",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-mumbai",
+   "name": "HYROX Mumbai",
+   "start_date": "2026-09-17",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-mumbai",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "paraty-brazil-by-utmb",
+   "name": "Paraty Brazil by UTMB",
+   "start_date": "2026-09-17",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/paraty-brazil-by-utmb",
+   "distances_km": [
+    101.0,
+    53.0,
+    34.0,
+    25.0,
+    17.0,
+    7.0
+   ]
+  },
+  {
+   "slug": "hyrox-salt-lake-city",
+   "name": "HYROX Salt Lake City",
+   "start_date": "2026-09-18",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-salt-lake-city",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "julian-alps-trail-run-by-utmb",
+   "name": "Julian Alps Trail Run by UTMB",
+   "start_date": "2026-09-18",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/julian-alps-trail-run-by-utmb",
+   "distances_km": [
+    122.0,
+    80.0,
+    55.0,
+    25.0,
+    17.0,
+    11.0
+   ]
+  },
+  {
+   "slug": "11-ultimate-cunda",
+   "name": "11. Ultimate CUNDA",
+   "start_date": "2026-09-19",
+   "end_date": "2026-09-19",
+   "page_url": "https://yarisradari.com/yaris/11-ultimate-cunda",
+   "distances_km": [
+    12.0,
+    7.0
+   ]
+  },
+  {
+   "slug": "hyrox-izmir",
+   "name": "HYROX İzmir",
+   "start_date": "2026-09-19",
+   "end_date": "2026-09-19",
+   "page_url": "https://yarisradari.com/yaris/hyrox-izmir",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "mudanya-triatlonu-turkiye-kupasi-finali",
+   "name": "Mudanya Triatlonu Türkiye Kupası Finali",
+   "start_date": "2026-09-19",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/mudanya-triatlonu-turkiye-kupasi-finali",
+   "distances_km": []
+  },
+  {
+   "slug": "6-uluslararasi-kayseri-yari-maratonu",
+   "name": "6. Uluslararası Kayseri Yarı Maratonu",
+   "start_date": "2026-09-20",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/6-uluslararasi-kayseri-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "anadolu-sigorta-bir-adim-daha",
+   "name": "Anadolu Sigorta Bir Adım Daha - 10K",
+   "start_date": "2026-09-20",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/anadolu-sigorta-bir-adim-daha",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "letape-turkiye-istanbul",
+   "name": "L'Étape Türkiye by Tour de France",
+   "start_date": "2026-09-20",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/letape-turkiye-istanbul",
+   "distances_km": [
+    105.0,
+    52.4
+   ]
+  },
+  {
+   "slug": "hyrox-rome",
+   "name": "HYROX Rome",
+   "start_date": "2026-09-23",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/hyrox-rome",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "nice-cote-d-azur-by-utmb",
+   "name": "Nice Côte d'Azur by UTMB®",
+   "start_date": "2026-09-24",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/nice-cote-d-azur-by-utmb",
+   "distances_km": [
+    168.0,
+    113.0,
+    50.0,
+    39.0,
+    23.0
+   ]
+  },
+  {
+   "slug": "the-north-face-src-belgrad-test-kosusu",
+   "name": "The North Face SRC Belgrad Test Koşusu",
+   "start_date": "2026-09-24",
+   "end_date": "2026-09-24",
+   "page_url": "https://yarisradari.com/yaris/the-north-face-src-belgrad-test-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "hyrox-oslo",
+   "name": "HYROX Oslo",
+   "start_date": "2026-09-25",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/hyrox-oslo",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "ankara-botanik-backyard",
+   "name": "Ankara Botanik Backyard Ultra",
+   "start_date": "2026-09-26",
+   "end_date": "2026-09-26",
+   "page_url": "https://yarisradari.com/yaris/ankara-botanik-backyard",
+   "distances_km": [
+    6.7
+   ]
+  },
+  {
+   "slug": "cennet-cehennem-merdiven-challenge",
+   "name": "Cennet Cehennem Merdiven Challenge",
+   "start_date": "2026-09-26",
+   "end_date": "2026-09-26",
+   "page_url": "https://yarisradari.com/yaris/cennet-cehennem-merdiven-challenge",
+   "distances_km": []
+  },
+  {
+   "slug": "gokova-yari-maratonu",
+   "name": "Gökova Run Fest",
+   "start_date": "2026-09-26",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/gokova-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "spartathlon",
+   "name": "Spartathlon",
+   "start_date": "2026-09-26",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/spartathlon",
+   "distances_km": [
+    246.0
+   ]
+  },
+  {
+   "slug": "berlin-maratonu",
+   "name": "Berlin Maratonu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/berlin-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "buyukada-yari-maratonu",
+   "name": "Decathlon Büyükada Yarı Maratonu 2026",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/buyukada-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "duzce-efteni-duatlonu",
+   "name": "Düzce Efteni Duatlonu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/duzce-efteni-duatlonu",
+   "distances_km": [
+    26.0
+   ]
+  },
+  {
+   "slug": "iskele-yari-maratonu",
+   "name": "İskele Yarı Maratonu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/iskele-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "urla-da-biriz-sosyal-sorumluluk-kosusu",
+   "name": "UREV Urla'da Biriz Koşusu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/urla-da-biriz-sosyal-sorumluluk-kosusu",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "ekinoks-kosusu-antalya",
+   "name": "Ekinoks Koşusu - Antalya",
+   "start_date": "2026-09-28",
+   "end_date": "2026-09-28",
+   "page_url": "https://yarisradari.com/yaris/ekinoks-kosusu-antalya",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-bordeaux",
+   "name": "HYROX Bordeaux",
+   "start_date": "2026-09-30",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-bordeaux",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "chihuahua-by-utmb",
+   "name": "Chihuahua by UTMB®",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-03",
+   "page_url": "https://yarisradari.com/yaris/chihuahua-by-utmb",
+   "distances_km": [
+    118.0,
+    93.0,
+    58.0,
+    39.0,
+    21.0,
+    9.0
+   ]
+  },
+  {
+   "slug": "hyrox-karlsruhe",
+   "name": "HYROX Karlsruhe",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-karlsruhe",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-toronto",
+   "name": "HYROX Toronto",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-toronto",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "transjeju-by-utmb",
+   "name": "TransJeju by UTMB",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/transjeju-by-utmb",
+   "distances_km": [
+    148.0,
+    104.0,
+    60.0,
+    20.0
+   ]
+  },
+  {
+   "slug": "15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi",
+   "name": "Elbistan Ultra Maratonu",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "page_url": "https://yarisradari.com/yaris/15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi",
+   "distances_km": [
+    100.0
+   ]
+  },
+  {
+   "slug": "beypazari-ultra-trail",
+   "name": "Beypazarı Ultra Trail",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "page_url": "https://yarisradari.com/yaris/beypazari-ultra-trail",
+   "distances_km": [
+    52.0,
+    39.0,
+    19.0,
+    8.0
+   ]
+  },
+  {
+   "slug": "dogus-holding-nigde-yari-maratonu",
+   "name": "Doğuş Holding Niğde Yarı Maratonu /",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "page_url": "https://yarisradari.com/yaris/dogus-holding-nigde-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "bodrum-yari-maratonu",
+   "name": "Bodrum Yarı Maratonu",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/bodrum-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "canakkale-gran-fondo",
+   "name": "Çanakkale Gran Fondo",
+   "start_date": "2026-10-04",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/canakkale-gran-fondo",
+   "distances_km": []
+  },
+  {
+   "slug": "eker-i-run-yol-kosusu",
+   "name": "Eker I Run Koşusu",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/eker-i-run-yol-kosusu",
+   "distances_km": [
+    42.0,
+    15.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "istanbul-u-kosuyorum-avrupa-etabi-yenikapi",
+   "name": "İstanbul’u Koşuyorum Avrupa Etabı – Yenikapı",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/istanbul-u-kosuyorum-avrupa-etabi-yenikapi",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "sinop-egitim-vakfi-sinop-yari-maratonu",
+   "name": "Sinop Eğitim Vakfı Sinop Yarı Maratonu",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/sinop-egitim-vakfi-sinop-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "hoka-kodiak-ultra-marathons-by-utmb",
+   "name": "HOKA Kodiak Ultra Marathons by UTMB",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/hoka-kodiak-ultra-marathons-by-utmb",
+   "distances_km": [
+    99.0,
+    48.4,
+    10.5
+   ]
+  },
+  {
+   "slug": "hyrox-boston",
+   "name": "HYROX Boston",
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/hyrox-boston",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "fast5-belgrad-forest",
+   "name": "Fast5 Belgrad Forest",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-09",
+   "page_url": "https://yarisradari.com/yaris/fast5-belgrad-forest",
+   "distances_km": [
+    6.0
+   ]
+  },
+  {
+   "slug": "hyrox-geneva",
+   "name": "HYROX Geneva",
+   "start_date": "2026-10-09",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/hyrox-geneva",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "iskenderun-korfezi-yuzme-maratonu",
+   "name": "İskenderun Körfezi Yüzme Maratonu",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-10",
+   "page_url": "https://yarisradari.com/yaris/iskenderun-korfezi-yuzme-maratonu",
+   "distances_km": [
+    39.0
+   ]
+  },
+  {
+   "slug": "kyzikos-ultra",
+   "name": "Kyzikos Ultra Maratonu",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/kyzikos-ultra",
+   "distances_km": [
+    65.0,
+    35.0,
+    20.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "oludeniz-open-water",
+   "name": "Ölüdeniz Open Water",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/oludeniz-open-water",
+   "distances_km": [
+    6.0,
+    4.0,
+    3.0,
+    2.0,
+    1.0
+   ]
+  },
+  {
+   "slug": "chicago-maratonu",
+   "name": "Chicago Maratonu",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/chicago-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "cumhurbaskanligi-yari-maratonu",
+   "name": "Cumhurbaşkanlığı Yarı Maratonu",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/cumhurbaskanligi-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "girne-yari-maratonu",
+   "name": "Girne Yarı Maratonu",
+   "start_date": "2026-10-11",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/girne-yari-maratonu",
+   "distances_km": [
+    21.0975,
+    10.0,
+    5.0,
+    3.0,
+    1.0
+   ]
+  },
+  {
+   "slug": "yalova-gran-fondo",
+   "name": "Yalova Gran Fondo",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/yalova-gran-fondo",
+   "distances_km": [
+    82.0,
+    58.0,
+    55.0
+   ]
+  },
+  {
+   "slug": "taurus-mountain-race",
+   "name": "Taurus Mountain Race",
+   "start_date": "2026-10-14",
+   "end_date": "2026-10-24",
+   "page_url": "https://yarisradari.com/yaris/taurus-mountain-race",
+   "distances_km": [
+    1400.0
+   ]
+  },
+  {
+   "slug": "hyrox-valencia",
+   "name": "HYROX Valencia",
+   "start_date": "2026-10-15",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-valencia",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "the-north-face-src-x-kapadokya-test-kosusu",
+   "name": "The North Face SRC x Kapadokya Test Koşusu",
+   "start_date": "2026-10-15",
+   "end_date": "2026-10-15",
+   "page_url": "https://yarisradari.com/yaris/the-north-face-src-x-kapadokya-test-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "cappadocia-ultra-trail",
+   "name": "Salomon Cappadocia Ultra-Trail",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-17",
+   "page_url": "https://yarisradari.com/yaris/cappadocia-ultra-trail",
+   "distances_km": [
+    119.0,
+    63.0,
+    38.0,
+    14.0
+   ]
+  },
+  {
+   "slug": "ultra-trail-mount-yun-by-utmb",
+   "name": "Ultra-Trail Mount Yun by UTMB®",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ultra-trail-mount-yun-by-utmb",
+   "distances_km": [
+    97.0,
+    48.0,
+    22.0
+   ]
+  },
+  {
+   "slug": "hyrox-budapest",
+   "name": "HYROX Budapest",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "page_url": "https://yarisradari.com/yaris/hyrox-budapest",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-sao-paulo",
+   "name": "HYROX São Paulo",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-sao-paulo",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "2-uluslar-arasi-ordu-yari-maratonu",
+   "name": "2. Uluslararası Ordu Yarı Maratonu",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/2-uluslar-arasi-ordu-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "amsterdam-maratonu",
+   "name": "Amsterdam Maratonu",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/amsterdam-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "bosphorun-quarter-marathon-bebek",
+   "name": "Bosphorun Quarter Marathon Bebek",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/bosphorun-quarter-marathon-bebek",
+   "distances_km": [
+    10.5
+   ]
+  },
+  {
+   "slug": "uluslararasi-corlu-yari-maratonu",
+   "name": "Uluslararası Çorlu Yarı Maratonu",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/uluslararasi-corlu-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "yalova-yuruyen-kosk-kosusu",
+   "name": "Yalova Yürüyen Köşk Koşusu",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/yalova-yuruyen-kosk-kosusu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-tampa",
+   "name": "HYROX Tampa",
+   "start_date": "2026-10-22",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/hyrox-tampa",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-abu-dhabi",
+   "name": "HYROX Abu Dhabi",
+   "start_date": "2026-10-23",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/hyrox-abu-dhabi",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "puglia-by-utmb",
+   "name": "Puglia by UTMB",
+   "start_date": "2026-10-23",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/puglia-by-utmb",
+   "distances_km": [
+    145.0,
+    85.0,
+    50.0,
+    35.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "alanya-triatlonu-turkiye-kupasi-finali-yas-grubu-standart-mesafe",
+   "name": "Alanya Triatlonu",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/alanya-triatlonu-turkiye-kupasi-finali-yas-grubu-standart-mesafe",
+   "distances_km": [
+    51.5
+   ]
+  },
+  {
+   "slug": "aquachallenge-marmaris",
+   "name": "AquaChallenge Yüzme Şampiyonası Marmaris",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/aquachallenge-marmaris",
+   "distances_km": [
+    10.0,
+    5.0,
+    3.0,
+    2.0,
+    1.0
+   ]
+  },
+  {
+   "slug": "heliz-kas-yari-maratonu",
+   "name": "Heliz Kaş Yarı Maratonu",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-24",
+   "page_url": "https://yarisradari.com/yaris/heliz-kas-yari-maratonu",
+   "distances_km": [
+    21.0,
+    12.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "17-uluslararasi-zeytinburnu-cumhuriyet-kosusu",
+   "name": "17. Uluslararası Zeytinburnu Cumhuriyet Koşusu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/17-uluslararasi-zeytinburnu-cumhuriyet-kosusu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "ankara-zaman-kosusu",
+   "name": "Ankara Zaman Koşusu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/ankara-zaman-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "caddebostan-cumhuriyet-kosusu",
+   "name": "Caddebostan Cumhuriyet Koşusu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/caddebostan-cumhuriyet-kosusu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "frankfurt-maratonu",
+   "name": "Frankfurt Maratonu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/frankfurt-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu",
+   "name": "Lykos Yarı Maratonu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/lykos-yari-maratonu-ve-cumhuriyet-halk-kosusu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "tarsus-yari-maratonu",
+   "name": "Tarsus Yarı Maratonu",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/tarsus-yari-maratonu",
+   "distances_km": [
+    21.0
+   ]
+  },
+  {
+   "slug": "veloturk-gran-fondo-cesme",
+   "name": "Veloturk Gran Fondo Çeşme",
+   "start_date": "2026-10-25",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/veloturk-gran-fondo-cesme",
+   "distances_km": [
+    91.0,
+    67.0,
+    41.0
+   ]
+  },
+  {
+   "slug": "antalya-o-fest",
+   "name": "12. Uluslararası Antalya Oryantiring Festivali",
+   "start_date": "2026-10-26",
+   "end_date": "2026-10-31",
+   "page_url": "https://yarisradari.com/yaris/antalya-o-fest",
+   "distances_km": []
+  },
+  {
+   "slug": "aquachallenge-gocek",
+   "name": "AquaChallenge Yüzme Şampiyonası Göcek",
+   "start_date": "2026-10-26",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/aquachallenge-gocek",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-birmingham",
+   "name": "HYROX Birmingham",
+   "start_date": "2026-10-27",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-birmingham",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "ahulex-tm1000",
+   "name": "AHULEX TM1000",
+   "start_date": "2026-10-28",
+   "end_date": "2026-11-02",
+   "page_url": "https://yarisradari.com/yaris/ahulex-tm1000",
+   "distances_km": [
+    1003.0,
+    496.0,
+    247.0
+   ]
+  },
+  {
+   "slug": "hyrox-hamburg",
+   "name": "HYROX Hamburg",
+   "start_date": "2026-10-28",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-hamburg",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-mexico-city",
+   "name": "HYROX Mexico City",
+   "start_date": "2026-10-29",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-mexico-city",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-nice",
+   "name": "HYROX Nice",
+   "start_date": "2026-10-29",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-nice",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "mulkiye-cumhuriyet-kosusu",
+   "name": "Mülkiye Cumhuriyet Koşusu",
+   "start_date": "2026-10-29",
+   "end_date": "2026-10-29",
+   "page_url": "https://yarisradari.com/yaris/mulkiye-cumhuriyet-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "kullamannen-by-utmb",
+   "name": "Kullamannen by UTMB",
+   "start_date": "2026-10-30",
+   "end_date": "2026-10-31",
+   "page_url": "https://yarisradari.com/yaris/kullamannen-by-utmb",
+   "distances_km": [
+    173.0,
+    108.0,
+    53.0,
+    22.0
+   ]
+  },
+  {
+   "slug": "mallorca-by-utmb",
+   "name": "Mallorca by UTMB®",
+   "start_date": "2026-10-30",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/mallorca-by-utmb",
+   "distances_km": [
+    138.0,
+    104.0,
+    56.0,
+    26.0
+   ]
+  },
+  {
+   "slug": "fethiye-ultra",
+   "name": "8. Fethiye Ultra",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "page_url": "https://yarisradari.com/yaris/fethiye-ultra",
+   "distances_km": [
+    50.0,
+    25.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-shanghai",
+   "name": "HYROX Shanghai",
+   "start_date": "2026-10-31",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/hyrox-shanghai",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "meturun-trail-kosusu",
+   "name": "Meturun Trail Koşusu",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "page_url": "https://yarisradari.com/yaris/meturun-trail-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "ironman-70-3",
+   "name": "IRONMAN 70.3",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "istanbul-maratonu",
+   "name": "İstanbul Maratonu",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/istanbul-maratonu",
+   "distances_km": [
+    42.0,
+    15.0
+   ]
+  },
+  {
+   "slug": "new-york-maratonu",
+   "name": "New York Maratonu",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/new-york-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "ultra-trail-shudao-by-utmb",
+   "name": "Ultra-Trail Shudao by UTMB®",
+   "start_date": "2026-11-06",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/ultra-trail-shudao-by-utmb",
+   "distances_km": [
+    104.0,
+    70.5,
+    42.0,
+    21.5
+   ]
+  },
+  {
+   "slug": "istanbul-5-days",
+   "name": "İstanbul 5 Days",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/istanbul-5-days",
+   "distances_km": []
+  },
+  {
+   "slug": "varda-ultra-trail",
+   "name": "Varda Ultra Trail",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-07",
+   "page_url": "https://yarisradari.com/yaris/varda-ultra-trail",
+   "distances_km": [
+    62.0,
+    59.0,
+    27.0,
+    14.0
+   ]
+  },
+  {
+   "slug": "ata-dan-ana-ya-saygi-kosusu",
+   "name": "Ata'dan Ana'ya Saygı Koşusu",
+   "start_date": "2026-11-08",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/ata-dan-ana-ya-saygi-kosusu",
+   "distances_km": [
+    4.0
+   ]
+  },
+  {
+   "slug": "atina-maratonu",
+   "name": "Atina Maratonu",
+   "start_date": "2026-11-08",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/atina-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "cappadocia-marathon",
+   "name": "Cappadocia Marathon",
+   "start_date": "2026-11-08",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/cappadocia-marathon",
+   "distances_km": [
+    42.195,
+    21.0975,
+    10.0
+   ]
+  },
+  {
+   "slug": "fethiye-likyari-maratonu",
+   "name": "Fethiye Likyarı Maratonu",
+   "start_date": "2026-11-08",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/fethiye-likyari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "uci-gran-fondo-antalya",
+   "name": "UCI Gran Fondo Antalya",
+   "start_date": "2026-11-08",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/uci-gran-fondo-antalya",
+   "distances_km": [
+    105.0,
+    93.0,
+    73.0,
+    60.0,
+    22.0,
+    20.0
+   ]
+  },
+  {
+   "slug": "hyrox-barcelona",
+   "name": "HYROX Barcelona",
+   "start_date": "2026-11-11",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-barcelona",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-dublin",
+   "name": "HYROX Dublin",
+   "start_date": "2026-11-11",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-dublin",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-dusseldorf",
+   "name": "HYROX Düsseldorf",
+   "start_date": "2026-11-11",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-dusseldorf",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-denver",
+   "name": "HYROX Denver",
+   "start_date": "2026-11-12",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-denver",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "antalya-canyon-ultra",
+   "name": "Antalya Canyon Ultra",
+   "start_date": "2026-11-13",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/antalya-canyon-ultra",
+   "distances_km": [
+    70.0,
+    45.0,
+    33.0,
+    13.0,
+    7.0
+   ]
+  },
+  {
+   "slug": "hoka-pacific-trails-california-by-utmb",
+   "name": "HOKA Pacific Trails California by UTMB",
+   "start_date": "2026-11-13",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hoka-pacific-trails-california-by-utmb",
+   "distances_km": [
+    51.0,
+    25.0
+   ]
+  },
+  {
+   "slug": "hyrox-seoul",
+   "name": "HYROX Seoul",
+   "start_date": "2026-11-13",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-seoul",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "translantau-by-utmb",
+   "name": "Translantau™ by UTMB®",
+   "start_date": "2026-11-13",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/translantau-by-utmb",
+   "distances_km": [
+    104.0,
+    45.0,
+    27.0,
+    15.0
+   ]
+  },
+  {
+   "slug": "forest-trail",
+   "name": "FOREST TRAİL",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "page_url": "https://yarisradari.com/yaris/forest-trail",
+   "distances_km": [
+    22.0
+   ]
+  },
+  {
+   "slug": "hyrox-cairo",
+   "name": "HYROX Cairo",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-cairo",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "latmos-ultra",
+   "name": "Latmos Ultra Maratonu",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-14",
+   "page_url": "https://yarisradari.com/yaris/latmos-ultra",
+   "distances_km": [
+    45.0,
+    26.0,
+    17.0,
+    8.0
+   ]
+  },
+  {
+   "slug": "sagalassos-sky-ultra",
+   "name": "Sagalassos Sky Ultra",
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/sagalassos-sky-ultra",
+   "distances_km": [
+    42.3,
+    26.9,
+    17.4,
+    5.2,
+    4.95,
+    2.0
+   ]
+  },
+  {
+   "slug": "antalya-zaman-kosusu",
+   "name": "Antalya Zaman Koşusu",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/antalya-zaman-kosusu",
+   "distances_km": []
+  },
+  {
+   "slug": "oyak-65-yil-ankara-kosusu",
+   "name": "Oyak 65.Yıl Ankara Koşusu",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/oyak-65-yil-ankara-kosusu",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "soli-10k",
+   "name": "Soli 10K",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/soli-10k",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-dallas",
+   "name": "HYROX Dallas",
+   "start_date": "2026-11-18",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/hyrox-dallas",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "patagonia-bariloche-by-utmb",
+   "name": "Patagonia BARILOCHE by UTMB",
+   "start_date": "2026-11-18",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/patagonia-bariloche-by-utmb",
+   "distances_km": [
+    131.0,
+    88.0,
+    57.5,
+    35.0,
+    22.0,
+    12.7
+   ]
+  },
+  {
+   "slug": "catalkaya-ultra-trail",
+   "name": "Çatalkaya Ultra",
+   "start_date": "2026-11-20",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/catalkaya-ultra-trail",
+   "distances_km": [
+    74.0,
+    45.0,
+    29.0,
+    13.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "hyrox-poznan",
+   "name": "HYROX Poznań",
+   "start_date": "2026-11-20",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/hyrox-poznan",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-guangzhou",
+   "name": "HYROX Guangzhou",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/hyrox-guangzhou",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-rio-de-janeiro",
+   "name": "HYROX Rio de Janeiro",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/hyrox-rio-de-janeiro",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "8-gazi-yari-maratonu",
+   "name": "8. Gazi Yarı Maratonu",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/8-gazi-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "cenedag-ultra-trail",
+   "name": "Çenedağ Ultra Trail",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/cenedag-ultra-trail",
+   "distances_km": [
+    57.0,
+    21.0,
+    14.0,
+    8.0
+   ]
+  },
+  {
+   "slug": "dragos",
+   "name": "Dragos",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/dragos",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "kesifrun-nilufer",
+   "name": "KeşifRun Nilüfer",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/kesifrun-nilufer",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-gujarat",
+   "name": "HYROX Gujarat",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-gujarat",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-johannesburg",
+   "name": "HYROX Johannesburg",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/hyrox-johannesburg",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-singapore",
+   "name": "HYROX Singapore",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/hyrox-singapore",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-utrecht",
+   "name": "HYROX Utrecht",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-30",
+   "page_url": "https://yarisradari.com/yaris/hyrox-utrecht",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "ultra-trail-kosciuszko-by-utmb",
+   "name": "Ultra-Trail Kosciuszko by UTMB",
+   "start_date": "2026-11-26",
+   "end_date": "2026-11-28",
+   "page_url": "https://yarisradari.com/yaris/ultra-trail-kosciuszko-by-utmb",
+   "distances_km": [
+    161.0,
+    106.0,
+    50.0,
+    32.0
+   ]
+  },
+  {
+   "slug": "hoka-chiang-mai-thailand-by-utmb",
+   "name": "HOKA Chiang Mai Thailand by UTMB",
+   "start_date": "2026-11-27",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/hoka-chiang-mai-thailand-by-utmb",
+   "distances_km": [
+    173.0,
+    100.0,
+    63.0,
+    57.0,
+    26.0,
+    20.0,
+    17.0,
+    5.0,
+    3.0
+   ]
+  },
+  {
+   "slug": "hyrox-dubai",
+   "name": "HYROX Dubai",
+   "start_date": "2026-11-27",
+   "end_date": "2026-11-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-dubai",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "kar-spor-ida-ultra",
+   "name": "Kar Spor İda Ultra",
+   "start_date": "2026-11-28",
+   "end_date": "2026-11-28",
+   "page_url": "https://yarisradari.com/yaris/kar-spor-ida-ultra",
+   "distances_km": [
+    105.0,
+    66.0,
+    44.0,
+    29.0
+   ]
+  },
+  {
+   "slug": "geyik-kosulari",
+   "name": "Geyik Koşuları",
+   "start_date": "2026-12-02",
+   "end_date": "2026-12-02",
+   "page_url": "https://yarisradari.com/yaris/geyik-kosulari",
+   "distances_km": [
+    28.0,
+    14.0,
+    8.0,
+    6.0,
+    4.0
+   ]
+  },
+  {
+   "slug": "hyrox-london",
+   "name": "HYROX London",
+   "start_date": "2026-12-02",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/hyrox-london",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-anaheim",
+   "name": "HYROX Anaheim",
+   "start_date": "2026-12-03",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/hyrox-anaheim",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-milan",
+   "name": "HYROX Milan",
+   "start_date": "2026-12-04",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/hyrox-milan",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-sanya",
+   "name": "HYROX Sanya",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/hyrox-sanya",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "gobeklitepe-yari-maratonu",
+   "name": "Göbeklitepe Yarı Maratonu",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/gobeklitepe-yari-maratonu",
+   "distances_km": []
+  },
+  {
+   "slug": "st-nicholas-half-marathon",
+   "name": "St Nicholas Half Marathon",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/st-nicholas-half-marathon",
+   "distances_km": [
+    21.0,
+    12.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "valencia-maratonu",
+   "name": "Valencia Maratonu",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/valencia-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "hyrox-melbourne",
+   "name": "HYROX Melbourne",
+   "start_date": "2026-12-09",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-melbourne",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-nashville",
+   "name": "HYROX Nashville",
+   "start_date": "2026-12-09",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-nashville",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-frankfurt",
+   "name": "HYROX Frankfurt",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-frankfurt",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-kuala-lumpur",
+   "name": "HYROX Kuala Lumpur",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-kuala-lumpur",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-stockholm",
+   "name": "HYROX Stockholm",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-stockholm",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "oman-by-utmb",
+   "name": "Oman by UTMB®",
+   "start_date": "2026-12-10",
+   "end_date": "2026-12-12",
+   "page_url": "https://yarisradari.com/yaris/oman-by-utmb",
+   "distances_km": [
+    154.0,
+    103.0,
+    50.0,
+    32.0,
+    21.5
+   ]
+  },
+  {
+   "slug": "hyrox-paris",
+   "name": "HYROX Paris",
+   "start_date": "2026-12-12",
+   "end_date": "2026-12-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-paris",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "eskisehir-yari-maratonu",
+   "name": "Eskişehir Uluslararası Yarı Maratonu ve Spor Festivali",
+   "start_date": "2026-12-13",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/eskisehir-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "uluslararasi-mersin-maratonu",
+   "name": "Uluslararası Mersin Maratonu 2026",
+   "start_date": "2026-12-13",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/uluslararasi-mersin-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "hyrox-gent",
+   "name": "HYROX Gent",
+   "start_date": "2026-12-17",
+   "end_date": "2026-12-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-gent",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-vancouver",
+   "name": "HYROX Vancouver",
+   "start_date": "2026-12-17",
+   "end_date": "2026-12-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-vancouver",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-helsinki",
+   "name": "HYROX Helsinki",
+   "start_date": "2026-12-18",
+   "end_date": "2026-12-20",
+   "page_url": "https://yarisradari.com/yaris/hyrox-helsinki",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "antalya-ultra",
+   "name": "Antalya Ultra",
+   "start_date": "2026-12-24",
+   "end_date": "2026-12-27",
+   "page_url": "https://yarisradari.com/yaris/antalya-ultra",
+   "distances_km": [
+    85.0,
+    57.0,
+    33.0,
+    22.0,
+    12.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "buyuk-ataturk-kosusu",
+   "name": "91. Büyük Atatürk Koşusu",
+   "start_date": "2026-12-27",
+   "end_date": null,
+   "page_url": "https://yarisradari.com/yaris/buyuk-ataturk-kosusu",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-hong-kong",
+   "name": "HYROX Hong Kong",
+   "start_date": "2027-01-07",
+   "end_date": "2027-01-10",
+   "page_url": "https://yarisradari.com/yaris/hyrox-hong-kong",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "vietnam-highlands-trail-by-utmb",
+   "name": "Vietnam Highlands Trail by UTMB",
+   "start_date": "2027-01-08",
+   "end_date": "2027-01-10",
+   "page_url": "https://yarisradari.com/yaris/vietnam-highlands-trail-by-utmb",
+   "distances_km": [
+    104.2,
+    56.4,
+    24.1,
+    11.3
+   ]
+  },
+  {
+   "slug": "adana-yari-maratonu",
+   "name": "Adana Yarı Maratonu",
+   "start_date": "2027-01-10",
+   "end_date": "2027-01-10",
+   "page_url": "https://yarisradari.com/yaris/adana-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-noida",
+   "name": "HYROX Noida",
+   "start_date": "2027-01-15",
+   "end_date": "2027-01-17",
+   "page_url": "https://yarisradari.com/yaris/hyrox-noida",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-manchester",
+   "name": "HYROX Manchester",
+   "start_date": "2027-01-20",
+   "end_date": "2027-01-31",
+   "page_url": "https://yarisradari.com/yaris/hyrox-manchester",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-osaka",
+   "name": "HYROX Osaka",
+   "start_date": "2027-01-21",
+   "end_date": "2027-01-25",
+   "page_url": "https://yarisradari.com/yaris/hyrox-osaka",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "arc-of-attrition-by-utmb",
+   "name": "Arc of Attrition by UTMB®",
+   "start_date": "2027-01-22",
+   "end_date": "2027-01-24",
+   "page_url": "https://yarisradari.com/yaris/arc-of-attrition-by-utmb",
+   "distances_km": [
+    173.0,
+    82.7,
+    49.4,
+    22.1
+   ]
+  },
+  {
+   "slug": "hyrox-amsterdam",
+   "name": "HYROX Amsterdam",
+   "start_date": "2027-01-22",
+   "end_date": "2027-01-31",
+   "page_url": "https://yarisradari.com/yaris/hyrox-amsterdam",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "9-uluslararasi-antalya-oryantiring-gunleri",
+   "name": "9. Uluslararası Antalya Oryantiring Günleri",
+   "start_date": "2027-01-25",
+   "end_date": "2027-01-31",
+   "page_url": "https://yarisradari.com/yaris/9-uluslararasi-antalya-oryantiring-gunleri",
+   "distances_km": []
+  },
+  {
+   "slug": "hyrox-verona",
+   "name": "HYROX Verona",
+   "start_date": "2027-01-28",
+   "end_date": "2027-01-31",
+   "page_url": "https://yarisradari.com/yaris/hyrox-verona",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-toulouse",
+   "name": "HYROX Toulouse",
+   "start_date": "2027-02-03",
+   "end_date": "2027-02-07",
+   "page_url": "https://yarisradari.com/yaris/hyrox-toulouse",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-auckland",
+   "name": "HYROX Auckland",
+   "start_date": "2027-02-04",
+   "end_date": "2027-02-07",
+   "page_url": "https://yarisradari.com/yaris/hyrox-auckland",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-bilbao",
+   "name": "HYROX Bilbao",
+   "start_date": "2027-02-06",
+   "end_date": "2027-02-07",
+   "page_url": "https://yarisradari.com/yaris/hyrox-bilbao",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-bangkok",
+   "name": "HYROX Bangkok",
+   "start_date": "2027-02-11",
+   "end_date": "2027-02-14",
+   "page_url": "https://yarisradari.com/yaris/hyrox-bangkok",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-chicago",
+   "name": "HYROX Chicago",
+   "start_date": "2027-02-11",
+   "end_date": "2027-02-15",
+   "page_url": "https://yarisradari.com/yaris/hyrox-chicago",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-basel",
+   "name": "HYROX Basel",
+   "start_date": "2027-02-12",
+   "end_date": "2027-02-14",
+   "page_url": "https://yarisradari.com/yaris/hyrox-basel",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "tarawera-ultra-trail-by-utmb",
+   "name": "Tarawera Ultra-Trail by UTMB",
+   "start_date": "2027-02-13",
+   "end_date": "2027-02-14",
+   "page_url": "https://yarisradari.com/yaris/tarawera-ultra-trail-by-utmb",
+   "distances_km": [
+    163.0,
+    102.0,
+    52.0,
+    23.0,
+    14.0
+   ]
+  },
+  {
+   "slug": "hyrox-cancun",
+   "name": "HYROX Cancun",
+   "start_date": "2027-02-19",
+   "end_date": "2027-02-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-cancun",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-katowice",
+   "name": "HYROX Katowice",
+   "start_date": "2027-02-19",
+   "end_date": "2027-02-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-katowice",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-vienna",
+   "name": "HYROX Vienna",
+   "start_date": "2027-02-19",
+   "end_date": "2027-02-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-vienna",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-phoenix",
+   "name": "HYROX Phoenix",
+   "start_date": "2027-02-25",
+   "end_date": "2027-02-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-phoenix",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-mechelen",
+   "name": "HYROX Mechelen",
+   "start_date": "2027-03-03",
+   "end_date": "2027-03-07",
+   "page_url": "https://yarisradari.com/yaris/hyrox-mechelen",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "puerto-vallarta-by-utmb",
+   "name": "Puerto Vallarta by UTMB®",
+   "start_date": "2027-03-04",
+   "end_date": "2027-03-06",
+   "page_url": "https://yarisradari.com/yaris/puerto-vallarta-by-utmb",
+   "distances_km": [
+    81.0,
+    53.0,
+    37.0,
+    20.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "xtrail-by-utmb",
+   "name": "Xtrail by UTMB®",
+   "start_date": "2027-03-05",
+   "end_date": "2027-03-07",
+   "page_url": "https://yarisradari.com/yaris/xtrail-by-utmb",
+   "distances_km": [
+    98.0,
+    50.0,
+    26.0,
+    11.0,
+    2.0
+   ]
+  },
+  {
+   "slug": "tokyo-maratonu",
+   "name": "Tokyo Maratonu",
+   "start_date": "2027-03-07",
+   "end_date": "2027-03-07",
+   "page_url": "https://yarisradari.com/yaris/tokyo-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "hyrox-glasgow",
+   "name": "HYROX Glasgow",
+   "start_date": "2027-03-10",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/hyrox-glasgow",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-las-vegas",
+   "name": "HYROX Las Vegas",
+   "start_date": "2027-03-12",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/hyrox-las-vegas",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-taipei",
+   "name": "HYROX Taipei",
+   "start_date": "2027-03-12",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/hyrox-taipei",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-madrid",
+   "name": "HYROX Madrid",
+   "start_date": "2027-03-17",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-madrid",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "chianti-ultra-trail-by-utmb",
+   "name": "Chianti Ultra Trail by UTMB",
+   "start_date": "2027-03-18",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/chianti-ultra-trail-by-utmb",
+   "distances_km": [
+    123.0,
+    73.0,
+    46.0,
+    20.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-guadalajara",
+   "name": "HYROX Guadalajara",
+   "start_date": "2027-03-19",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-guadalajara",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-buenos-aires",
+   "name": "HYROX Buenos Aires",
+   "start_date": "2027-03-20",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/hyrox-buenos-aires",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "47-trabzon-yari-maratonu",
+   "name": "47. TRABZON YARI MARATONU",
+   "start_date": "2027-03-21",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/47-trabzon-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "hyrox-copenhagen",
+   "name": "HYROX Copenhagen",
+   "start_date": "2027-03-25",
+   "end_date": "2027-03-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-copenhagen",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-cape-town",
+   "name": "HYROX Cape Town",
+   "start_date": "2027-03-26",
+   "end_date": "2027-03-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-cape-town",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-miami-beach",
+   "name": "HYROX Miami Beach",
+   "start_date": "2027-03-26",
+   "end_date": "2027-03-28",
+   "page_url": "https://yarisradari.com/yaris/hyrox-miami-beach",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "alanya-ultra-trail",
+   "name": "ALANYA ULTRA TRAIL",
+   "start_date": "2027-03-27",
+   "end_date": "2027-03-27",
+   "page_url": "https://yarisradari.com/yaris/alanya-ultra-trail",
+   "distances_km": [
+    90.0,
+    70.0,
+    50.0,
+    32.0,
+    14.0,
+    6.2
+   ]
+  },
+  {
+   "slug": "efes-ultra-maratonu",
+   "name": "Efes Ultra Maratonu",
+   "start_date": "2027-03-27",
+   "end_date": "2027-03-28",
+   "page_url": "https://yarisradari.com/yaris/efes-ultra-maratonu",
+   "distances_km": [
+    120.0,
+    61.0,
+    42.0,
+    27.0,
+    12.0,
+    6.0
+   ]
+  },
+  {
+   "slug": "hyrox-brisbane",
+   "name": "HYROX Brisbane",
+   "start_date": "2027-03-31",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-brisbane",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-houston",
+   "name": "HYROX Houston",
+   "start_date": "2027-04-01",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-houston",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-rotterdam",
+   "name": "HYROX Rotterdam",
+   "start_date": "2027-04-01",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-rotterdam",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "istria-100-by-utmb",
+   "name": "Istria 100 by UTMB",
+   "start_date": "2027-04-01",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/istria-100-by-utmb",
+   "distances_km": [
+    168.0,
+    111.0,
+    69.6,
+    42.0,
+    21.5
+   ]
+  },
+  {
+   "slug": "jujuy-los-andes-by-utmb",
+   "name": "Jujuy Los Andes by UTMB",
+   "start_date": "2027-04-01",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/jujuy-los-andes-by-utmb",
+   "distances_km": [
+    87.2,
+    50.3,
+    34.0,
+    21.3,
+    11.9,
+    4.5
+   ]
+  },
+  {
+   "slug": "hyrox-bari",
+   "name": "HYROX Bari",
+   "start_date": "2027-04-02",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/hyrox-bari",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-warsaw",
+   "name": "HYROX Warsaw",
+   "start_date": "2027-04-07",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/hyrox-warsaw",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "desert-rats-trail-running-festival-by-utmb",
+   "name": "Desert RATS Trail Running Festival by UTMB",
+   "start_date": "2027-04-08",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/desert-rats-trail-running-festival-by-utmb",
+   "distances_km": [
+    100.0,
+    48.0,
+    21.0,
+    9.0
+   ]
+  },
+  {
+   "slug": "hyrox-cologne",
+   "name": "HYROX Cologne",
+   "start_date": "2027-04-08",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/hyrox-cologne",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-paris-grand-palais",
+   "name": "HYROX Paris Grand Palais",
+   "start_date": "2027-04-08",
+   "end_date": "2027-04-12",
+   "page_url": "https://yarisradari.com/yaris/hyrox-paris-grand-palais",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "tenerife-bluetrail-by-utmb",
+   "name": "Tenerife Bluetrail by UTMB®",
+   "start_date": "2027-04-08",
+   "end_date": "2027-04-10",
+   "page_url": "https://yarisradari.com/yaris/tenerife-bluetrail-by-utmb",
+   "distances_km": [
+    110.0,
+    82.0,
+    68.0,
+    47.0,
+    24.0,
+    6.5
+   ]
+  },
+  {
+   "slug": "hiroshima-ultra-trail-by-utmb",
+   "name": "Hiroshima Ultra-Trail by UTMB®",
+   "start_date": "2027-04-09",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/hiroshima-ultra-trail-by-utmb",
+   "distances_km": []
+  },
+  {
+   "slug": "paris-maratonu",
+   "name": "Paris Maratonu",
+   "start_date": "2027-04-11",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/paris-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "hyrox-malaga",
+   "name": "HYROX Málaga",
+   "start_date": "2027-04-14",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-malaga",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-helsinki-2027",
+   "name": "HYROX Helsinki",
+   "start_date": "2027-04-16",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-helsinki-2027",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-monterrey",
+   "name": "HYROX Monterrey",
+   "start_date": "2027-04-16",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-monterrey",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-nagoya",
+   "name": "HYROX Nagoya",
+   "start_date": "2027-04-16",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/hyrox-nagoya",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "boston-maratonu",
+   "name": "Boston Maratonu",
+   "start_date": "2027-04-19",
+   "end_date": "2027-04-19",
+   "page_url": "https://yarisradari.com/yaris/boston-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "hyrox-ottawa",
+   "name": "HYROX Ottawa",
+   "start_date": "2027-04-21",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/hyrox-ottawa",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "the-canyons-endurance-runs-by-utmb",
+   "name": "The Canyons Endurance Runs™ by UTMB®",
+   "start_date": "2027-04-22",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/the-canyons-endurance-runs-by-utmb",
+   "distances_km": [
+    161.0,
+    100.0,
+    50.0,
+    25.0
+   ]
+  },
+  {
+   "slug": "grand-raid-ventoux-by-utmb",
+   "name": "Grand Raid Ventoux by UTMB",
+   "start_date": "2027-04-23",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/grand-raid-ventoux-by-utmb",
+   "distances_km": [
+    125.0,
+    87.0,
+    51.0,
+    26.0
+   ]
+  },
+  {
+   "slug": "hyrox-atlanta",
+   "name": "HYROX Atlanta",
+   "start_date": "2027-04-23",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/hyrox-atlanta",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "londra-maratonu",
+   "name": "Londra Maratonu",
+   "start_date": "2027-04-25",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/londra-maratonu",
+   "distances_km": [
+    42.0
+   ]
+  },
+  {
+   "slug": "oh-meu-deus-by-utmb",
+   "name": "Oh Meu Deus by UTMB",
+   "start_date": "2027-04-30",
+   "end_date": "2027-05-02",
+   "page_url": "https://yarisradari.com/yaris/oh-meu-deus-by-utmb",
+   "distances_km": [
+    167.0,
+    94.0,
+    52.0,
+    22.0
+   ]
+  },
+  {
+   "slug": "hyrox-krakow",
+   "name": "HYROX Kraków",
+   "start_date": "2027-05-07",
+   "end_date": "2027-05-09",
+   "page_url": "https://yarisradari.com/yaris/hyrox-krakow",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-sao-paulo-2027",
+   "name": "HYROX São Paulo",
+   "start_date": "2027-05-08",
+   "end_date": "2027-05-09",
+   "page_url": "https://yarisradari.com/yaris/hyrox-sao-paulo-2027",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "tahtali-run-to-sky",
+   "name": "Tahtalı Run to Sky",
+   "start_date": "2027-05-08",
+   "end_date": "2027-05-08",
+   "page_url": "https://yarisradari.com/yaris/tahtali-run-to-sky",
+   "distances_km": [
+    43.0,
+    27.0,
+    11.0
+   ]
+  },
+  {
+   "slug": "x-waters-antalya",
+   "name": "X-Waters Antalya",
+   "start_date": "2027-05-08",
+   "end_date": "2027-05-09",
+   "page_url": "https://yarisradari.com/yaris/x-waters-antalya",
+   "distances_km": [
+    8.0,
+    4.0,
+    1.6,
+    0.5
+   ]
+  },
+  {
+   "slug": "hyrox-bengaluru",
+   "name": "HYROX Bengaluru",
+   "start_date": "2027-05-12",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/hyrox-bengaluru",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-lyon",
+   "name": "HYROX Lyon",
+   "start_date": "2027-05-12",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/hyrox-lyon",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hoka-ultra-trail-australia-by-utmb",
+   "name": "HOKA Ultra-Trail Australia by UTMB",
+   "start_date": "2027-05-13",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/hoka-ultra-trail-australia-by-utmb",
+   "distances_km": [
+    161.1,
+    101.0,
+    51.0,
+    22.0,
+    11.4,
+    1.0
+   ]
+  },
+  {
+   "slug": "hyrox-incheon",
+   "name": "HYROX Incheon",
+   "start_date": "2027-05-13",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/hyrox-incheon",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-san-diego",
+   "name": "HYROX San Diego",
+   "start_date": "2027-05-13",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/hyrox-san-diego",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "trail-alsace-by-utmb",
+   "name": "Trail Alsace by UTMB",
+   "start_date": "2027-05-13",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/trail-alsace-by-utmb",
+   "distances_km": [
+    158.0,
+    108.0,
+    47.0,
+    29.0,
+    18.0,
+    10.5
+   ]
+  },
+  {
+   "slug": "rothrock-by-utmb",
+   "name": "Rothrock by UTMB",
+   "start_date": "2027-05-14",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/rothrock-by-utmb",
+   "distances_km": [
+    53.3,
+    26.9
+   ]
+  },
+  {
+   "slug": "hyrox-cardiff",
+   "name": "HYROX Cardiff",
+   "start_date": "2027-05-20",
+   "end_date": "2027-05-29",
+   "page_url": "https://yarisradari.com/yaris/hyrox-cardiff",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "hyrox-portland",
+   "name": "HYROX Portland",
+   "start_date": "2027-05-21",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/hyrox-portland",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "run-caretta-run",
+   "name": "Run caretta run",
+   "start_date": "2027-05-22",
+   "end_date": "2027-05-22",
+   "page_url": "https://yarisradari.com/yaris/run-caretta-run",
+   "distances_km": [
+    24.0,
+    10.0,
+    5.0
+   ]
+  },
+  {
+   "slug": "hyrox-rimini",
+   "name": "HYROX Rimini",
+   "start_date": "2027-05-27",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/hyrox-rimini",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "mountain-ultra-trail-by-utmb",
+   "name": "Mountain Ultra Trail by UTMB",
+   "start_date": "2027-05-27",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/mountain-ultra-trail-by-utmb",
+   "distances_km": [
+    168.0,
+    100.0,
+    58.0,
+    43.0,
+    25.0,
+    11.9
+   ]
+  },
+  {
+   "slug": "hyrox-riga",
+   "name": "HYROX Riga",
+   "start_date": "2027-05-28",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/hyrox-riga",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "gelibolu-orta-mesafe-triatlon-ve-aquatlon-turkiye-ve-balkan-sampiyonasi",
+   "name": "GELİBOLU ORTA MESAFE TRİATLON VE AQUATLON TÜRKİYE ve BALKAN ŞAMPİYONASI",
+   "start_date": "2027-05-29",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/gelibolu-orta-mesafe-triatlon-ve-aquatlon-turkiye-ve-balkan-sampiyonasi",
+   "distances_km": []
+  },
+  {
+   "slug": "ultra-trail-chattanooga-by-utmb",
+   "name": "Ultra Trail Chattanooga by UTMB",
+   "start_date": "2027-06-04",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ultra-trail-chattanooga-by-utmb",
+   "distances_km": []
+  },
+  {
+   "slug": "mozart-100-by-utmb",
+   "name": "Mozart 100 by UTMB",
+   "start_date": "2027-06-05",
+   "end_date": "2027-06-05",
+   "page_url": "https://yarisradari.com/yaris/mozart-100-by-utmb",
+   "distances_km": [
+    119.0,
+    84.0,
+    44.0,
+    28.0,
+    12.0
+   ]
+  },
+  {
+   "slug": "hyrox-world-championships-hong-kong",
+   "name": "HYROX World Championships Hong Kong",
+   "start_date": "2027-06-10",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/hyrox-world-championships-hong-kong",
+   "distances_km": [
+    8.0
+   ]
+  },
+  {
+   "slug": "trail-100-andorra-by-utmb",
+   "name": "Trail 100 Andorra by UTMB",
+   "start_date": "2027-06-10",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/trail-100-andorra-by-utmb",
+   "distances_km": [
+    105.0,
+    79.0,
+    50.0,
+    24.9,
+    10.0
+   ]
+  },
+  {
+   "slug": "zugspitz-ultra-trail-by-utmb",
+   "name": "Zugspitz Ultra Trail by UTMB",
+   "start_date": "2027-06-17",
+   "end_date": "2027-06-19",
+   "page_url": "https://yarisradari.com/yaris/zugspitz-ultra-trail-by-utmb",
+   "distances_km": [
+    167.0,
+    107.0,
+    86.0,
+    68.5,
+    44.0,
+    29.0,
+    16.0
+   ]
+  },
+  {
+   "slug": "trail-du-saint-jacques-by-utmb",
+   "name": "Trail du Saint Jacques by UTMB",
+   "start_date": "2027-06-18",
+   "end_date": "2027-06-20",
+   "page_url": "https://yarisradari.com/yaris/trail-du-saint-jacques-by-utmb",
+   "distances_km": [
+    140.0,
+    88.0,
+    55.0,
+    28.0,
+    12.0
+   ]
+  },
+  {
+   "slug": "la-sportiva-lavaredo-ultra-trail-by-utmb",
+   "name": "La Sportiva Lavaredo Ultra Trail by UTMB",
+   "start_date": "2027-06-23",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/la-sportiva-lavaredo-ultra-trail-by-utmb",
+   "distances_km": [
+    120.0,
+    80.0,
+    50.0,
+    20.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "torrencial-chile-by-utmb",
+   "name": "Torrencial Chile by UTMB",
+   "start_date": "2027-06-24",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/torrencial-chile-by-utmb",
+   "distances_km": [
+    101.0,
+    65.0,
+    45.0,
+    20.0,
+    12.0,
+    6.5
+   ]
+  },
+  {
+   "slug": "hoka-val-d-aran-by-utmb",
+   "name": "HOKA Val D'Aran by UTMB®",
+   "start_date": "2027-07-07",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/hoka-val-d-aran-by-utmb",
+   "distances_km": [
+    163.0,
+    110.0,
+    75.0,
+    55.0,
+    32.0,
+    18.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "restonica-trail-by-utmb",
+   "name": "Restonica Trail by UTMB",
+   "start_date": "2027-07-08",
+   "end_date": "2027-07-10",
+   "page_url": "https://yarisradari.com/yaris/restonica-trail-by-utmb",
+   "distances_km": [
+    110.0,
+    69.0,
+    33.0,
+    17.0
+   ]
+  },
+  {
+   "slug": "trail-verbier-st-bernard-by-utmb",
+   "name": "Trail Verbier St Bernard by UTMB",
+   "start_date": "2027-07-09",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/trail-verbier-st-bernard-by-utmb",
+   "distances_km": [
+    140.0,
+    77.0,
+    47.0,
+    43.0
+   ]
+  },
+  {
+   "slug": "eiger-ultra-trail-by-utmb",
+   "name": "Eiger Ultra Trail by UTMB",
+   "start_date": "2027-07-14",
+   "end_date": "2027-07-18",
+   "page_url": "https://yarisradari.com/yaris/eiger-ultra-trail-by-utmb",
+   "distances_km": [
+    261.0,
+    101.0,
+    51.0,
+    35.0,
+    16.0,
+    15.0
+   ]
+  },
+  {
+   "slug": "monte-rosa-walserwaeg-by-utmb",
+   "name": "Monte Rosa Walserwaeg by UTMB",
+   "start_date": "2027-07-15",
+   "end_date": "2027-07-18",
+   "page_url": "https://yarisradari.com/yaris/monte-rosa-walserwaeg-by-utmb",
+   "distances_km": [
+    120.0,
+    82.0,
+    43.0,
+    35.0,
+    15.0,
+    9.0
+   ]
+  },
+  {
+   "slug": "uludag-premium-ultra-trail-2027",
+   "name": "Uludağ Ultra Trail",
+   "start_date": "2027-07-17",
+   "end_date": "2027-07-19",
+   "page_url": "https://yarisradari.com/yaris/uludag-premium-ultra-trail-2027",
+   "distances_km": [
+    73.0,
+    44.0,
+    30.0,
+    16.0,
+    6.0
+   ]
+  },
+  {
+   "slug": "speedgoat-mountain-races-by-utmb",
+   "name": "Speedgoat Mountain Races by UTMB",
+   "start_date": "2027-07-22",
+   "end_date": "2027-07-24",
+   "page_url": "https://yarisradari.com/yaris/speedgoat-mountain-races-by-utmb",
+   "distances_km": [
+    50.0,
+    31.0,
+    10.0
+   ]
+  }
+ ]
+}
