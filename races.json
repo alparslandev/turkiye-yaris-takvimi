@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T16:57:42Z",
+ "generated_at": "2026-09-22T11:29:51Z",
  "source": "https://yarisradari.com",
  "license": "CC BY 4.0",
  "races": [
@@ -970,9 +970,9 @@
    "end_date": "2026-10-11",
    "page_url": "https://yarisradari.com/yaris/hoka-kodiak-ultra-marathons-by-utmb",
    "distances_km": [
-    99.0,
-    48.4,
-    10.5
+    99.5,
+    49.0,
+    10.0
    ]
   },
   {
@@ -1062,6 +1062,7 @@
    "distances_km": [
     21.0,
     10.0,
+    6.1,
     5.0
    ]
   },
@@ -1139,6 +1140,7 @@
    "end_date": "2026-10-18",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-mount-yun-by-utmb",
    "distances_km": [
+    161.0,
     97.0,
     48.0,
     22.0
@@ -1490,7 +1492,11 @@
    "start_date": "2026-10-31",
    "end_date": "2026-10-31",
    "page_url": "https://yarisradari.com/yaris/meturun-trail-kosusu",
-   "distances_km": []
+   "distances_km": [
+    70.0,
+    30.0,
+    15.0
+   ]
   },
   {
    "slug": "ironman-70-3",
@@ -1847,6 +1853,18 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-rio-de-janeiro",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "manisa-ultra-marathon",
+   "name": "MANİSA ULTRA MARATHON",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/manisa-ultra-marathon",
+   "distances_km": [
+    18.0,
+    10.0,
+    7.0
    ]
   },
   {
@@ -2357,6 +2375,14 @@
    "distances_km": [
     8.0
    ]
+  },
+  {
+   "slug": "winter-run-istanbul-v",
+   "name": "Winter Run İstanbul V.",
+   "start_date": "2027-02-07",
+   "end_date": "2027-02-07",
+   "page_url": "https://yarisradari.com/yaris/winter-run-istanbul-v",
+   "distances_km": []
   },
   {
    "slug": "hyrox-bangkok",
@@ -3150,7 +3176,7 @@
    "slug": "zugspitz-ultra-trail-by-utmb",
    "name": "Zugspitz Ultra Trail by UTMB",
    "start_date": "2027-06-17",
-   "end_date": "2027-06-19",
+   "end_date": "2027-06-20",
    "page_url": "https://yarisradari.com/yaris/zugspitz-ultra-trail-by-utmb",
    "distances_km": [
     167.0,
