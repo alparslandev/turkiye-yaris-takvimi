@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T11:29:51Z",
+ "generated_at": "2026-10-01T13:08:09Z",
  "source": "https://yarisradari.com",
  "license": "CC BY 4.0",
  "races": [
@@ -58,18 +58,6 @@
     30.0,
     15.0,
     5.0
-   ]
-  },
-  {
-   "slug": "ultra-sumela",
-   "name": "Ultra Sümela",
-   "start_date": "2026-06-06",
-   "end_date": "2026-06-06",
-   "page_url": "https://yarisradari.com/yaris/ultra-sumela",
-   "distances_km": [
-    61.0,
-    22.0,
-    10.0
    ]
   },
   {
@@ -341,6 +329,14 @@
    ]
   },
   {
+   "slug": "trans-anatolia",
+   "name": "Trans Anatolia",
+   "start_date": "2026-08-29",
+   "end_date": "2026-08-29",
+   "page_url": "https://yarisradari.com/yaris/trans-anatolia",
+   "distances_km": []
+  },
+  {
    "slug": "canakkale-bogazi-yuzme-yarismasi",
    "name": "Çanakkale Boğazı Yüzme Yarışması",
    "start_date": "2026-08-30",
@@ -349,6 +345,16 @@
    "distances_km": [
     6.5,
     4.5
+   ]
+  },
+  {
+   "slug": "mugla-zafer-kosusu",
+   "name": "Muğla Zafer Koşusu",
+   "start_date": "2026-08-30",
+   "end_date": "2026-08-30",
+   "page_url": "https://yarisradari.com/yaris/mugla-zafer-kosusu",
+   "distances_km": [
+    8.0
    ]
   },
   {
@@ -415,6 +421,16 @@
    "end_date": "2026-09-06",
    "page_url": "https://yarisradari.com/yaris/hybrid-track-race",
    "distances_km": []
+  },
+  {
+   "slug": "ismail-akcay-kosusu",
+   "name": "İsmail Akçay Koşusu",
+   "start_date": "2026-09-06",
+   "end_date": "2026-09-06",
+   "page_url": "https://yarisradari.com/yaris/ismail-akcay-kosusu",
+   "distances_km": [
+    10.0
+   ]
   },
   {
    "slug": "summer-run-istanbul",
@@ -491,6 +507,14 @@
     50.0,
     20.0
    ]
+  },
+  {
+   "slug": "quicksilver-beach-run",
+   "name": "Quicksilver Beach Run",
+   "start_date": "2026-09-12",
+   "end_date": "2026-09-12",
+   "page_url": "https://yarisradari.com/yaris/quicksilver-beach-run",
+   "distances_km": []
   },
   {
    "slug": "1-amasra-cesm-i-cihan-kosusu",
@@ -671,6 +695,17 @@
    ]
   },
   {
+   "slug": "tuzla-10k-5k-yol-kosusu",
+   "name": "Tuzla Run Fest",
+   "start_date": "2026-09-20",
+   "end_date": "2026-09-20",
+   "page_url": "https://yarisradari.com/yaris/tuzla-10k-5k-yol-kosusu",
+   "distances_km": [
+    10.0,
+    5.0
+   ]
+  },
+  {
    "slug": "hyrox-rome",
    "name": "HYROX Rome",
    "start_date": "2026-09-23",
@@ -753,6 +788,16 @@
    ]
   },
   {
+   "slug": "1-asmmmo",
+   "name": "ASMMMO 10K Yol Koşusu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/1-asmmmo",
+   "distances_km": [
+    10.0
+   ]
+  },
+  {
    "slug": "berlin-maratonu",
    "name": "Berlin Maratonu",
    "start_date": "2026-09-27",
@@ -790,6 +835,17 @@
    "start_date": "2026-09-27",
    "end_date": "2026-09-27",
    "page_url": "https://yarisradari.com/yaris/iskele-yari-maratonu",
+   "distances_km": [
+    21.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "krallar-vadisi-yari-maratonu",
+   "name": "Krallar Vadisi Yarı Maratonu",
+   "start_date": "2026-09-27",
+   "end_date": "2026-09-27",
+   "page_url": "https://yarisradari.com/yaris/krallar-vadisi-yari-maratonu",
    "distances_km": [
     21.0,
     10.0
@@ -834,7 +890,7 @@
    "page_url": "https://yarisradari.com/yaris/chihuahua-by-utmb",
    "distances_km": [
     118.0,
-    93.0,
+    94.0,
     58.0,
     39.0,
     21.0,
@@ -883,6 +939,14 @@
    "distances_km": [
     100.0
    ]
+  },
+  {
+   "slug": "15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi-kahramanmaras",
+   "name": "15. Uluslararası Afşin Elbistan Ultramaraton Şampiyonası",
+   "start_date": "2026-10-03",
+   "end_date": "2026-10-03",
+   "page_url": "https://yarisradari.com/yaris/15-uluslararasi-afsin-elbistan-ultramaraton-sampiyonasi-kahramanmaras",
+   "distances_km": []
   },
   {
    "slug": "beypazari-ultra-trail",
@@ -938,7 +1002,48 @@
    "distances_km": [
     42.0,
     15.0,
-    5.0
+    5.0,
+    2.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-buenos-aires-palermo",
+   "name": "IRONMAN 70.3 Buenos Aires Palermo",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-buenos-aires-palermo",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-waco",
+   "name": "IRONMAN 70.3 Waco",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-waco",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-calella-barcelona",
+   "name": "IRONMAN Calella-Barcelona",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-calella-barcelona",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-gurye-korea",
+   "name": "IRONMAN Gurye Korea",
+   "start_date": "2026-10-04",
+   "end_date": "2026-10-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-gurye-korea",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -970,7 +1075,7 @@
    "end_date": "2026-10-11",
    "page_url": "https://yarisradari.com/yaris/hoka-kodiak-ultra-marathons-by-utmb",
    "distances_km": [
-    99.5,
+    99.7,
     49.0,
     10.0
    ]
@@ -1003,6 +1108,16 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-geneva",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-world-championship",
+   "name": "IRONMAN World Championship",
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-10",
+   "page_url": "https://yarisradari.com/yaris/ironman-world-championship",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1063,7 +1178,21 @@
     21.0,
     10.0,
     6.1,
-    5.0
+    5.0,
+    4.4
+   ]
+  },
+  {
+   "slug": "gelibolu-maratonu",
+   "name": "Gelibolu Maratonu",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/gelibolu-maratonu",
+   "distances_km": [
+    42.0,
+    21.0,
+    10.0,
+    1.915
    ]
   },
   {
@@ -1078,6 +1207,26 @@
     5.0,
     3.0,
     1.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-encarnacion",
+   "name": "IRONMAN 70.3 Encarnacion",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-encarnacion",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-versailles",
+   "name": "IRONMAN 70.3 Versailles",
+   "start_date": "2026-10-11",
+   "end_date": "2026-10-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-versailles",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -1134,13 +1283,23 @@
    ]
   },
   {
+   "slug": "ironman-70-3-sharm-el-sheikh-egypt",
+   "name": "IRONMAN 70.3 Sharm El-Sheikh, Egypt",
+   "start_date": "2026-10-16",
+   "end_date": "2026-10-16",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-sharm-el-sheikh-egypt",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "ultra-trail-mount-yun-by-utmb",
    "name": "Ultra-Trail Mount Yun by UTMB®",
    "start_date": "2026-10-16",
    "end_date": "2026-10-18",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-mount-yun-by-utmb",
    "distances_km": [
-    161.0,
+    166.0,
     97.0,
     48.0,
     22.0
@@ -1164,6 +1323,36 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-sao-paulo",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-north-carolina",
+   "name": "IRONMAN 70.3 North Carolina",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-north-carolina",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-portugal-cascais",
+   "name": "IRONMAN 70.3 Portugal-Cascais",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-portugal-cascais",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-portugal-cascais",
+   "name": "IRONMAN Portugal-Cascais",
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-17",
+   "page_url": "https://yarisradari.com/yaris/ironman-portugal-cascais",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1195,6 +1384,66 @@
    "page_url": "https://yarisradari.com/yaris/bosphorun-quarter-marathon-bebek",
    "distances_km": [
     10.5
+   ]
+  },
+  {
+   "slug": "ironman-70-3-florianopolis",
+   "name": "IRONMAN 70.3 Florianopolis",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-florianopolis",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-malaga",
+   "name": "IRONMAN 70.3 Málaga",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-malaga",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-porec",
+   "name": "IRONMAN 70.3 Poreč",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-porec",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-port-macquarie",
+   "name": "IRONMAN 70.3 Port Macquarie",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-port-macquarie",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-australia",
+   "name": "IRONMAN Australia",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-australia",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-california",
+   "name": "IRONMAN California",
+   "start_date": "2026-10-18",
+   "end_date": "2026-10-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-california",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1289,6 +1538,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-dhofar",
+   "name": "IRONMAN 70.3 Dhofar",
+   "start_date": "2026-10-24",
+   "end_date": "2026-10-24",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-dhofar",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "17-uluslararasi-zeytinburnu-cumhuriyet-kosusu",
    "name": "17. Uluslararası Zeytinburnu Cumhuriyet Koşusu",
    "start_date": "2026-10-25",
@@ -1324,6 +1583,26 @@
    "page_url": "https://yarisradari.com/yaris/frankfurt-maratonu",
    "distances_km": [
     42.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-agadir",
+   "name": "IRONMAN 70.3 Agadir",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-agadir",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-costa-navarino-peloponnese-greece",
+   "name": "IRONMAN 70.3 Costa Navarino, Peloponnese, Greece",
+   "start_date": "2026-10-25",
+   "end_date": "2026-10-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-costa-navarino-peloponnese-greece",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -1487,6 +1766,14 @@
    ]
   },
   {
+   "slug": "manavgat-backyard-ultra",
+   "name": "Manavgat Backyard Ultra",
+   "start_date": "2026-10-31",
+   "end_date": "2026-10-31",
+   "page_url": "https://yarisradari.com/yaris/manavgat-backyard-ultra",
+   "distances_km": []
+  },
+  {
    "slug": "meturun-trail-kosusu",
    "name": "Meturun Trail Koşusu",
    "start_date": "2026-10-31",
@@ -1506,6 +1793,36 @@
    "page_url": "https://yarisradari.com/yaris/ironman-70-3",
    "distances_km": [
     113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-goa",
+   "name": "IRONMAN 70.3 Goa",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-goa",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-kenting",
+   "name": "IRONMAN 70.3 Kenting",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-kenting",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-san-juan",
+   "name": "IRONMAN San Juan",
+   "start_date": "2026-11-01",
+   "end_date": "2026-11-01",
+   "page_url": "https://yarisradari.com/yaris/ironman-san-juan",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1540,6 +1857,16 @@
     70.5,
     42.0,
     21.5
+   ]
+  },
+  {
+   "slug": "ironman-florida",
+   "name": "IRONMAN Florida",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-07",
+   "page_url": "https://yarisradari.com/yaris/ironman-florida",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1604,6 +1931,26 @@
    "distances_km": [
     21.0,
     10.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-campeche",
+   "name": "IRONMAN 70.3 Campeche",
+   "start_date": "2026-11-08",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-campeche",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-melbourne",
+   "name": "IRONMAN 70.3 Melbourne",
+   "start_date": "2026-11-08",
+   "end_date": "2026-11-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-melbourne",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -1766,6 +2113,16 @@
    "distances_km": []
   },
   {
+   "slug": "ironman-70-3-phu-quoc",
+   "name": "IRONMAN 70.3 Phu Quoc",
+   "start_date": "2026-11-15",
+   "end_date": "2026-11-15",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-phu-quoc",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "oyak-65-yil-ankara-kosusu",
    "name": "Oyak 65.Yıl Ankara Koşusu",
    "start_date": "2026-11-15",
@@ -1856,6 +2213,26 @@
    ]
   },
   {
+   "slug": "ironman-70-3-langkawi",
+   "name": "IRONMAN 70.3 Langkawi",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-21",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-langkawi",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-malaysia",
+   "name": "IRONMAN Malaysia",
+   "start_date": "2026-11-21",
+   "end_date": "2026-11-21",
+   "page_url": "https://yarisradari.com/yaris/ironman-malaysia",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
    "slug": "manisa-ultra-marathon",
    "name": "MANİSA ULTRA MARATHON",
    "start_date": "2026-11-21",
@@ -1900,6 +2277,26 @@
    "distances_km": [
     10.0,
     5.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-mossel-bay",
+   "name": "IRONMAN 70.3 Mossel Bay",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-mossel-bay",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-cozumel",
+   "name": "IRONMAN Cozumel",
+   "start_date": "2026-11-22",
+   "end_date": "2026-11-22",
+   "page_url": "https://yarisradari.com/yaris/ironman-cozumel",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -1959,10 +2356,10 @@
    "end_date": "2026-11-28",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-kosciuszko-by-utmb",
    "distances_km": [
-    161.0,
-    106.0,
-    50.0,
-    32.0
+    160.5,
+    105.6,
+    50.3,
+    33.0
    ]
   },
   {
@@ -2004,6 +2401,46 @@
     66.0,
     44.0,
     29.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-aracaju-sergipe",
+   "name": "IRONMAN 70.3 Aracaju-Sergipe",
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-aracaju-sergipe",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-cartagena",
+   "name": "IRONMAN 70.3 Cartagena",
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-cartagena",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-valdivia",
+   "name": "IRONMAN 70.3 Valdivia",
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-valdivia",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-valdivia",
+   "name": "IRONMAN Valdivia",
+   "start_date": "2026-11-29",
+   "end_date": "2026-11-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-valdivia",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -2061,12 +2498,62 @@
    ]
   },
   {
+   "slug": "ironman-oman",
+   "name": "IRONMAN Oman",
+   "start_date": "2026-12-05",
+   "end_date": "2026-12-05",
+   "page_url": "https://yarisradari.com/yaris/ironman-oman",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
    "slug": "gobeklitepe-yari-maratonu",
    "name": "Göbeklitepe Yarı Maratonu",
    "start_date": "2026-12-06",
    "end_date": "2026-12-06",
    "page_url": "https://yarisradari.com/yaris/gobeklitepe-yari-maratonu",
    "distances_km": []
+  },
+  {
+   "slug": "ironman-70-3-la-quinta",
+   "name": "IRONMAN 70.3 La Quinta",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-la-quinta",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-veracruz",
+   "name": "IRONMAN 70.3 Veracruz",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-veracruz",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-western-australia",
+   "name": "IRONMAN 70.3 Western Australia",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-western-australia",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-western-australia",
+   "name": "IRONMAN Western Australia",
+   "start_date": "2026-12-06",
+   "end_date": "2026-12-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-western-australia",
+   "distances_km": [
+    226.3
+   ]
   },
   {
    "slug": "st-nicholas-half-marathon",
@@ -2155,6 +2642,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-bahrain",
+   "name": "IRONMAN 70.3 Bahrain",
+   "start_date": "2026-12-11",
+   "end_date": "2026-12-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-bahrain",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "hyrox-paris",
    "name": "HYROX Paris",
    "start_date": "2026-12-12",
@@ -2174,6 +2671,16 @@
     21.0,
     10.0,
     5.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-florida",
+   "name": "IRONMAN 70.3 Florida",
+   "start_date": "2026-12-13",
+   "end_date": "2026-12-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-florida",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2276,6 +2783,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-pucon",
+   "name": "IRONMAN 70.3 Pucon",
+   "start_date": "2027-01-10",
+   "end_date": "2027-01-10",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-pucon",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "hyrox-noida",
    "name": "HYROX Noida",
    "start_date": "2027-01-15",
@@ -2283,6 +2800,17 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-noida",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "datca-acik-deniz-kis-yuzme-maratonu",
+   "name": "Datça Açık Deniz Kış Yüzme Maratonu",
+   "start_date": "2027-01-17",
+   "end_date": "2027-01-17",
+   "page_url": "https://yarisradari.com/yaris/datca-acik-deniz-kis-yuzme-maratonu",
+   "distances_km": [
+    5.0,
+    1.5
    ]
   },
   {
@@ -2347,6 +2875,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-nelson-mandela-bay",
+   "name": "IRONMAN 70.3 Nelson Mandela Bay",
+   "start_date": "2027-01-31",
+   "end_date": "2027-01-31",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-nelson-mandela-bay",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "hyrox-toulouse",
    "name": "HYROX Toulouse",
    "start_date": "2027-02-03",
@@ -2374,6 +2912,26 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-bilbao",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-muscat",
+   "name": "IRONMAN 70.3 Muscat",
+   "start_date": "2027-02-06",
+   "end_date": "2027-02-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-muscat",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-san-salvador",
+   "name": "IRONMAN 70.3 San Salvador",
+   "start_date": "2027-02-07",
+   "end_date": "2027-02-07",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-san-salvador",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2469,6 +3027,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-panama",
+   "name": "IRONMAN 70.3 Panama",
+   "start_date": "2027-02-28",
+   "end_date": "2027-02-28",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-panama",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "hyrox-mechelen",
    "name": "HYROX Mechelen",
    "start_date": "2027-03-03",
@@ -2504,6 +3072,36 @@
     26.0,
     11.0,
     2.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-new-zealand",
+   "name": "IRONMAN 70.3 New Zealand",
+   "start_date": "2027-03-06",
+   "end_date": "2027-03-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-new-zealand",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-new-zealand",
+   "name": "IRONMAN New Zealand",
+   "start_date": "2027-03-06",
+   "end_date": "2027-03-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-new-zealand",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-punta-del-este",
+   "name": "IRONMAN 70.3 Punta del Este",
+   "start_date": "2027-03-07",
+   "end_date": "2027-03-07",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-punta-del-este",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2544,6 +3142,46 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-taipei",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-dallas-little-elm",
+   "name": "IRONMAN 70.3 Dallas-Little Elm",
+   "start_date": "2027-03-14",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-dallas-little-elm",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-hengqin",
+   "name": "IRONMAN 70.3 Hengqin",
+   "start_date": "2027-03-14",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-hengqin",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-laoag",
+   "name": "IRONMAN 70.3 Laoag",
+   "start_date": "2027-03-14",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-laoag",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-puerto-rico",
+   "name": "IRONMAN 70.3 Puerto Rico",
+   "start_date": "2027-03-14",
+   "end_date": "2027-03-14",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-puerto-rico",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2591,6 +3229,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-doha",
+   "name": "IRONMAN 70.3 Doha",
+   "start_date": "2027-03-20",
+   "end_date": "2027-03-20",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-doha",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "47-trabzon-yari-maratonu",
    "name": "47. TRABZON YARI MARATONU",
    "start_date": "2027-03-21",
@@ -2599,6 +3247,26 @@
    "distances_km": [
     21.0,
     10.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-curitiba",
+   "name": "IRONMAN 70.3 Curitiba",
+   "start_date": "2027-03-21",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-curitiba",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-geelong",
+   "name": "IRONMAN 70.3 Geelong",
+   "start_date": "2027-03-21",
+   "end_date": "2027-03-21",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-geelong",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2672,6 +3340,21 @@
    ]
   },
   {
+   "slug": "jujuy-los-andes-by-utmb",
+   "name": "Jujuy Los Andes by UTMB",
+   "start_date": "2027-03-31",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/jujuy-los-andes-by-utmb",
+   "distances_km": [
+    87.2,
+    50.3,
+    34.0,
+    21.3,
+    11.9,
+    4.5
+   ]
+  },
+  {
    "slug": "hyrox-houston",
    "name": "HYROX Houston",
    "start_date": "2027-04-01",
@@ -2706,21 +3389,6 @@
    ]
   },
   {
-   "slug": "jujuy-los-andes-by-utmb",
-   "name": "Jujuy Los Andes by UTMB",
-   "start_date": "2027-04-01",
-   "end_date": "2027-04-04",
-   "page_url": "https://yarisradari.com/yaris/jujuy-los-andes-by-utmb",
-   "distances_km": [
-    87.2,
-    50.3,
-    34.0,
-    21.3,
-    11.9,
-    4.5
-   ]
-  },
-  {
    "slug": "hyrox-bari",
    "name": "HYROX Bari",
    "start_date": "2027-04-02",
@@ -2728,6 +3396,56 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-bari",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-oceanside",
+   "name": "IRONMAN 70.3 Oceanside",
+   "start_date": "2027-04-03",
+   "end_date": "2027-04-03",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-oceanside",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-vilamoura-algarve",
+   "name": "IRONMAN 70.3 Vilamoura-Algarve",
+   "start_date": "2027-04-03",
+   "end_date": "2027-04-03",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-vilamoura-algarve",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-barranquilla",
+   "name": "IRONMAN 70.3 Barranquilla",
+   "start_date": "2027-04-04",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-barranquilla",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-puerto-varas",
+   "name": "IRONMAN 70.3 Puerto Varas",
+   "start_date": "2027-04-04",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-puerto-varas",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-texas",
+   "name": "IRONMAN 70.3 Texas",
+   "start_date": "2027-04-04",
+   "end_date": "2027-04-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-texas",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2797,6 +3515,36 @@
    "distances_km": []
   },
   {
+   "slug": "ironman-70-3-los-cabos",
+   "name": "IRONMAN 70.3 Los Cabos",
+   "start_date": "2027-04-11",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-los-cabos",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-san-juan",
+   "name": "IRONMAN 70.3 San Juan",
+   "start_date": "2027-04-11",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-san-juan",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-penghu",
+   "name": "IRONMAN Penghu",
+   "start_date": "2027-04-11",
+   "end_date": "2027-04-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-penghu",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
    "slug": "paris-maratonu",
    "name": "Paris Maratonu",
    "start_date": "2027-04-11",
@@ -2844,6 +3592,36 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-nagoya",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-brasilia",
+   "name": "IRONMAN 70.3 Brasilia",
+   "start_date": "2027-04-18",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-brasilia",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-valencia",
+   "name": "IRONMAN 70.3 Valencia",
+   "start_date": "2027-04-18",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-valencia",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-south-africa-mossel-bay",
+   "name": "IRONMAN South Africa, Mossel Bay",
+   "start_date": "2027-04-18",
+   "end_date": "2027-04-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-south-africa-mossel-bay",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -2903,6 +3681,36 @@
    ]
   },
   {
+   "slug": "ironman-70-3-venice-jesolo",
+   "name": "IRONMAN 70.3 Venice-Jesolo",
+   "start_date": "2027-04-24",
+   "end_date": "2027-04-24",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-venice-jesolo",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-texas",
+   "name": "IRONMAN Texas",
+   "start_date": "2027-04-24",
+   "end_date": "2027-04-24",
+   "page_url": "https://yarisradari.com/yaris/ironman-texas",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-peru",
+   "name": "IRONMAN 70.3 Peru",
+   "start_date": "2027-04-25",
+   "end_date": "2027-04-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-peru",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "londra-maratonu",
    "name": "Londra Maratonu",
    "start_date": "2027-04-25",
@@ -2926,6 +3734,16 @@
    ]
   },
   {
+   "slug": "ironman-70-3-western-sydney",
+   "name": "IRONMAN 70.3 Western Sydney",
+   "start_date": "2027-05-02",
+   "end_date": "2027-05-02",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-western-sydney",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "hyrox-krakow",
    "name": "HYROX Kraków",
    "start_date": "2027-05-07",
@@ -2943,6 +3761,26 @@
    "page_url": "https://yarisradari.com/yaris/hyrox-sao-paulo-2027",
    "distances_km": [
     8.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-alcudia-mallorca",
+   "name": "IRONMAN 70.3 Alcúdia-Mallorca",
+   "start_date": "2027-05-08",
+   "end_date": "2027-05-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-alcudia-mallorca",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-gulf-coast",
+   "name": "IRONMAN 70.3 Gulf Coast",
+   "start_date": "2027-05-08",
+   "end_date": "2027-05-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-gulf-coast",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -2968,6 +3806,26 @@
     4.0,
     1.6,
     0.5
+   ]
+  },
+  {
+   "slug": "ironman-70-3-da-nang",
+   "name": "IRONMAN 70.3 Da Nang",
+   "start_date": "2027-05-09",
+   "end_date": "2027-05-09",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-da-nang",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-vietnam",
+   "name": "IRONMAN Vietnam",
+   "start_date": "2027-05-09",
+   "end_date": "2027-05-09",
+   "page_url": "https://yarisradari.com/yaris/ironman-vietnam",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3041,6 +3899,20 @@
    ]
   },
   {
+   "slug": "eryri-by-utmb",
+   "name": "Eryri by UTMB®",
+   "start_date": "2027-05-14",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/eryri-by-utmb",
+   "distances_km": [
+    163.0,
+    106.0,
+    78.0,
+    56.0,
+    22.0
+   ]
+  },
+  {
    "slug": "rothrock-by-utmb",
    "name": "Rothrock by UTMB",
    "start_date": "2027-05-14",
@@ -3049,6 +3921,36 @@
    "distances_km": [
     53.3,
     26.9
+   ]
+  },
+  {
+   "slug": "ironman-lanzarote",
+   "name": "IRONMAN Lanzarote",
+   "start_date": "2027-05-15",
+   "end_date": "2027-05-15",
+   "page_url": "https://yarisradari.com/yaris/ironman-lanzarote",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-chattanooga",
+   "name": "IRONMAN 70.3 Chattanooga",
+   "start_date": "2027-05-16",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-chattanooga",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-jacksonville",
+   "name": "IRONMAN Jacksonville",
+   "start_date": "2027-05-16",
+   "end_date": "2027-05-16",
+   "page_url": "https://yarisradari.com/yaris/ironman-jacksonville",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3081,6 +3983,56 @@
     24.0,
     10.0,
     5.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-aix-en-provence",
+   "name": "IRONMAN 70.3 Aix-en-Provence",
+   "start_date": "2027-05-23",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-aix-en-provence",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-kraichgau",
+   "name": "IRONMAN 70.3 Kraichgau",
+   "start_date": "2027-05-23",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-kraichgau",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-northern-california",
+   "name": "IRONMAN 70.3 Northern California",
+   "start_date": "2027-05-23",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-northern-california",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-pennsylvania-happy-valley",
+   "name": "IRONMAN 70.3 Pennsylvania Happy Valley",
+   "start_date": "2027-05-23",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-pennsylvania-happy-valley",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-st-polten",
+   "name": "IRONMAN 70.3 St. Pölten",
+   "start_date": "2027-05-23",
+   "end_date": "2027-05-23",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-st-polten",
+   "distances_km": [
+    113.1
    ]
   },
   {
@@ -3127,12 +4079,42 @@
    "distances_km": []
   },
   {
+   "slug": "ironman-70-3-alghero",
+   "name": "IRONMAN 70.3 Alghero",
+   "start_date": "2027-05-30",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-alghero",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-victoria",
+   "name": "IRONMAN 70.3 Victoria",
+   "start_date": "2027-05-30",
+   "end_date": "2027-05-30",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-victoria",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "ultra-trail-chattanooga-by-utmb",
    "name": "Ultra Trail Chattanooga by UTMB",
    "start_date": "2027-06-04",
    "end_date": "2027-06-06",
    "page_url": "https://yarisradari.com/yaris/ultra-trail-chattanooga-by-utmb",
    "distances_km": []
+  },
+  {
+   "slug": "ironman-70-3-hawai-i",
+   "name": "IRONMAN 70.3 Hawai`i",
+   "start_date": "2027-06-05",
+   "end_date": "2027-06-05",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-hawai-i",
+   "distances_km": [
+    113.1
+   ]
   },
   {
    "slug": "mozart-100-by-utmb",
@@ -3146,6 +4128,78 @@
     44.0,
     28.0,
     12.0
+   ]
+  },
+  {
+   "slug": "ultra-sumela",
+   "name": "Ultra Sümela",
+   "start_date": "2027-06-05",
+   "end_date": "2027-06-05",
+   "page_url": "https://yarisradari.com/yaris/ultra-sumela",
+   "distances_km": [
+    61.0,
+    22.0,
+    10.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-bolton",
+   "name": "IRONMAN 70.3 Bolton",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-bolton",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-durban",
+   "name": "IRONMAN 70.3 Durban",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-durban",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-omaha",
+   "name": "IRONMAN 70.3 Omaha",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-omaha",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-switzerland",
+   "name": "IRONMAN 70.3 Switzerland",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-switzerland",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-tours-metropole-loire-valley",
+   "name": "IRONMAN 70.3 Tours Metropole - Loire Valley",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-tours-metropole-loire-valley",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-hamburg",
+   "name": "IRONMAN Hamburg",
+   "start_date": "2027-06-06",
+   "end_date": "2027-06-06",
+   "page_url": "https://yarisradari.com/yaris/ironman-hamburg",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3170,6 +4224,104 @@
     50.0,
     24.9,
     10.0
+   ]
+  },
+  {
+   "slug": "trail-of-the-kings-lake-toba-by-utmb",
+   "name": "Trail of the Kings - Lake Toba by UTMB",
+   "start_date": "2027-06-11",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/trail-of-the-kings-lake-toba-by-utmb",
+   "distances_km": []
+  },
+  {
+   "slug": "ironman-70-3-boulder",
+   "name": "IRONMAN 70.3 Boulder",
+   "start_date": "2027-06-12",
+   "end_date": "2027-06-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-boulder",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-cairns",
+   "name": "IRONMAN 70.3 Cairns",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-cairns",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-davao-philippines",
+   "name": "IRONMAN 70.3 Davao Philippines",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-davao-philippines",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-eagleman",
+   "name": "IRONMAN 70.3 Eagleman",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-eagleman",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-rockford-illinois",
+   "name": "IRONMAN 70.3 Rockford - Illinois",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-rockford-illinois",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-brazil",
+   "name": "IRONMAN Brazil",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-brazil",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-cairns",
+   "name": "IRONMAN Cairns",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-cairns",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-kaernten-klagenfurt-austria",
+   "name": "IRONMAN Kaernten-Klagenfurt, Austria",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-kaernten-klagenfurt-austria",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-philippines-davao-city",
+   "name": "IRONMAN Philippines Davao City",
+   "start_date": "2027-06-13",
+   "end_date": "2027-06-13",
+   "page_url": "https://yarisradari.com/yaris/ironman-philippines-davao-city",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3203,6 +4355,26 @@
    ]
   },
   {
+   "slug": "ironman-70-3-mont-tremblant",
+   "name": "IRONMAN 70.3 Mont-Tremblant",
+   "start_date": "2027-06-20",
+   "end_date": "2027-06-20",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-mont-tremblant",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-westfriesland",
+   "name": "IRONMAN 70.3 Westfriesland",
+   "start_date": "2027-06-20",
+   "end_date": "2027-06-20",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-westfriesland",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "la-sportiva-lavaredo-ultra-trail-by-utmb",
    "name": "La Sportiva Lavaredo Ultra Trail by UTMB",
    "start_date": "2027-06-23",
@@ -3229,6 +4401,56 @@
     20.0,
     12.0,
     6.5
+   ]
+  },
+  {
+   "slug": "ironman-70-3-coeur-d-alene",
+   "name": "IRONMAN 70.3 Coeur d'Alene",
+   "start_date": "2027-06-27",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-coeur-d-alene",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-elsinore",
+   "name": "IRONMAN 70.3 Elsinore",
+   "start_date": "2027-06-27",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-elsinore",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-frankfurt",
+   "name": "IRONMAN Frankfurt",
+   "start_date": "2027-06-27",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/ironman-frankfurt",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-les-sables-d-olonne-vendee",
+   "name": "IRONMAN Les Sables d'Olonne-Vendee",
+   "start_date": "2027-06-27",
+   "end_date": "2027-06-27",
+   "page_url": "https://yarisradari.com/yaris/ironman-les-sables-d-olonne-vendee",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-switzerland-thun",
+   "name": "IRONMAN Switzerland Thun",
+   "start_date": "2027-07-04",
+   "end_date": "2027-07-04",
+   "page_url": "https://yarisradari.com/yaris/ironman-switzerland-thun",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3271,6 +4493,86 @@
     77.0,
     47.0,
     43.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-muncie",
+   "name": "IRONMAN 70.3 Muncie",
+   "start_date": "2027-07-10",
+   "end_date": "2027-07-10",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-muncie",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-jonkoping",
+   "name": "IRONMAN 70.3 Jonkoping",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-jonkoping",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-luxembourg",
+   "name": "IRONMAN 70.3 Luxembourg",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-luxembourg",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-musselman",
+   "name": "IRONMAN 70.3 Musselman",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-musselman",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-ruidoso-new-mexico",
+   "name": "IRONMAN 70.3 Ruidoso New Mexico",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-ruidoso-new-mexico",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-swansea",
+   "name": "IRONMAN 70.3 Swansea",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-swansea",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-vitoria-gasteiz",
+   "name": "IRONMAN 70.3 Vitoria-Gasteiz",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-vitoria-gasteiz",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-vitoria-gasteiz",
+   "name": "IRONMAN Vitoria-Gasteiz",
+   "start_date": "2027-07-11",
+   "end_date": "2027-07-11",
+   "page_url": "https://yarisradari.com/yaris/ironman-vitoria-gasteiz",
+   "distances_km": [
+    226.3
    ]
   },
   {
@@ -3318,6 +4620,36 @@
    ]
   },
   {
+   "slug": "ironman-70-3-muskoka",
+   "name": "IRONMAN 70.3 Muskoka",
+   "start_date": "2027-07-18",
+   "end_date": "2027-07-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-muskoka",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-ohio",
+   "name": "IRONMAN 70.3 Ohio",
+   "start_date": "2027-07-18",
+   "end_date": "2027-07-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-ohio",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-oregon",
+   "name": "IRONMAN 70.3 Oregon",
+   "start_date": "2027-07-18",
+   "end_date": "2027-07-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-oregon",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
    "slug": "speedgoat-mountain-races-by-utmb",
    "name": "Speedgoat Mountain Races by UTMB",
    "start_date": "2027-07-22",
@@ -3327,6 +4659,296 @@
     50.0,
     31.0,
     10.0
+   ]
+  },
+  {
+   "slug": "ironman-70-3-boise",
+   "name": "IRONMAN 70.3 Boise",
+   "start_date": "2027-07-24",
+   "end_date": "2027-07-24",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-boise",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-desaru-coast",
+   "name": "IRONMAN 70.3 Desaru Coast",
+   "start_date": "2027-07-25",
+   "end_date": "2027-07-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-desaru-coast",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-maine",
+   "name": "IRONMAN 70.3 Maine",
+   "start_date": "2027-07-25",
+   "end_date": "2027-07-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-maine",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-lake-placid",
+   "name": "IRONMAN Lake Placid",
+   "start_date": "2027-07-25",
+   "end_date": "2027-07-25",
+   "page_url": "https://yarisradari.com/yaris/ironman-lake-placid",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-tallinn",
+   "name": "IRONMAN Tallinn",
+   "start_date": "2027-08-07",
+   "end_date": "2027-08-07",
+   "page_url": "https://yarisradari.com/yaris/ironman-tallinn",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-leipzig",
+   "name": "IRONMAN 70.3 Leipzig",
+   "start_date": "2027-08-08",
+   "end_date": "2027-08-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-leipzig",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-rio-de-janeiro",
+   "name": "IRONMAN 70.3 Rio de Janeiro",
+   "start_date": "2027-08-08",
+   "end_date": "2027-08-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-rio-de-janeiro",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-tallinn",
+   "name": "IRONMAN 70.3 Tallinn",
+   "start_date": "2027-08-08",
+   "end_date": "2027-08-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-tallinn",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-canada-ottawa",
+   "name": "IRONMAN Canada-Ottawa",
+   "start_date": "2027-08-08",
+   "end_date": "2027-08-08",
+   "page_url": "https://yarisradari.com/yaris/ironman-canada-ottawa",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-leeds",
+   "name": "IRONMAN Leeds",
+   "start_date": "2027-08-15",
+   "end_date": "2027-08-15",
+   "page_url": "https://yarisradari.com/yaris/ironman-leeds",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-kalmar-sweden",
+   "name": "IRONMAN Kalmar-Sweden",
+   "start_date": "2027-08-21",
+   "end_date": "2027-08-21",
+   "page_url": "https://yarisradari.com/yaris/ironman-kalmar-sweden",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-vichy",
+   "name": "IRONMAN 70.3 Vichy",
+   "start_date": "2027-08-22",
+   "end_date": "2027-08-22",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-vichy",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-copenhagen",
+   "name": "IRONMAN Copenhagen",
+   "start_date": "2027-08-22",
+   "end_date": "2027-08-22",
+   "page_url": "https://yarisradari.com/yaris/ironman-copenhagen",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-vichy",
+   "name": "IRONMAN Vichy",
+   "start_date": "2027-08-22",
+   "end_date": "2027-08-22",
+   "page_url": "https://yarisradari.com/yaris/ironman-vichy",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-duisburg",
+   "name": "IRONMAN 70.3 Duisburg",
+   "start_date": "2027-08-29",
+   "end_date": "2027-08-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-duisburg",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-zell-am-see-kaprun",
+   "name": "IRONMAN 70.3 Zell am See-Kaprun",
+   "start_date": "2027-08-29",
+   "end_date": "2027-08-29",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-zell-am-see-kaprun",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-belgium-knokke-heist",
+   "name": "IRONMAN Belgium Knokke-Heist",
+   "start_date": "2027-09-05",
+   "end_date": "2027-09-05",
+   "page_url": "https://yarisradari.com/yaris/ironman-belgium-knokke-heist",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-erkner",
+   "name": "IRONMAN 70.3 Erkner",
+   "start_date": "2027-09-12",
+   "end_date": "2027-09-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-erkner",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-nice",
+   "name": "IRONMAN 70.3 Nice",
+   "start_date": "2027-09-12",
+   "end_date": "2027-09-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-nice",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-sunshine-coast",
+   "name": "IRONMAN 70.3 Sunshine Coast",
+   "start_date": "2027-09-12",
+   "end_date": "2027-09-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-sunshine-coast",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-weymouth",
+   "name": "IRONMAN 70.3 Weymouth",
+   "start_date": "2027-09-12",
+   "end_date": "2027-09-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-weymouth",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-france",
+   "name": "IRONMAN France",
+   "start_date": "2027-09-12",
+   "end_date": "2027-09-12",
+   "page_url": "https://yarisradari.com/yaris/ironman-france",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-italy-emilia-romagna",
+   "name": "IRONMAN Italy Emilia Romagna",
+   "start_date": "2027-09-18",
+   "end_date": "2027-09-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-italy-emilia-romagna",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-maryland",
+   "name": "IRONMAN Maryland",
+   "start_date": "2027-09-18",
+   "end_date": "2027-09-18",
+   "page_url": "https://yarisradari.com/yaris/ironman-maryland",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-emilia-romagna",
+   "name": "IRONMAN 70.3 Emilia Romagna",
+   "start_date": "2027-09-19",
+   "end_date": "2027-09-19",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-emilia-romagna",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-sao-paulo",
+   "name": "IRONMAN 70.3 São Paulo",
+   "start_date": "2027-09-19",
+   "end_date": "2027-09-19",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-sao-paulo",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-wales",
+   "name": "IRONMAN Wales",
+   "start_date": "2027-09-19",
+   "end_date": "2027-09-19",
+   "page_url": "https://yarisradari.com/yaris/ironman-wales",
+   "distances_km": [
+    226.3
+   ]
+  },
+  {
+   "slug": "ironman-70-3-cozumel",
+   "name": "IRONMAN 70.3 Cozumel",
+   "start_date": "2027-09-26",
+   "end_date": "2027-09-26",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-cozumel",
+   "distances_km": [
+    113.1
+   ]
+  },
+  {
+   "slug": "ironman-70-3-mamaia-constanta-romania",
+   "name": "IRONMAN 70.3 Mamaia Constanta, Romania",
+   "start_date": "2027-09-26",
+   "end_date": "2027-09-26",
+   "page_url": "https://yarisradari.com/yaris/ironman-70-3-mamaia-constanta-romania",
+   "distances_km": [
+    113.1
    ]
   }
  ]

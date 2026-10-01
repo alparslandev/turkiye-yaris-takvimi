@@ -2,11 +2,11 @@
 
 Türkiye'deki koşu, patika koşusu, bisiklet, yüzme ve triatlon yarışlarının açık
 takvimi: yarışın adı, tarihi, mesafeleri ve kendi sayfasının adresi. Kaynak:
-[Yarış Radarı](https://yarisradari.com). Her gün otomatik güncellenir.
+[Yarış Radarı](https://yarisradari.com). Ayda bir otomatik güncellenir.
 
 Open race calendar for running, trail, cycling, swimming and triathlon events in
 Türkiye: race name, date, distances and the address of its page. Source:
-[Yarış Radarı](https://yarisradari.com), refreshed daily.
+[Yarış Radarı](https://yarisradari.com), refreshed monthly.
 
 ## Dosyalar
 
